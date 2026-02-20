@@ -1,7 +1,7 @@
 ---
 title: "God's Grace Is Enough: A Devotion on 2 Corinthians 12:9"
 description: "A daily devotion on weakness and God's sufficient grace. Find rest for your soul in God's unchanging truth."
-publishDate: 2026-03-18
+publishDate: 2026-02-16
 author: "David Park"
 authorId: "david-park"
 category: "daily-devotion"

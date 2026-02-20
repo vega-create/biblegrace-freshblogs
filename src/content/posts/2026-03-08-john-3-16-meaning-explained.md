@@ -1,7 +1,7 @@
 ---
 title: "What Does John 3:16 Really Mean? Complete Explanation"
 description: "A deep dive into John 3:16 — historical context, original language, and life-changing application for today."
-publishDate: 2026-03-08
+publishDate: 2026-02-06
 author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "bible-study"

@@ -1,7 +1,7 @@
 ---
 title: "Do Pets Go to Heaven? What the Bible Tells Us"
 description: "Will we see our pets in heaven? Explore what Scripture says about animals and God's eternal creation."
-publishDate: 2026-02-24
+publishDate: 2026-01-25
 author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "faith-questions"

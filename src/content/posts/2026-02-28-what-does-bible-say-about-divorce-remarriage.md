@@ -1,7 +1,7 @@
 ---
 title: "What Does the Bible Say About Divorce and Remarriage?"
 description: "A compassionate, scripture-based guide to divorce, remarriage, and God's heart for the brokenhearted."
-publishDate: 2026-02-28
+publishDate: 2026-01-29
 author: "David Park"
 authorId: "david-park"
 category: "faith-questions"

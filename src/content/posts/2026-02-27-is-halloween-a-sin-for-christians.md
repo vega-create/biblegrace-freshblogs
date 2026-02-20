@@ -1,7 +1,7 @@
 ---
 title: "Is Halloween a Sin for Christians? How Believers Can Navigate the Holiday"
 description: "Should Christians celebrate Halloween? A balanced look at origins, principles, and family choices."
-publishDate: 2026-02-27
+publishDate: 2026-01-28
 author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "faith-questions"

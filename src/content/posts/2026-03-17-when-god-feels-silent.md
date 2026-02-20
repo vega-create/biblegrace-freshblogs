@@ -1,7 +1,7 @@
 ---
 title: "When God Feels Silent: Trusting in the Waiting"
 description: "A daily devotion on God's silence and seasons of waiting. Find rest for your soul in God's unchanging truth."
-publishDate: 2026-03-17
+publishDate: 2026-02-15
 author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "daily-devotion"

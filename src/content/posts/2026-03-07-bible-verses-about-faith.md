@@ -1,7 +1,7 @@
 ---
 title: "30 Powerful Bible Verses About Faith"
 description: "A curated collection of Bible verses about faith and trust in God — organized by theme for when you need God's Word most."
-publishDate: 2026-03-07
+publishDate: 2026-02-05
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "bible-verses"

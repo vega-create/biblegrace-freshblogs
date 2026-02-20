@@ -1,7 +1,7 @@
 ---
 title: "25 Bible Verses About Anxiety and Worry"
 description: "A curated collection of Bible verses about anxiety and worry — organized by theme for when you need God's Word most."
-publishDate: 2026-03-03
+publishDate: 2026-02-01
 author: "David Park"
 authorId: "david-park"
 category: "bible-verses"

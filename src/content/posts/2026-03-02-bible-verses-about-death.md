@@ -1,7 +1,7 @@
 ---
 title: "30 Comforting Bible Verses About Death and Loss"
 description: "A curated collection of Bible verses about death and loss — organized by theme for when you need God's Word most."
-publishDate: 2026-03-02
+publishDate: 2026-01-31
 author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "bible-verses"

@@ -1,7 +1,7 @@
 ---
 title: "What Is the Unforgivable Sin? Understanding Blasphemy Against the Holy Spirit"
 description: "Have you committed the unforgivable sin? Learn what Jesus meant and find peace in God's overwhelming grace."
-publishDate: 2026-02-26
+publishDate: 2026-01-27
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "faith-questions"

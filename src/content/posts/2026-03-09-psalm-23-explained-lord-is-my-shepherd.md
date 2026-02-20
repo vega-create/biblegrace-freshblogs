@@ -1,7 +1,7 @@
 ---
 title: "Psalm 23 Explained: The Lord Is My Shepherd"
 description: "A deep dive into Psalm 23 — historical context, original language, and life-changing application for today."
-publishDate: 2026-03-09
+publishDate: 2026-02-07
 author: "David Park"
 authorId: "david-park"
 category: "bible-study"

@@ -1,7 +1,7 @@
 ---
 title: "What Happens When You Die? A Biblical Guide to the Afterlife"
 description: "What does the Bible teach about death and the afterlife? A clear look at heaven, hell, and what Scripture reveals."
-publishDate: 2026-02-23
+publishDate: 2026-01-24
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "faith-questions"

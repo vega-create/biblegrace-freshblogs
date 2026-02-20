@@ -1,7 +1,7 @@
 ---
 title: "Finding Peace in Uncertain Times: A Daily Devotion"
 description: "A daily devotion on uncertainty and finding peace. Find rest for your soul in God's unchanging truth."
-publishDate: 2026-03-16
+publishDate: 2026-02-14
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "daily-devotion"

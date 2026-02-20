@@ -1,7 +1,7 @@
 ---
 title: "Can Christians Drink Alcohol? What the Bible Really Says"
 description: "Explore what the Bible teaches about alcohol — with verses, context, and practical wisdom for believers."
-publishDate: 2026-02-21
+publishDate: 2026-01-22
 author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "faith-questions"

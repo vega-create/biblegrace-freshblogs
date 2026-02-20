@@ -1,7 +1,7 @@
 ---
 title: "30 Short Bible Verses for Daily Encouragement"
 description: "A curated collection of Bible verses about daily encouragement — organized by theme for when you need God's Word most."
-publishDate: 2026-03-06
+publishDate: 2026-02-04
 author: "David Park"
 authorId: "david-park"
 category: "bible-verses"

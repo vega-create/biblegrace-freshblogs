@@ -1,7 +1,7 @@
 ---
 title: "50 Bible Verses About Strength in Hard Times"
 description: "A curated collection of Bible verses about strength in hard times — organized by theme for when you need God's Word most."
-publishDate: 2026-03-01
+publishDate: 2026-01-30
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "bible-verses"

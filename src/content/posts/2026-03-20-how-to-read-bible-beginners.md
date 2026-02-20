@@ -1,7 +1,7 @@
 ---
 title: "How to Read the Bible for Beginners: A Step-by-Step Guide"
 description: "Practical biblical wisdom for navigating starting a Bible reading habit as a Christian. Honest, compassionate, and rooted in Scripture."
-publishDate: 2026-03-20
+publishDate: 2026-02-18
 author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "christian-living"

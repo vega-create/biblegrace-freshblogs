@@ -1,7 +1,7 @@
 ---
 title: "Is It a Sin to Get a Tattoo? Biblical Perspective Explained"
 description: "What does the Bible say about tattoos? We examine Leviticus 19:28, the New Covenant, and Christian freedom."
-publishDate: 2026-02-22
+publishDate: 2026-01-23
 author: "David Park"
 authorId: "david-park"
 category: "faith-questions"

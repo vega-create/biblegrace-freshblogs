@@ -1,7 +1,7 @@
 ---
 title: "What Does the Bible Say About Depression?"
 description: "Practical biblical wisdom for navigating depression and mental health as a Christian. Honest, compassionate, and rooted in Scripture."
-publishDate: 2026-03-19
+publishDate: 2026-02-17
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "christian-living"

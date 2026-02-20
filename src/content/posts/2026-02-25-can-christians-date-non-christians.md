@@ -1,7 +1,7 @@
 ---
 title: "Can Christians Date Non-Christians? A Thoughtful Biblical Answer"
 description: "Should Christians only date believers? A compassionate biblical exploration of faith in relationships."
-publishDate: 2026-02-25
+publishDate: 2026-01-26
 author: "David Park"
 authorId: "david-park"
 category: "faith-questions"

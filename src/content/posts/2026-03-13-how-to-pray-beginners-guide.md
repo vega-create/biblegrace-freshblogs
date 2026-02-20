@@ -1,7 +1,7 @@
 ---
 title: "How to Pray: A Beginner's Guide for New Christians"
 description: "Strengthen your prayer life with this guide to getting started with prayer. Scripture-based prayers and practical tips for daily communion with God."
-publishDate: 2026-03-13
+publishDate: 2026-02-11
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "prayer"

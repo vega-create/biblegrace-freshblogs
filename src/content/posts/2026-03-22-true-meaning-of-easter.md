@@ -1,7 +1,7 @@
 ---
 title: "The True Meaning of Easter: Beyond the Eggs and Bunnies"
 description: "Easter is Christianity's most important day. Discover the resurrection story and why it changes everything."
-publishDate: 2026-03-22
+publishDate: 2026-02-20
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "holidays"

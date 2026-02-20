@@ -1,7 +1,7 @@
 ---
 title: "40 Bible Verses About Love and Relationships"
 description: "A curated collection of Bible verses about love and relationships — organized by theme for when you need God's Word most."
-publishDate: 2026-03-04
+publishDate: 2026-02-02
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "bible-verses"

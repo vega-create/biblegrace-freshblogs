@@ -1,7 +1,7 @@
 ---
 title: "The Fruit of the Spirit: Galatians 5:22-23 Explained"
 description: "A deep dive into Galatians 5:22-23 — historical context, original language, and life-changing application for today."
-publishDate: 2026-03-10
+publishDate: 2026-02-08
 author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "bible-study"

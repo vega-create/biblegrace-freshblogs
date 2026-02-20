@@ -1,7 +1,7 @@
 ---
 title: "Prayers for Healing: Scripture-Based Prayers for the Sick"
 description: "Strengthen your prayer life with this guide to healing and wholeness. Scripture-based prayers and practical tips for daily communion with God."
-publishDate: 2026-03-15
+publishDate: 2026-02-13
 author: "David Park"
 authorId: "david-park"
 category: "prayer"

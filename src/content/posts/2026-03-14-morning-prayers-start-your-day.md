@@ -1,7 +1,7 @@
 ---
 title: "10 Morning Prayers to Start Your Day Right"
 description: "Strengthen your prayer life with this guide to morning devotion and daily renewal. Scripture-based prayers and practical tips for daily communion with God."
-publishDate: 2026-03-14
+publishDate: 2026-02-12
 author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "prayer"

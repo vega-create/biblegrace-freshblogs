@@ -1,7 +1,7 @@
 ---
 title: "Romans 8:28 Meaning: All Things Work Together for Good"
 description: "A deep dive into Romans 8:28 — historical context, original language, and life-changing application for today."
-publishDate: 2026-03-12
+publishDate: 2026-02-10
 author: "David Park"
 authorId: "david-park"
 category: "bible-study"

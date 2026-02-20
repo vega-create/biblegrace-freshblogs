@@ -1,7 +1,7 @@
 ---
 title: "How to Forgive Someone Who Hurt You Deeply"
 description: "Practical biblical wisdom for navigating forgiveness and letting go as a Christian. Honest, compassionate, and rooted in Scripture."
-publishDate: 2026-03-21
+publishDate: 2026-02-19
 author: "David Park"
 authorId: "david-park"
 category: "christian-living"

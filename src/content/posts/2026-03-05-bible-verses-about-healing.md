@@ -1,7 +1,7 @@
 ---
 title: "20 Bible Verses for Healing and Recovery"
 description: "A curated collection of Bible verses about healing and recovery — organized by theme for when you need God's Word most."
-publishDate: 2026-03-05
+publishDate: 2026-02-03
 author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "bible-verses"
