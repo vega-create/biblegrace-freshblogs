@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import PrayerGenerator from '../../components/tools/PrayerGenerator.jsx';
+---
+
+<BaseLayout
+  title="Prayer Generator — Find the Right Words to Pray"
+  description="Need help praying? Our prayer generator provides heartfelt prayers for healing, strength, anxiety, family, gratitude, and more."
+>
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <Breadcrumb items={[
+      { name: 'Home', href: '/' },
+      { name: 'Faith Tools', href: '/tools' },
+      { name: 'Prayer Generator', href: '/tools/prayer-generator' }
+    ]} />
+
+    <div class="text-center mt-6 mb-10">
+      <h1 class="text-3xl md:text-4xl font-display font-bold text-dark">
+        🙏 Prayer Generator
+      </h1>
+      <p class="text-text-secondary mt-3">
+        Sometimes we don't know what to pray. Choose a topic and find heartfelt prayers with scripture to guide your conversation with God.
+      </p>
+    </div>
+
+    <PrayerGenerator client:load />
+  </div>
+</BaseLayout>

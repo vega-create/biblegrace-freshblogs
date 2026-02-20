@@ -1,0 +1,23 @@
+---
+interface Props {
+  headings: Array<{ depth: number; slug: string; text: string }>;
+}
+
+const { headings } = Astro.props;
+const toc = headings.filter(h => h.depth === 2);
+---
+
+{toc.length > 0 && (
+  <nav class="bg-card-bg rounded-xl p-6 mb-8">
+    <p class="font-display font-semibold text-dark mb-3">📋 In This Article</p>
+    <ol class="space-y-2">
+      {toc.map((heading, i) => (
+        <li>
+          <a href={`#${heading.slug}`} class="text-text-secondary hover:text-primary transition-colors text-sm">
+            {i + 1}. {heading.text}
+          </a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}

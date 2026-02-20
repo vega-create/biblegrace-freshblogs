@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import BibleQuiz from '../../components/tools/BibleQuiz.jsx';
+---
+
+<BaseLayout
+  title="Bible Quiz — Test Your Bible Knowledge"
+  description="How well do you know the Bible? Take our free Bible quiz with questions from easy to hard. Test your knowledge of Old and New Testament."
+>
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <Breadcrumb items={[
+      { name: 'Home', href: '/' },
+      { name: 'Faith Tools', href: '/tools' },
+      { name: 'Bible Quiz', href: '/tools/bible-quiz' }
+    ]} />
+
+    <div class="text-center mt-6 mb-10">
+      <h1 class="text-3xl md:text-4xl font-display font-bold text-dark">
+        🧠 Bible Knowledge Quiz
+      </h1>
+      <p class="text-text-secondary mt-3">
+        Test your knowledge with 40+ questions spanning the Old and New Testament. Choose your difficulty and see how you score!
+      </p>
+    </div>
+
+    <BibleQuiz client:load />
+  </div>
+</BaseLayout>

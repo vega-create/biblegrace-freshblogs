@@ -1,0 +1,23 @@
+---
+interface Props {
+  author: {
+    id: string;
+    name: string;
+    role: string;
+    bio: string;
+  };
+}
+
+const { author } = Astro.props;
+---
+
+<div class="bg-card-bg rounded-xl p-6 mt-10 flex items-start gap-4">
+  <div class="w-14 h-14 rounded-full bg-primary text-white flex items-center justify-center font-display text-xl font-bold flex-shrink-0">
+    {author.name.charAt(0)}
+  </div>
+  <div>
+    <p class="font-display font-semibold text-dark">{author.name}</p>
+    <p class="text-text-secondary text-sm">{author.role}</p>
+    <p class="text-text-main text-sm mt-2">{author.bio}</p>
+  </div>
+</div>

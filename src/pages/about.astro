@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { siteConfig } from '../../site.config';
+---
+
+<BaseLayout title="About BibleGrace" description="Learn about BibleGrace — our mission to make Bible study accessible, engaging, and free for everyone.">
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <Breadcrumb items={[
+      { name: 'Home', href: '/' },
+      { name: 'About', href: '/about' }
+    ]} />
+
+    <h1 class="text-3xl md:text-4xl font-display font-bold text-dark mt-6 mb-8">
+      About BibleGrace
+    </h1>
+
+    <div class="prose prose-lg max-w-none">
+      <p>
+        BibleGrace was created with a simple mission: to make God's Word accessible, 
+        engaging, and free for everyone. Whether you're a lifelong believer or just beginning 
+        to explore the Bible, our tools and content are designed to meet you where you are.
+      </p>
+
+      <h2>Our Mission</h2>
+      <p>
+        We believe that daily engagement with Scripture can transform lives. Through interactive 
+        tools like our Daily Verse, Verse Finder, Bible Quiz, and Prayer Generator, we aim to 
+        make Bible study not just educational, but enjoyable and personally meaningful.
+      </p>
+
+      <h2>What We Offer</h2>
+      <p>
+        BibleGrace provides a growing collection of free resources, including daily devotionals, 
+        Bible study guides, faith-based articles addressing life's biggest questions, and 
+        interactive tools that make exploring Scripture fun and accessible. All Bible verses 
+        are from the King James Version (KJV), one of the most widely read and beloved 
+        English translations.
+      </p>
+
+      <h2>Our Approach</h2>
+      <p>
+        We strive to present Biblical truth with warmth, grace, and inclusivity. Our content 
+        is non-denominational — we focus on the core truths of Scripture that unite all 
+        Christians rather than the theological differences that can divide. We believe in 
+        meeting readers with compassion, answering questions honestly, and always pointing 
+        back to God's Word.
+      </p>
+
+      <h2>Our Team</h2>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-6 mt-8 mb-12">
+      {siteConfig.authors.map(author => (
+        <div class="bg-white rounded-xl p-6 shadow-md text-center">
+          <div class="w-16 h-16 rounded-full mx-auto mb-4 flex items-center justify-center text-2xl font-bold text-white" style="background-color: #D4A843;">
+            {author.name.charAt(0)}
+          </div>
+          <h3 class="font-display font-bold text-dark">{author.name}</h3>
+          <p class="text-sm text-primary font-medium">{author.role}</p>
+          <p class="text-sm text-text-secondary mt-2">{author.bio}</p>
+        </div>
+      ))}
+    </div>
+
+    <div class="text-center py-8 rounded-xl" style="background-color: #FAF0D7;">
+      <p class="text-lg font-medium text-dark">Questions or feedback?</p>
+      <p class="text-text-secondary mt-2">We'd love to hear from you.</p>
+      <a href="/contact" class="btn-primary mt-4 inline-block">Contact Us</a>
+    </div>
+  </div>
+</BaseLayout>

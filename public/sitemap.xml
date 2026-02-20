@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://biblegrace.freshblogs.cc/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/tools</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/tools/daily-verse</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/tools/verse-finder</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/tools/bible-quiz</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/tools/prayer-generator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/tools/verse-card</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/tools/reading-plan</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/tools/bible-timeline</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/tools/name-meaning</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/category/daily-devotion</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/category/bible-study</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/category/faith-questions</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/category/bible-verses</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/category/prayer</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/category/christian-living</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/category/holidays</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/about</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://biblegrace.freshblogs.cc/contact</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+</urlset>

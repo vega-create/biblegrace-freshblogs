@@ -1,0 +1,130 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import DailyVerse from '../components/tools/DailyVerse.jsx';
+import { siteConfig } from '../../site.config';
+
+// Get all posts
+const allPosts = await Astro.glob('./posts/*.md');
+const posts = allPosts
+  .filter(p => p.frontmatter.draft !== true)
+  .sort((a, b) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime())
+  .slice(0, 6);
+---
+
+<BaseLayout>
+  {/* Hero Section */}
+  <section class="py-12 md:py-16 px-4" style="background: linear-gradient(135deg, #3B2412 0%, #5C3A1E 100%);">
+    <div class="max-w-4xl mx-auto text-center">
+      <p class="text-primary text-lg font-medium mb-3">✝ Welcome to BibleGrace</p>
+      <h1 class="text-3xl md:text-5xl font-display font-bold text-white leading-tight mb-4">
+        Daily Bible Verses, Devotionals<br />& Free Faith Tools
+      </h1>
+      <p class="text-gray-300 text-lg max-w-2xl mx-auto mb-8">
+        Discover God's Word every day. Explore scripture by topic, test your Bible knowledge, 
+        and grow closer to God with our free interactive tools.
+      </p>
+      <div class="flex flex-wrap gap-4 justify-center">
+        <a href="/tools/daily-verse" class="btn-primary text-lg">📖 Today's Verse</a>
+        <a href="/tools" class="btn-secondary text-lg border-white text-white hover:bg-white hover:text-dark">🔧 Explore Tools</a>
+      </div>
+    </div>
+  </section>
+
+  {/* Today's Verse Section */}
+  <section class="py-12 px-4">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-2xl font-display font-bold text-dark text-center mb-8">
+        📖 Today's Bible Verse
+      </h2>
+      <DailyVerse client:load />
+    </div>
+  </section>
+
+  {/* Faith Tools Section */}
+  <section class="py-12 px-4" style="background-color: #FAF0D7;">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-2xl font-display font-bold text-dark text-center mb-3">
+        🔧 Free Faith Tools
+      </h2>
+      <p class="text-center text-text-secondary mb-8">Interactive tools to help you grow in your faith journey</p>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        {siteConfig.tools.map(tool => (
+          <a href={`/tools/${tool.slug}`} class="tool-card">
+            <p class="text-3xl mb-3">{tool.emoji}</p>
+            <p class="font-semibold text-dark text-sm">{tool.name}</p>
+            <p class="text-xs mt-1 text-text-secondary">{tool.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {/* Latest Articles */}
+  {posts.length > 0 && (
+    <section class="py-12 px-4">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-2xl font-display font-bold text-dark text-center mb-3">
+          📝 Latest Articles
+        </h2>
+        <p class="text-center text-text-secondary mb-8">Devotionals, Bible study guides, and answers to life's questions</p>
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {posts.map(post => {
+            const cat = siteConfig.categories.find(c => c.slug === post.frontmatter.category);
+            return (
+              <a href={post.url} class="card group">
+                {post.frontmatter.image && (
+                  <img src={post.frontmatter.image} alt={post.frontmatter.title} class="w-full h-48 object-cover" loading="lazy" />
+                )}
+                <div class="p-5">
+                  {cat && (
+                    <span class="category-tag text-xs mb-2 inline-block">{cat.emoji} {cat.name}</span>
+                  )}
+                  <h3 class="font-display font-semibold text-dark group-hover:text-primary transition-colors mt-1">
+                    {post.frontmatter.title}
+                  </h3>
+                  <p class="text-text-secondary text-sm mt-2 line-clamp-2">
+                    {post.frontmatter.description}
+                  </p>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {/* Browse by Topic */}
+  <section class="py-12 px-4" style="background-color: #FAF0D7;">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-2xl font-display font-bold text-dark text-center mb-8">
+        📂 Browse by Topic
+      </h2>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        {siteConfig.categories.map(cat => (
+          <a href={`/category/${cat.slug}`} class="bg-white rounded-xl p-5 text-center shadow-md hover:shadow-lg transition-all hover:-translate-y-1">
+            <p class="text-3xl mb-2">{cat.emoji}</p>
+            <p class="font-semibold text-dark">{cat.name}</p>
+            <p class="text-xs mt-1 text-text-secondary">{cat.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {/* CTA Section */}
+  <section class="py-16 px-4 text-center" style="background: linear-gradient(135deg, #D4A843 0%, #B8922F 100%);">
+    <div class="max-w-2xl mx-auto">
+      <p class="text-4xl mb-4">✝️</p>
+      <h2 class="text-2xl md:text-3xl font-display font-bold text-white mb-4">
+        Start Your Day with God's Word
+      </h2>
+      <p class="text-white/90 mb-8">
+        Bookmark this page and come back every day for a new Bible verse, reflection, and prayer.
+      </p>
+      <a href="/tools/daily-verse" class="inline-block px-8 py-4 bg-white text-dark font-bold rounded-lg hover:shadow-lg transition-all text-lg">
+        📖 Get Today's Verse
+      </a>
+    </div>
+  </section>
+</BaseLayout>

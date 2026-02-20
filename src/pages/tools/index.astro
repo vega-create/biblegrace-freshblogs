@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import { siteConfig } from '../../../site.config';
+
+const toolsByTier = {
+  1: siteConfig.tools.filter(t => t.tier === 1),
+  2: siteConfig.tools.filter(t => t.tier === 2),
+  3: siteConfig.tools.filter(t => t.tier === 3),
+};
+
+const tierLabels = {
+  1: { title: '📖 Daily Essentials', desc: 'Tools for your everyday faith journey' },
+  2: { title: '🎯 Interactive & Fun', desc: 'Engage with scripture in new ways' },
+  3: { title: '📚 Reference & Study', desc: 'Dig deeper into Biblical knowledge' },
+};
+---
+
+<BaseLayout title="Free Bible Tools" description="Explore our collection of free interactive Bible tools — daily verse, verse finder, Bible quiz, prayer generator, and more.">
+  <div class="max-w-6xl mx-auto px-4 py-8">
+    <Breadcrumb items={[
+      { name: 'Home', href: '/' },
+      { name: 'Faith Tools', href: '/tools' }
+    ]} />
+
+    <div class="text-center mt-6 mb-12">
+      <h1 class="text-3xl md:text-4xl font-display font-bold text-dark">
+        🔧 Free Bible & Faith Tools
+      </h1>
+      <p class="text-text-secondary mt-3 max-w-2xl mx-auto">
+        Interactive tools to help you explore scripture, strengthen your prayer life, 
+        and grow in your knowledge of God's Word — all completely free.
+      </p>
+    </div>
+
+    {Object.entries(toolsByTier).map(([tier, tools]) => (
+      <div class="mb-12">
+        <h2 class="text-xl font-display font-bold text-dark mb-1">
+          {tierLabels[tier].title}
+        </h2>
+        <p class="text-text-secondary text-sm mb-6">{tierLabels[tier].desc}</p>
+        <div class="grid md:grid-cols-3 gap-6">
+          {tools.map(tool => (
+            <a href={`/tools/${tool.slug}`} class="card p-6 group hover:-translate-y-1 transition-all">
+              <p class="text-4xl mb-4">{tool.emoji}</p>
+              <h3 class="text-lg font-display font-bold text-dark group-hover:text-primary transition-colors">
+                {tool.name}
+              </h3>
+              <p class="text-text-secondary text-sm mt-2">{tool.description}</p>
+              <p class="mt-4 text-primary font-medium text-sm">Try it free →</p>
+            </a>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+</BaseLayout>
