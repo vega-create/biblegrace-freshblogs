@@ -60,11 +60,27 @@ const props = Astro.props;
 
         <!-- Desktop Nav -->
         <div class="hidden md:flex items-center gap-6">
-          {siteConfig.navigation.map(item => (
-            <a href={item.href} class="text-gray-300 hover:text-primary transition-colors text-sm font-medium">
-              {item.name}
-            </a>
-          ))}
+          <a href="/" class="text-gray-300 hover:text-primary transition-colors text-sm font-medium">Home</a>
+          <a href="/tools/daily-verse" class="text-gray-300 hover:text-primary transition-colors text-sm font-medium">Daily Verse</a>
+          <a href="/tools" class="text-gray-300 hover:text-primary transition-colors text-sm font-medium">Bible Tools</a>
+
+          <!-- Categories Dropdown -->
+          <div class="relative group">
+            <button class="text-gray-300 hover:text-primary transition-colors text-sm font-medium flex items-center gap-1">
+              Categories
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="absolute top-full left-0 mt-1 w-56 bg-white rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+              {siteConfig.categories.map(cat => (
+                <a href={`/category/${cat.slug}`} class="flex items-center gap-2 px-4 py-2.5 text-sm text-gray-700 hover:bg-amber-50 hover:text-amber-700 transition-colors first:rounded-t-lg last:rounded-b-lg">
+                  <span>{cat.emoji}</span>
+                  <span>{cat.name}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+
+          <a href="/about" class="text-gray-300 hover:text-primary transition-colors text-sm font-medium">About</a>
         </div>
 
         <!-- Mobile Menu Button -->
@@ -77,11 +93,16 @@ const props = Astro.props;
 
       <!-- Mobile Menu -->
       <div id="mobile-menu" class="hidden md:hidden pb-4">
-        {siteConfig.navigation.map(item => (
-          <a href={item.href} class="block py-2 text-gray-300 hover:text-primary transition-colors">
-            {item.name}
+        <a href="/" class="block py-2 text-gray-300 hover:text-primary transition-colors">Home</a>
+        <a href="/tools/daily-verse" class="block py-2 text-gray-300 hover:text-primary transition-colors">Daily Verse</a>
+        <a href="/tools" class="block py-2 text-gray-300 hover:text-primary transition-colors">Bible Tools</a>
+        <p class="text-xs text-gray-500 uppercase tracking-wider mt-3 mb-1">Categories</p>
+        {siteConfig.categories.map(cat => (
+          <a href={`/category/${cat.slug}`} class="block py-2 pl-3 text-gray-300 hover:text-primary transition-colors">
+            {cat.emoji} {cat.name}
           </a>
         ))}
+        <a href="/about" class="block py-2 text-gray-300 hover:text-primary transition-colors mt-2">About</a>
       </div>
     </div>
   </nav>
