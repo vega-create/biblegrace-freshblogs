@@ -3,6 +3,7 @@ import BaseLayout from './BaseLayout.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import AuthorCard from '../components/AuthorCard.astro';
+import FAQ from '../components/FAQ.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import { siteConfig } from '../../site.config';
 
@@ -32,7 +33,21 @@ const authorInfo = siteConfig.authors.find(a => a.id === author);
       "url": siteConfig.url
     }
   })} />
-
+{/* FAQ Schema */}
+  {frontmatter.faq && frontmatter.faq.length > 0 && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": frontmatter.faq.map(item => ({
+        "@type": "Question",
+        "name": item.q,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": item.a
+        }
+      }))
+    })} />
+  )}
   <article class="max-w-4xl mx-auto px-4 py-8">
     <!-- Breadcrumb -->
     <Breadcrumb items={[
@@ -74,7 +89,13 @@ const authorInfo = siteConfig.authors.find(a => a.id === author);
 
     <!-- Author Card -->
     {authorInfo && <AuthorCard author={authorInfo} />}
+{/* FAQ Section */}
+    {frontmatter.faq && frontmatter.faq.length > 0 && (
+      <FAQ items={frontmatter.faq} />
+    )}
 
+    {/* Related Posts */}
+    <RelatedPosts category={category} currentSlug={Astro.params.slug} />
     <!-- Share Buttons -->
     <div class="mt-8 pt-6 border-t border-gray-200">
       <p class="text-text-secondary font-medium mb-3">Share this article:</p>
