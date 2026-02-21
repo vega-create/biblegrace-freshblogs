@@ -10,7 +10,7 @@ import { siteConfig } from '../../site.config';
 const { frontmatter, headings } = Astro.props;
 const { title, description, date, author, category, image, tags } = frontmatter;
 const categoryInfo = siteConfig.categories.find(c => c.slug === category);
-const authorInfo = siteConfig.authors.find(a => a.id === author);
+const authorInfo = siteConfig.authors.find(a => a.id === frontmatter.authorId || a.name === author);
 ---
 
 <BaseLayout title={title} description={description} image={image} article={true} publishDate={date}>
@@ -109,6 +109,9 @@ const authorInfo = siteConfig.authors.find(a => a.id === author);
         <a href={`https://pinterest.com/pin/create/button/?url=${siteConfig.url}/posts/${Astro.params.slug}&description=${encodeURIComponent(title)}`} target="_blank" rel="noopener" class="btn-secondary text-sm py-2 px-4">
           Pinterest
         </a>
+<button onclick={`navigator.clipboard.writeText('${siteConfig.url}/posts/${Astro.params.slug}');this.textContent='Copied!'`} class="btn-secondary text-sm py-2 px-4">
+          📋 Copy Link
+        </button>
       </div>
     </div>
   </article>
