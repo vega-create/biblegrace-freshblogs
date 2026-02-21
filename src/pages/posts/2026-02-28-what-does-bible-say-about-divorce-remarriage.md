@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Does the Bible Say About Divorce and Remarriage?"
 description: "A compassionate, scripture-based guide to divorce, remarriage, and God's heart for the brokenhearted."
 date: 2026-01-29

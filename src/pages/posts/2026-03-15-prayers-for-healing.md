@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Prayers for Healing: Scripture-Based Prayers for the Sick"
 description: "Strengthen your prayer life with this guide to healing and wholeness. Scripture-based prayers and practical tips for daily communion with God."
 date: 2026-02-13

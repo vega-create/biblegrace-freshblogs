@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "30 Comforting Bible Verses About Death and Loss"
 description: "A curated collection of Bible verses about death and loss — organized by theme for when you need God's Word most."
 date: 2026-01-31

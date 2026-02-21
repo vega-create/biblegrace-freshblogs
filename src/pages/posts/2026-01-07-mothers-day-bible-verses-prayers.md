@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "15 Mother's Day Bible Verses and Prayers to Honor Mom"
 description: "Celebrate mothers with these 15 beautiful Bible verses about motherhood and 5 heartfelt prayers for moms of all seasons."
 date: 2026-01-07

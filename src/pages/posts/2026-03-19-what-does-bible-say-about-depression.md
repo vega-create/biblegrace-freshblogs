@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Does the Bible Say About Depression?"
 description: "Practical biblical wisdom for navigating depression and mental health as a Christian. Honest, compassionate, and rooted in Scripture."
 date: 2026-02-17

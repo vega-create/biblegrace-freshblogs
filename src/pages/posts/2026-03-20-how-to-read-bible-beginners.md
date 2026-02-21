@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "How to Read the Bible for Beginners: A Step-by-Step Guide"
 description: "Practical biblical wisdom for navigating starting a Bible reading habit as a Christian. Honest, compassionate, and rooted in Scripture."
 date: 2026-02-18

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "50 Bible Verses About Strength in Hard Times"
 description: "A curated collection of Bible verses about strength in hard times — organized by theme for when you need God's Word most."
 date: 2026-01-30

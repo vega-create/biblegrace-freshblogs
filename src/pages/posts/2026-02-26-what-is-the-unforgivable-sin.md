@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Is the Unforgivable Sin? Understanding Blasphemy Against the Holy Spirit"
 description: "Have you committed the unforgivable sin? Learn what Jesus meant and find peace in God's overwhelming grace."
 date: 2026-01-27

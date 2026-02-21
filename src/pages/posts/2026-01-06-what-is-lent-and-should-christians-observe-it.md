@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Is Lent? A Guide for Christians of All Traditions"
 description: "Learn what Lent is, where it comes from, and how Christians from different backgrounds observe this 40-day season of preparation."
 date: 2026-01-06

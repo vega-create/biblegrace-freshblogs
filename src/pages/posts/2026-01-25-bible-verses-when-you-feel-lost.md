@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "25 Bible Verses for When You Feel Lost and Directionless"
 description: "Feeling lost, confused, or without purpose? These 25 Bible verses remind you that God sees you, leads you, and never abandons you."
 date: 2026-01-25

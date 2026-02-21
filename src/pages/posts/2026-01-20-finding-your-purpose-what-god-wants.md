@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Finding Your Purpose: What Does God Want Me to Do?"
 description: "Struggling to find your calling? This devotion explores what the Bible says about purpose, gifts, and following God's unique plan for your life."
 date: 2026-01-20

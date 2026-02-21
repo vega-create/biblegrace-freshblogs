@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Can Christians Drink Alcohol? What the Bible Really Says"
 description: "Explore what the Bible teaches about alcohol — with verses, context, and practical wisdom for believers."
 date: 2026-01-22

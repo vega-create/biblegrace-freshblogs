@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Do Pets Go to Heaven? What the Bible Tells Us"
 description: "Will we see our pets in heaven? Explore what Scripture says about animals and God's eternal creation."
 date: 2026-01-25

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Why Does God Allow Suffering? Honest Answers from Scripture"
 description: "The hardest question in faith: Why does a good God allow pain? Explore what the Bible says — with honesty, not clichés."
 date: 2026-01-03

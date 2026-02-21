@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "10 Prayers for Your Work, Career, and Calling"
 description: "Bring God into your workday with these 10 prayers for career guidance, difficult coworkers, job searching, and finding purpose at work."
 date: 2025-12-26

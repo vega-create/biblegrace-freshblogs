@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "The Power of Gratitude in Difficult Seasons: A Daily Devotion"
 description: "Discover how gratitude transforms your perspective — even in the hardest seasons of life. A devotion grounded in Scripture."
 date: 2026-01-19

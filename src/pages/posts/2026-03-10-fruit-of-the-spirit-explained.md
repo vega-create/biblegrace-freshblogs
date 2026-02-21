@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "The Fruit of the Spirit: Galatians 5:22-23 Explained"
 description: "A deep dive into Galatians 5:22-23 — historical context, original language, and life-changing application for today."
 date: 2026-02-08

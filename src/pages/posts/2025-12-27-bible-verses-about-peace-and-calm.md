@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "25 Bible Verses About Peace When Life Feels Chaotic"
 description: "Find calm in the storm with these 25 Bible verses about peace — God's peace that surpasses all understanding."
 date: 2025-12-27

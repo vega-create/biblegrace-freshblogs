@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Jeremiah 29:11 — 'I Know the Plans I Have for You' Explained"
 description: "What does Jeremiah 29:11 really mean? Discover the original context, common misinterpretations, and how this beloved verse applies today."
 date: 2026-01-21

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "How to Find a Good Church: A Practical Guide for Believers"
 description: "Looking for a church home? Learn what to look for, what questions to ask, and how to find a community where you can grow in faith."
 date: 2025-12-30

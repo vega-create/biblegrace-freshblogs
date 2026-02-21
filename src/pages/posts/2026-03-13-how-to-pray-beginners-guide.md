@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "How to Pray: A Beginner's Guide for New Christians"
 description: "Strengthen your prayer life with this guide to getting started with prayer. Scripture-based prayers and practical tips for daily communion with God."
 date: 2026-02-11

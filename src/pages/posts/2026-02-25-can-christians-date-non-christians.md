@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Can Christians Date Non-Christians? A Thoughtful Biblical Answer"
 description: "Should Christians only date believers? A compassionate biblical exploration of faith in relationships."
 date: 2026-01-26

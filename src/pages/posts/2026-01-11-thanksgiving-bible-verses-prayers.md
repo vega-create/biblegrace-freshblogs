@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "20 Thanksgiving Bible Verses and Prayers of Gratitude"
 description: "Beautiful Bible verses about thankfulness and gratitude prayers perfect for Thanksgiving and every day of the year."
 date: 2026-01-11

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Is Good Friday? The Story Behind the Cross"
 description: "Understand the meaning of Good Friday — what happened, why it's called 'good,' and why the crucifixion of Jesus changes everything."
 date: 2026-01-12

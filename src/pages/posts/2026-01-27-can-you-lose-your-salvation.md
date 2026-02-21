@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Can You Lose Your Salvation? Understanding Eternal Security"
 description: "Once saved, always saved? Explore what the Bible teaches about the security of salvation, with perspectives from different traditions."
 date: 2026-01-27

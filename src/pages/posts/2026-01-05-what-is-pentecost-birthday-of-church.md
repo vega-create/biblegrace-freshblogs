@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Is Pentecost? The Birthday of the Church Explained"
 description: "Discover the meaning of Pentecost — when the Holy Spirit came, the church was born, and everything changed for believers everywhere."
 date: 2026-01-05

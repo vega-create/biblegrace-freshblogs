@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "30 Powerful Bible Verses About Faith"
 description: "A curated collection of Bible verses about faith and trust in God — organized by theme for when you need God's Word most."
 date: 2026-02-05

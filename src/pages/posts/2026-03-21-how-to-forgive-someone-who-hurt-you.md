@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "How to Forgive Someone Who Hurt You Deeply"
 description: "Practical biblical wisdom for navigating forgiveness and letting go as a Christian. Honest, compassionate, and rooted in Scripture."
 date: 2026-02-19

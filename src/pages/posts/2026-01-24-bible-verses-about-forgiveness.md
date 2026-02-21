@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "15 Powerful Bible Verses About Forgiveness"
 description: "Struggling to forgive? These 15 Bible verses about forgiveness will help you understand God's mercy and find strength to let go."
 date: 2026-01-24

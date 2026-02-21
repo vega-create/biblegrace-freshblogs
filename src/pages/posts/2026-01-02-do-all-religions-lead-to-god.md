@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Do All Religions Lead to God? What the Bible Says"
 description: "Is there one way to God or many? Explore what Jesus and the Bible teach about salvation, truth, and how Christians can engage with other faiths."
 date: 2026-01-02

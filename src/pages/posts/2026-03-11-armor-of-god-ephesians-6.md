@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Is the Armor of God? Ephesians 6 Study Guide"
 description: "A deep dive into Ephesians 6:10-18 — historical context, original language, and life-changing application for today."
 date: 2026-02-09

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "How to Pray for Someone Who Is Grieving: 8 Compassionate Prayers"
 description: "Comforting prayers for those mourning a loved one. Scripture-based prayers for funerals, memorial services, and seasons of loss."
 date: 2026-01-16

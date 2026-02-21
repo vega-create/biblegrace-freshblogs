@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "New Year, New You? 20 Bible Verses for a Fresh Start"
 description: "Start the new year with God's promises. 20 Bible verses about new beginnings, transformation, and stepping into God's plans for you."
 date: 2026-01-04

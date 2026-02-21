@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Is Palm Sunday? The Triumphal Entry Explained"
 description: "Learn the meaning of Palm Sunday — why Jesus rode a donkey, what the crowds expected, and why this day still matters today."
 date: 2026-01-14

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "12 Powerful Prayers for Your Marriage"
 description: "Strengthen your marriage through prayer. 12 Scripture-based prayers for communication, intimacy, forgiveness, and growing together in faith."
 date: 2025-12-25

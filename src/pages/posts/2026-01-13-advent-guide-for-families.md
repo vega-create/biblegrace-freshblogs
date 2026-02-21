@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "How to Celebrate Advent: A Complete Family Guide with Readings"
 description: "A week-by-week Advent guide with Bible readings, activities, and prayers to help your family prepare for Christmas with purpose."
 date: 2026-01-13

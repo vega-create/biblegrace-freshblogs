@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Biblical Principles for Managing Money Wisely"
 description: "Learn 7 biblical principles for managing your finances — from budgeting and saving to giving and avoiding debt."
 date: 2026-01-28

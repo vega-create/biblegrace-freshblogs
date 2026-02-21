@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "How to Share Your Faith Without Being Pushy"
 description: "Want to tell others about Jesus but afraid of being awkward or offensive? Practical, biblical tips for natural faith conversations."
 date: 2025-12-29

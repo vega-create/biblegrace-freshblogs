@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Is Halloween a Sin for Christians? How Believers Can Navigate the Holiday"
 description: "Should Christians celebrate Halloween? A balanced look at origins, principles, and family choices."
 date: 2026-01-28

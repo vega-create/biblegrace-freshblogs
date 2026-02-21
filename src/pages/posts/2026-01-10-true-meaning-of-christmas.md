@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "The True Meaning of Christmas: Why We Celebrate the Birth of Jesus"
 description: "Discover the real story behind Christmas — from the prophecy to the manger, and why Christ's birth changes everything."
 date: 2026-01-10

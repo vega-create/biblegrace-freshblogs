@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "The True Meaning of Easter: Beyond the Eggs and Bunnies"
 description: "Easter is Christianity's most important day. Discover the resurrection story and why it changes everything."
 date: 2026-02-20

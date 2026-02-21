@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "10 Bedtime Prayers for Peaceful Sleep and Rest"
 description: "End your day in God's peace with these 10 bedtime prayers for adults. Scripture-based prayers for rest, protection, and letting go."
 date: 2026-01-15

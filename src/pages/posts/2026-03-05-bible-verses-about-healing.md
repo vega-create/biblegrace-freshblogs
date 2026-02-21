@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "20 Bible Verses for Healing and Recovery"
 description: "A curated collection of Bible verses about healing and recovery — organized by theme for when you need God's Word most."
 date: 2026-02-03

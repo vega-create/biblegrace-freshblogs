@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Dealing with Doubt: Is It Okay for Christians to Have Questions?"
 description: "Struggling with doubt? You're not alone. Learn why doubt can actually strengthen your faith and how to navigate questions honestly."
 date: 2025-12-31

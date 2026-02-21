@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Learning to Let Go and Let God: A Devotion on Surrender"
 description: "When you're holding on too tight, learn what it means to truly surrender to God's plan through this reflective devotion."
 date: 2026-01-18

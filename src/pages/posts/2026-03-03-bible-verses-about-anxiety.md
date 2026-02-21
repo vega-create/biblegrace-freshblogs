@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "25 Bible Verses About Anxiety and Worry"
 description: "A curated collection of Bible verses about anxiety and worry — organized by theme for when you need God's Word most."
 date: 2026-02-01

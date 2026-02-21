@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Happens After We Die? What the Bible Actually Says"
 description: "Heaven, hell, judgment, resurrection — what does the Bible really teach about what happens after death? A clear, balanced guide."
 date: 2026-01-01

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "20 Bible Verses About Money, Wealth, and Stewardship"
 description: "What does the Bible say about money? 20 key verses on earning, giving, saving, and keeping an eternal perspective on wealth."
 date: 2026-01-26

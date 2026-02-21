@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Happens When You Die? A Biblical Guide to the Afterlife"
 description: "What does the Bible teach about death and the afterlife? A clear look at heaven, hell, and what Scripture reveals."
 date: 2026-01-24

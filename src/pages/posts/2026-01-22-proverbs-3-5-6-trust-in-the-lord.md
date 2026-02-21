@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Proverbs 3:5-6 Meaning: Trust in the Lord with All Your Heart"
 description: "A deep dive into Proverbs 3:5-6 — what it means to trust God completely, lean not on your own understanding, and let Him direct your path."
 date: 2026-01-22

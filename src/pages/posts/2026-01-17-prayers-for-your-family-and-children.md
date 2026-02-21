@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "15 Powerful Prayers for Your Family and Children"
 description: "Pray over your family with these 15 Scripture-based prayers covering protection, unity, faith, and God's guidance for your children."
 date: 2026-01-17

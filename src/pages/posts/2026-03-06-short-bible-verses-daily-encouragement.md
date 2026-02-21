@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "30 Short Bible Verses for Daily Encouragement"
 description: "A curated collection of Bible verses about daily encouragement — organized by theme for when you need God's Word most."
 date: 2026-02-04

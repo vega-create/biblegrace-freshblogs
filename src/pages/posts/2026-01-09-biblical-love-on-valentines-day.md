@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Real Love Looks Like: A Valentine's Day Devotion"
 description: "Move beyond roses and chocolates to discover what the Bible says about real love — sacrificial, unconditional, and eternal."
 date: 2026-01-09

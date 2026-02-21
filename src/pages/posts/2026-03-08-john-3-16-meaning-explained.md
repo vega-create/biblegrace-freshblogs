@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "What Does John 3:16 Really Mean? Complete Explanation"
 description: "A deep dive into John 3:16 — historical context, original language, and life-changing application for today."
 date: 2026-02-06

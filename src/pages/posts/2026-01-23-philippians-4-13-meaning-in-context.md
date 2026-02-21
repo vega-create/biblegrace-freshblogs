@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Philippians 4:13 — 'I Can Do All Things' (In Context)"
 description: "One of the most quoted and misquoted verses in the Bible. Discover what Paul really meant by 'I can do all things through Christ.'"
 date: 2026-01-23

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "When God Says Wait: A Devotion on Patience and Trust"
 description: "Waiting on God is one of the hardest things in faith. This devotion explores why God's timing is worth trusting."
 date: 2025-12-24

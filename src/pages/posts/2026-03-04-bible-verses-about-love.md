@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "40 Bible Verses About Love and Relationships"
 description: "A curated collection of Bible verses about love and relationships — organized by theme for when you need God's Word most."
 date: 2026-02-02

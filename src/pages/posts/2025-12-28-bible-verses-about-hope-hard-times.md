@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "30 Bible Verses About Hope in Hard Times"
 description: "When life feels hopeless, God's Word reminds us that hope is never lost. 30 powerful verses to anchor your soul in difficult seasons."
 date: 2025-12-28

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Who God Says You Are: Understanding Your Identity in Christ"
 description: "The world tells you one thing — God says another. Discover what Scripture says about your true identity as a child of God."
 date: 2025-12-23

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "10 Morning Prayers to Start Your Day Right"
 description: "Strengthen your prayer life with this guide to morning devotion and daily renewal. Scripture-based prayers and practical tips for daily communion with God."
 date: 2026-02-12

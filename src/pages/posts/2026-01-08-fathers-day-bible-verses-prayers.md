@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "15 Father's Day Bible Verses and Prayers to Honor Dad"
 description: "Celebrate fathers with these 15 Bible verses about fatherhood plus 5 prayers for dads, grandfathers, and father figures."
 date: 2026-01-08

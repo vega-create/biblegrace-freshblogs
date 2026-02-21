@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: 'When God Feels Silent: Finding Faith in the Waiting'
 description: 'Struggling with God''s silence? Discover why God sometimes feels distant, what the Bible says about seasons of waiting, and practical steps to strengthen your faith when you can''t hear His voice.'
 date: 2026-03-17

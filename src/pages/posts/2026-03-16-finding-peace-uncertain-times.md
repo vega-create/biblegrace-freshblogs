@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "Finding Peace in Uncertain Times: A Daily Devotion"
 description: "A daily devotion on uncertainty and finding peace. Find rest for your soul in God's unchanging truth."
 date: 2026-02-14
