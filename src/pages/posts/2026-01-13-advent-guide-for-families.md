@@ -122,3 +122,7 @@ He is here. Emmanuel — God with us. Today we celebrate not just a historical e
 - "The virgin will conceive and give birth to a son, and they will call him Immanuel — which means 'God with us.'" — Matthew 1:23 (NIV)
 
 *Discover more about [The True Meaning of Christmas](/posts/true-meaning-of-christmas) or explore our [Daily Devotion](/category/daily-devotion) section.*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*

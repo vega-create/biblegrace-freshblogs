@@ -75,3 +75,7 @@ You are not alone. You never were.
 - "The Lord is close to the brokenhearted and saves those who are crushed in spirit." — Psalm 34:18 (NIV)
 - "My grace is sufficient for you, for my power is made perfect in weakness." — 2 Corinthians 12:9 (NIV)
 - "Cast all your anxiety on him because he cares for you." — 1 Peter 5:7 (NIV)
+
+---
+
+*For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [Focus on the Family](https://www.focusonthefamily.com/) for trusted biblical resources and encyclopedias.*

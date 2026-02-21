@@ -77,3 +77,7 @@ Sometimes prayer feels like talking to the ceiling. That's normal:
 - **Silence is okay** — sometimes the best prayer is sitting in God's presence
 
 Whatever your prayer life looks like today, God meets you where you are. Your honest words are what God treasures most.
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Desiring God](https://www.desiringgod.org/) for trusted biblical resources and encyclopedias.*

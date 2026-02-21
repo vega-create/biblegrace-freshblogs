@@ -77,3 +77,7 @@ The verse appears in all Bible translations. The version quoted here is the King
 ### Is John 3:16 the most important verse in the Bible?
 
 While every verse of Scripture is inspired and valuable, John 3:16 is often called "the Gospel in a nutshell" because it summarizes the core message of Christianity in a single sentence: God's love, Christ's sacrifice, and the gift of eternal life through faith.
+
+---
+
+*For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [BibleGateway](https://www.biblegateway.com/) for trusted biblical resources and encyclopedias.*

@@ -99,3 +99,7 @@ Prayer is not just asking God for things — it's inviting Him into the center o
 - "Unless the Lord builds the house, the builders labor in vain." — Psalm 127:1 (NIV)
 
 *Looking for daily encouragement? Try our [Daily Verse](/tools/daily-verse) tool or explore [Christian Living](/category/christian-living) for practical faith guidance.*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Desiring God](https://www.desiringgod.org/) for trusted biblical resources and encyclopedias.*

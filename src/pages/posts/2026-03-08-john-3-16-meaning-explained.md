@@ -77,3 +77,7 @@ The Bible is a unified story, and this passage connects to themes throughout Scr
 ## A Prayer Based on This Passage
 
 Lord, thank You for the truth of Your Word. Help me understand not just the words, but the heart behind them. May this passage move from my head to my heart, and from my heart into how I live each day. Strengthen my faith and help me trust You more deeply. In Jesus' name, Amen.
+
+---
+
+*For further study, visit [Bible Hub](https://biblehub.com/) and [GotQuestions.org](https://www.gotquestions.org/) for trusted biblical resources and encyclopedias.*

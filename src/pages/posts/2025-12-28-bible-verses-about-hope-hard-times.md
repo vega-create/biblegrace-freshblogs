@@ -69,3 +69,7 @@ Whatever season you're in, God is with you in it. He invites you to keep seeking
 - "I can do all this through him who gives me strength." — Philippians 4:13 (NIV)
 
 *Explore more articles in our [Bible Verses](/category/bible-verses) section, or find daily encouragement with our [Daily Verse](/tools/daily-verse) tool.*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Bible Hub](https://biblehub.com/) for trusted biblical resources and encyclopedias.*

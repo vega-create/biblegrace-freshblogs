@@ -81,3 +81,7 @@ Prayer in grief isn't about fixing the pain. It's about inviting God into it.
 - "Brothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope." — 1 Thessalonians 4:13 (NIV)
 
 *Find comfort in [30 Bible Verses About Death and Loss](/posts/bible-verses-about-death) or explore [Prayers for Healing](/posts/prayers-for-healing).*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Desiring God](https://www.desiringgod.org/) for trusted biblical resources and encyclopedias.*

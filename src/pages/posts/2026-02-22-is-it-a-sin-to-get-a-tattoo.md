@@ -61,3 +61,7 @@ The New Testament doesn't mention tattoos directly but offers guiding principles
 - "So whether you eat or drink or whatever you do, do it all for the glory of God." — 1 Corinthians 10:31 (NIV)
 
 The tattoo question ultimately comes down to the heart. God isn't counting marks on your skin — He's looking at the love and intention behind your choices.
+
+---
+
+*For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [BibleGateway](https://www.biblegateway.com/) for trusted biblical resources and encyclopedias.*

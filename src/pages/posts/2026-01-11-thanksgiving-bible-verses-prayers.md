@@ -96,3 +96,7 @@ Thanksgiving isn't just a November holiday — it's a way of life.
 - "I will praise God's name in song and glorify him with thanksgiving." — Psalm 69:30 (NIV)
 
 *Find daily encouragement with our [Daily Verse](/tools/daily-verse) tool or explore [Bible Verses](/category/bible-verses) for more themed collections.*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*

@@ -88,3 +88,7 @@ The cross is not just a historical event — it's deeply personal. Jesus didn't 
 - "God made him who had no sin to be sin for us, so that in him we might become the righteousness of God." — 2 Corinthians 5:21 (NIV)
 
 *Read about [The True Meaning of Easter](/posts/true-meaning-of-easter) to continue the story, or explore our [Bible Study](/category/bible-study) section for deeper exploration.*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*

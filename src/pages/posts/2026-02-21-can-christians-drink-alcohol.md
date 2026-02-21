@@ -63,3 +63,7 @@ Here's how to apply biblical wisdom about alcohol:
 - "So whether you eat or drink or whatever you do, do it all for the glory of God." — 1 Corinthians 10:31 (NIV)
 
 The question isn't simply "can I?" but "should I, and how does this glorify God?" When we approach every area of life with that question, we're on the right path.
+
+---
+
+*For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [BibleGateway](https://www.biblegateway.com/) for trusted biblical resources and encyclopedias.*

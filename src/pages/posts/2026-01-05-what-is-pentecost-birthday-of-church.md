@@ -96,3 +96,7 @@ You don't need to wait for a special day or dramatic experience. If you believe 
 - "God's love has been poured out into our hearts through the Holy Spirit." — Romans 5:5 (NIV)
 
 *Continue exploring Holy Week with [The True Meaning of Easter](/posts/true-meaning-of-easter) or learn about [The Fruit of the Spirit](/posts/fruit-of-spirit-explained).*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*

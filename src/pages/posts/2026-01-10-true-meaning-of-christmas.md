@@ -84,3 +84,7 @@ This means God understands our struggles. He experienced hunger, exhaustion, gri
 - "Today in the town of David a Savior has been born to you; he is the Messiah, the Lord." — Luke 2:11 (NIV)
 
 *Explore more seasonal content in our [Holidays](/category/holidays) section, or find your daily encouragement with our [Daily Verse](/tools/daily-verse) tool.*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*

@@ -87,3 +87,7 @@ He healed the blind and the lame in the Temple courts. Children continued shouti
 - "He humbled himself by becoming obedient to death — even death on a cross!" — Philippians 2:8 (NIV)
 
 *Continue the Holy Week journey with [What Is Good Friday?](/posts/what-is-good-friday-why-it-matters) and [The True Meaning of Easter](/posts/true-meaning-of-easter).*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*

@@ -78,3 +78,7 @@ Lord Jesus, thank You for the cross and the empty tomb. Thank You that death cou
 - "If Christ has not been raised, your faith is futile. But Christ has indeed been raised from the dead." — 1 Corinthians 15:17, 20 (NIV)
 
 This Easter, may you experience the real story — not just as history, but as the most relevant truth for your life today. He is risen indeed.
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*

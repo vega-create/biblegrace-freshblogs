@@ -74,3 +74,7 @@ Nighttime can be when anxiety is loudest. A bedtime prayer routine helps you rel
 - "When you lie down, you will not be afraid; when you lie down, your sleep will be sweet." — Proverbs 3:24 (NIV)
 
 *Start your mornings right too with [10 Morning Prayers to Start Your Day](/posts/morning-prayers-start-your-day), or explore more in our [Prayer](/category/prayer) section.*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Desiring God](https://www.desiringgod.org/) for trusted biblical resources and encyclopedias.*

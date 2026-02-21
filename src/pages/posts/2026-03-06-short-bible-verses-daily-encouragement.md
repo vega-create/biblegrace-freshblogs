@@ -90,3 +90,7 @@ Don't just read — let them take root:
 5. **Journal your reflections** — how does each verse speak to your specific situation?
 
 God's Word is alive and active (Hebrews 4:12). Whatever you're facing regarding daily encouragement, the God who wrote these words is the same God who walks beside you right now.
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Bible Hub](https://biblehub.com/) for trusted biblical resources and encyclopedias.*

@@ -45,3 +45,7 @@ Faith isn't just about knowledge — it's about transformation. As you explore t
 God invites us into deeper understanding — not to burden us, but to free us. Whatever brought you to this article, know that God sees you, loves you, and is ready to meet you right where you are.
 
 *Explore more articles in our [Daily Devotion](/category/daily-devotion) section, or start your day with our [Daily Verse](/tools/daily-verse) tool.*
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Desiring God](https://www.desiringgod.org/) for trusted biblical resources and encyclopedias.*

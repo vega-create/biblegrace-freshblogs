@@ -76,3 +76,7 @@ Jesus said the greatest commandments are to love God and love your neighbor (Mat
 - "Accept the one whose faith is weak, without quarreling over disputable matters." — Romans 14:1 (NIV)
 
 Whatever conclusion you reach, let it be grounded in Scripture, guided by the Spirit, and expressed in love. That's the kind of faith that honors God.
+
+---
+
+*For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [BibleGateway](https://www.biblegateway.com/) for trusted biblical resources and encyclopedias.*

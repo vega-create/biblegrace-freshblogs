@@ -71,3 +71,7 @@ If today's devotion resonated, spend time in these passages:
 - Philippians 4:6-7 — the path from anxiety to peace
 
 Remember: this devotion isn't a checkbox. It's an invitation to sit with God and let Him remind you of what's true. You are loved. You are held. And the God of the universe has this handled.
+
+---
+
+*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Desiring God](https://www.desiringgod.org/) for trusted biblical resources and encyclopedias.*
