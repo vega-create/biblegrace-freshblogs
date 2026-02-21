@@ -8,14 +8,13 @@ category: "daily-devotion"
 tags: ["surrender", "trust", "letting go", "devotion", "faith"]
 image: ""
 faq:
-  - q: "What does 'let go and let God' mean?"
-    a: "It means releasing your need to control outcomes and trusting God's wisdom and timing. It's not passive — it's actively choosing faith over fear."
-  - q: "How do I surrender control to God?"
-    a: "Start by identifying what you're gripping too tightly — a relationship, a job, a plan. Pray honestly: 'God, I can\'t control this. I give it to You.' Then practice trusting daily."
-  - q: "What Bible verse talks about letting go?"
-    a: "Proverbs 3:5-6: 'Trust in the Lord with all your heart and lean not on your own understanding.' Also 1 Peter 5:7: 'Cast all your anxiety on him because he cares for you.'"
+  - q: 'What does "let go and let God" mean?'
+    a: 'It means releasing your need to control outcomes and trusting God''s wisdom and timing. It''s not passive — it''s actively choosing faith over fear.'
+  - q: 'How do I surrender control to God?'
+    a: 'Start by identifying what you''re gripping too tightly — a relationship, a job, a plan. Pray honestly: "God, I can''t control this. I give it to You." Then practice trusting daily.'
+  - q: 'What Bible verse talks about letting go?'
+    a: 'Proverbs 3:5-6: "Trust in the Lord with all your heart and lean not on your own understanding." Also 1 Peter 5:7: "Cast all your anxiety on him because he cares for you."'
 ---
-
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.
 
 **This article explores learning to let go and let god: a devotion on surrender, drawing from God's Word to bring clarity, hope, and practical guidance for your journey of faith.**
