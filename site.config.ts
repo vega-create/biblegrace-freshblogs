@@ -85,8 +85,8 @@ export const siteConfig = {
   // Virtual Authors (E-E-A-T)
   authors: [
     { id: 'sarah-mitchell', name: 'Sarah Mitchell', role: 'Lead Devotional Writer', bio: 'Sarah has been studying the Bible for over 15 years and loves making scripture accessible and encouraging for everyday life.' },
-    { id: 'david-chen', name: 'David Chen', role: 'Biblical Studies Editor', bio: 'David holds a degree in Theology and specializes in breaking down complex Bible passages into clear, understandable insights.' },
-    { id: 'rachel-johnson', name: 'Rachel Johnson', role: 'Faith & Life Contributor', bio: 'Rachel writes about applying biblical principles to modern life, family, and personal growth.' },
+    { id: 'david-park', name: 'David Park', role: 'Biblical Studies Editor', bio: 'David holds a degree in Theology and specializes in breaking down complex Bible passages into clear, understandable insights.' },
+    { id: 'rachel-adams', name: 'Rachel Adams', role: 'Faith & Life Contributor', bio: 'Rachel writes about applying biblical principles to modern life, family, and personal growth.' },
   ],
 
   // Footer Links
