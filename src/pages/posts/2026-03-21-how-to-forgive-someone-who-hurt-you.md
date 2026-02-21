@@ -79,3 +79,5 @@ You are not alone. You never were.
 ---
 
 *For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [Focus on the Family](https://www.focusonthefamily.com/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Verse Finder](/tools/verse-finder) and [Prayer Generator](/tools/prayer-generator) to deepen your walk with God.*

@@ -94,3 +94,5 @@ God's Word is alive and active (Hebrews 4:12). Whatever you're facing regarding 
 ---
 
 *For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Bible Hub](https://biblehub.com/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Daily Verse](/tools/daily-verse) and [Verse Finder](/tools/verse-finder) to deepen your walk with God.*

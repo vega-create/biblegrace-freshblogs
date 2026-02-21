@@ -81,3 +81,5 @@ Whatever your prayer life looks like today, God meets you where you are. Your ho
 ---
 
 *For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Desiring God](https://www.desiringgod.org/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Prayer Generator](/tools/prayer-generator) and [Daily Verse](/tools/daily-verse) to deepen your walk with God.*

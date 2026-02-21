@@ -81,3 +81,5 @@ Lord, thank You for the truth of Your Word. Help me understand not just the word
 ---
 
 *For further study, visit [Bible Hub](https://biblehub.com/) and [GotQuestions.org](https://www.gotquestions.org/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Bible Quiz](/tools/bible-quiz) and [Verse Finder](/tools/verse-finder) to deepen your walk with God.*

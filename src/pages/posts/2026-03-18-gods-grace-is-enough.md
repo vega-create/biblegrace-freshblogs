@@ -75,3 +75,5 @@ Remember: this devotion isn't a checkbox. It's an invitation to sit with God and
 ---
 
 *For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Desiring God](https://www.desiringgod.org/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Daily Verse](/tools/daily-verse) and [Verse Finder](/tools/verse-finder) to deepen your walk with God.*

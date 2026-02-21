@@ -126,3 +126,5 @@ He is here. Emmanuel — God with us. Today we celebrate not just a historical e
 ---
 
 *For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Bible Quiz](/tools/bible-quiz) and [Daily Verse](/tools/daily-verse) to deepen your walk with God.*

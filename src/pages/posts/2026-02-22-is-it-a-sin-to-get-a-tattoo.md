@@ -65,3 +65,5 @@ The tattoo question ultimately comes down to the heart. God isn't counting marks
 ---
 
 *For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [BibleGateway](https://www.biblegateway.com/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Verse Finder](/tools/verse-finder) and [Bible Quiz](/tools/bible-quiz) to deepen your walk with God.*

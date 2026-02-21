@@ -67,3 +67,5 @@ The question isn't simply "can I?" but "should I, and how does this glorify God?
 ---
 
 *For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [BibleGateway](https://www.biblegateway.com/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Verse Finder](/tools/verse-finder) and [Bible Quiz](/tools/bible-quiz) to deepen your walk with God.*

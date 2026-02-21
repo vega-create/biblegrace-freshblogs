@@ -91,3 +91,5 @@ He healed the blind and the lame in the Temple courts. Children continued shouti
 ---
 
 *For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Bible Quiz](/tools/bible-quiz) and [Daily Verse](/tools/daily-verse) to deepen your walk with God.*

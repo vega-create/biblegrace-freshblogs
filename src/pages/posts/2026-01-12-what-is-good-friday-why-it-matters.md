@@ -92,3 +92,5 @@ The cross is not just a historical event — it's deeply personal. Jesus didn't 
 ---
 
 *For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Christianity Today](https://www.christianitytoday.com/) for trusted biblical resources and encyclopedias.*
+
+*Explore our free tools: [Bible Quiz](/tools/bible-quiz) and [Daily Verse](/tools/daily-verse) to deepen your walk with God.*
