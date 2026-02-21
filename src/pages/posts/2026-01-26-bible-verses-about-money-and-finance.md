@@ -9,11 +9,11 @@ tags: ["money", "finance", "stewardship", "giving", "bible verses"]
 image: ""
 faq:
   - q: "Does the Bible say money is evil?"
-    a: "No. 1 Timothy 6:10 says the LOVE of money is the root of all kinds of evil — not money itself. Money is a tool that can be used for good or harm."
+    a: 'No. 1 Timothy 6:10 says the LOVE of money is the root of all kinds of evil — not money itself. Money is a tool that can be used for good or harm.'
   - q: "What does the Bible say about debt?"
-    a: "Romans 13:8 says 'Let no debt remain outstanding, except the continuing debt to love one another.' The Bible encourages financial wisdom and caution with debt."
+    a: 'Romans 13:8 says ''Let no debt remain outstanding, except the continuing debt to love one another.'' The Bible encourages financial wisdom and caution with debt.'
   - q: "How much should Christians give?"
-    a: "The Old Testament tithe was 10%. The New Testament emphasizes cheerful, generous, proportional giving (2 Corinthians 9:7). The amount matters less than the heart."
+    a: 'The Old Testament tithe was 10%. The New Testament emphasizes cheerful, generous, proportional giving (2 Corinthians 9:7). The amount matters less than the heart.'
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

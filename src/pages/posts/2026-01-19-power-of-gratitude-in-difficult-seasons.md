@@ -9,11 +9,11 @@ tags: ["gratitude", "thankfulness", "hard times", "devotion", "perspective"]
 image: ""
 faq:
   - q: "Can you be grateful during hard times?"
-    a: "Yes. Biblical gratitude isn't about ignoring pain — it's about finding God's faithfulness even in suffering. Paul wrote about giving thanks 'in all circumstances' (1 Thess 5:18)."
+    a: 'Yes. Biblical gratitude isn''t about ignoring pain — it''s about finding God''s faithfulness even in suffering. Paul wrote about giving thanks ''in all circumstances'' (1 Thess 5:18).'
   - q: "How does gratitude help mental health?"
-    a: "Research shows gratitude reduces anxiety, improves sleep, and strengthens relationships. Spiritually, it shifts focus from what's missing to what God has provided."
+    a: 'Research shows gratitude reduces anxiety, improves sleep, and strengthens relationships. Spiritually, it shifts focus from what''s missing to what God has provided.'
   - q: "What's a simple gratitude prayer?"
-    a: "'Lord, even today, I choose to thank You. For breath, for grace, for Your presence in this struggle. Open my eyes to see the good I'm missing. Amen.'"
+    a: '''Lord, even today, I choose to thank You. For breath, for grace, for Your presence in this struggle. Open my eyes to see the good I''m missing. Amen.'''
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

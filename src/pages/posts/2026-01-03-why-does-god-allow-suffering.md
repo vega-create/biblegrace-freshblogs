@@ -9,11 +9,11 @@ tags: ["suffering", "evil", "theodicy", "faith questions", "hope"]
 image: ""
 faq:
   - q: "Why does God allow bad things to happen?"
-    a: "The Bible acknowledges suffering without fully explaining it. Key themes: free will has consequences, a fallen world produces pain, suffering can produce growth, and God ultimately redeems all things."
+    a: 'The Bible acknowledges suffering without fully explaining it. Key themes: free will has consequences, a fallen world produces pain, suffering can produce growth, and God ultimately redeems all things.'
   - q: "Does God cause suffering?"
-    a: "The Bible distinguishes between what God causes and what God allows. James 1:13 says God doesn't tempt anyone. But Romans 8:28 says He works all things for good."
+    a: 'The Bible distinguishes between what God causes and what God allows. James 1:13 says God doesn''t tempt anyone. But Romans 8:28 says He works all things for good.'
   - q: "How can I trust God when life hurts?"
-    a: "Trust doesn't require understanding. Job never learned why he suffered, but he encountered God personally. Sometimes the answer isn't 'why' but 'who' is with you in the suffering."
+    a: 'Trust doesn''t require understanding. Job never learned why he suffered, but he encountered God personally. Sometimes the answer isn''t ''why'' but ''who'' is with you in the suffering.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

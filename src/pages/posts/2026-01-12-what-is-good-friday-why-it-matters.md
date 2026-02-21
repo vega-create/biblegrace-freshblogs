@@ -9,11 +9,11 @@ tags: ["good friday", "crucifixion", "cross", "easter", "holidays"]
 image: ""
 faq:
   - q: "Why is it called Good Friday if Jesus died?"
-    a: "It's called 'good' because of what Jesus' death accomplished — redemption for humanity. Some scholars believe it comes from 'God's Friday.' Despite the suffering, the result was the greatest act of love in history."
+    a: 'It''s called ''good'' because of what Jesus'' death accomplished — redemption for humanity. Some scholars believe it comes from ''God''s Friday.'' Despite the suffering, the result was the greatest act of love in history.'
   - q: "What happened on Good Friday according to the Bible?"
-    a: "Jesus was arrested, tried before Pilate, beaten, forced to carry His cross, and crucified at Golgotha. He died at approximately 3 PM. His body was placed in a borrowed tomb."
+    a: 'Jesus was arrested, tried before Pilate, beaten, forced to carry His cross, and crucified at Golgotha. He died at approximately 3 PM. His body was placed in a borrowed tomb.'
   - q: "How should Christians observe Good Friday?"
-    a: "Many churches hold special services, often from noon to 3 PM. Christians may fast, pray, read the Passion narrative, or reflect on the meaning of Jesus' sacrifice."
+    a: 'Many churches hold special services, often from noon to 3 PM. Christians may fast, pray, read the Passion narrative, or reflect on the meaning of Jesus'' sacrifice.'
 ---
 
 Every year, Pastor James notices the same thing in his congregation. On Easter Sunday, the church is packed with joyful faces. But on Good Friday, the sanctuary is half-empty. "We want the resurrection," he often says, "but we rush past the cross."

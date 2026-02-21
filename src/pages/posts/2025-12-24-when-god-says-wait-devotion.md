@@ -9,11 +9,11 @@ tags: ["waiting", "patience", "trust", "timing", "devotion"]
 image: ""
 faq:
   - q: "Why does God make us wait?"
-    a: "Waiting builds character, deepens dependence on God, and prepares us for what's ahead. Abraham waited 25 years for Isaac. Joseph waited 13 years for his destiny. God's delays aren't denials."
+    a: 'Waiting builds character, deepens dependence on God, and prepares us for what''s ahead. Abraham waited 25 years for Isaac. Joseph waited 13 years for his destiny. God''s delays aren''t denials.'
   - q: "What does the Bible say about waiting on God?"
-    a: "Isaiah 40:31: 'Those who hope in the Lord will renew their strength.' Psalm 27:14: 'Wait for the Lord; be strong and take heart.' Waiting is an active discipline, not passive inaction."
+    a: 'Isaiah 40:31: ''Those who hope in the Lord will renew their strength.'' Psalm 27:14: ''Wait for the Lord; be strong and take heart.'' Waiting is an active discipline, not passive inaction.'
   - q: "How do I stay faithful while waiting?"
-    a: "Keep praying. Keep serving. Keep trusting. Focus on what God IS doing, not what He isn't. Lamentations 3:25 promises: 'The Lord is good to those whose hope is in him, to the one who seeks him.'"
+    a: 'Keep praying. Keep serving. Keep trusting. Focus on what God IS doing, not what He isn''t. Lamentations 3:25 promises: ''The Lord is good to those whose hope is in him, to the one who seeks him.'''
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

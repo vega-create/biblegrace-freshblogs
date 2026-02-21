@@ -9,11 +9,11 @@ tags: ["peace", "calm", "anxiety", "rest", "bible verses"]
 image: ""
 faq:
   - q: "What does the Bible say about peace?"
-    a: "Jesus said 'Peace I leave with you; my peace I give you. I do not give to you as the world gives' (John 14:27). God's peace is different from the world's — it doesn't depend on circumstances."
+    a: 'Jesus said ''Peace I leave with you; my peace I give you. I do not give to you as the world gives'' (John 14:27). God''s peace is different from the world''s — it doesn''t depend on circumstances.'
   - q: "What is the 'peace that surpasses understanding'?"
-    a: "Philippians 4:7 describes a peace 'which transcends all understanding.' It's a supernatural calm that makes no logical sense given the circumstances — a gift from God."
+    a: 'Philippians 4:7 describes a peace ''which transcends all understanding.'' It''s a supernatural calm that makes no logical sense given the circumstances — a gift from God.'
   - q: "How can I feel more peaceful?"
-    a: "Philippians 4:6-7 gives the formula: instead of worrying, pray with thanksgiving. Isaiah 26:3 promises perfect peace for those whose minds are fixed on God."
+    a: 'Philippians 4:6-7 gives the formula: instead of worrying, pray with thanksgiving. Isaiah 26:3 promises perfect peace for those whose minds are fixed on God.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

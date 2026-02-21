@@ -9,11 +9,11 @@ tags: ["alcohol", "bible questions", "christian living", "moderation"]
 image: ""
 faq:
   - q: "Does the Bible say drinking alcohol is a sin?"
-    a: "The Bible does not explicitly call drinking a sin, but consistently warns against drunkenness. Ephesians 5:18 says not to get drunk on wine. The key distinction is between moderate consumption and excess."
+    a: 'The Bible does not explicitly call drinking a sin, but consistently warns against drunkenness. Ephesians 5:18 says not to get drunk on wine. The key distinction is between moderate consumption and excess.'
   - q: "Did Jesus drink wine?"
-    a: "Yes. At the Last Supper He shared wine with disciples (Luke 22:17-20), and He turned water into wine at Cana (John 2:1-11)."
+    a: 'Yes. At the Last Supper He shared wine with disciples (Luke 22:17-20), and He turned water into wine at Cana (John 2:1-11).'
   - q: "Should Christians avoid alcohol completely?"
-    a: "This is a personal conviction. Some choose total abstinence based on Romans 14:21. Others practice moderation. Both positions have biblical support."
+    a: 'This is a personal conviction. Some choose total abstinence based on Romans 14:21. Others practice moderation. Both positions have biblical support.'
 ---
 
 When Mark first became a Christian at age 28, he faced an unexpected dilemma at his best friend's wedding. As the waiter offered champagne for the toast, Mark hesitated — was it okay for him to take a sip?

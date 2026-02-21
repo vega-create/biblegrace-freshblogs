@@ -9,11 +9,11 @@ tags: ["family", "children", "parenting", "protection", "prayer"]
 image: ""
 faq:
   - q: "How do you pray for your children?"
-    a: "Pray specifically: for their safety, faith, friendships, and future. Use Scripture as your guide. Pray Psalm 91 for protection, Proverbs 22:6 for guidance, and Jeremiah 29:11 for their future."
+    a: 'Pray specifically: for their safety, faith, friendships, and future. Use Scripture as your guide. Pray Psalm 91 for protection, Proverbs 22:6 for guidance, and Jeremiah 29:11 for their future.'
   - q: "What is a good family prayer?"
-    a: "'Lord, bless our family. Protect us, unite us, and draw each of us closer to You. Help us to love each other well, forgive quickly, and serve together. In Jesus' name, Amen.'"
+    a: '''Lord, bless our family. Protect us, unite us, and draw each of us closer to You. Help us to love each other well, forgive quickly, and serve together. In Jesus'' name, Amen.'''
   - q: "Should I pray out loud with my family?"
-    a: "Yes! Praying aloud together builds spiritual intimacy and teaches children how to talk to God. Start with meal prayers and bedtime prayers, then expand from there."
+    a: 'Yes! Praying aloud together builds spiritual intimacy and teaches children how to talk to God. Start with meal prayers and bedtime prayers, then expand from there.'
 ---
 
 Maria prays for her three children every morning before they wake up. She walks to each bedroom door and whispers a different prayer over each child. Her oldest needs courage for a tough school year. Her middle child needs confidence. Her youngest needs patience. "I can't control what happens to them out there," she says. "But I can cover them in prayer before they leave."

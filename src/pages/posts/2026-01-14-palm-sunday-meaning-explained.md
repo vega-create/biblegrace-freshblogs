@@ -9,11 +9,11 @@ tags: ["palm sunday", "triumphal entry", "holy week", "easter", "holidays"]
 image: ""
 faq:
   - q: "What happened on Palm Sunday?"
-    a: "Jesus rode into Jerusalem on a donkey while crowds waved palm branches and shouted 'Hosanna!' They welcomed Him as a king, fulfilling the prophecy of Zechariah 9:9."
+    a: 'Jesus rode into Jerusalem on a donkey while crowds waved palm branches and shouted ''Hosanna!'' They welcomed Him as a king, fulfilling the prophecy of Zechariah 9:9.'
   - q: "Why did Jesus ride a donkey instead of a horse?"
-    a: "A horse symbolized military conquest. A donkey symbolized peace. Jesus came as a humble, peaceful King — not the military conqueror many expected."
+    a: 'A horse symbolized military conquest. A donkey symbolized peace. Jesus came as a humble, peaceful King — not the military conqueror many expected.'
   - q: "When is Palm Sunday?"
-    a: "Palm Sunday falls on the Sunday before Easter. It marks the beginning of Holy Week, the most sacred week in the Christian calendar."
+    a: 'Palm Sunday falls on the Sunday before Easter. It marks the beginning of Holy Week, the most sacred week in the Christian calendar.'
 ---
 
 Picture this: a dusty road outside Jerusalem, packed with thousands of pilgrims arriving for Passover. Suddenly, a commotion rises from the back of the crowd. A man on a young donkey is approaching, and people are going wild — throwing their cloaks on the road, waving palm branches, shouting at the top of their lungs.

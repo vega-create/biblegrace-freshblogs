@@ -9,11 +9,11 @@ tags: ["tattoos", "leviticus", "body art", "christian freedom"]
 image: ""
 faq:
   - q: "What does Leviticus 19:28 actually say?"
-    a: "It says 'Do not cut your bodies for the dead or put tattoo marks on yourselves.' This was part of Mosaic Law prohibiting pagan mourning rituals. Context is key."
+    a: 'It says ''Do not cut your bodies for the dead or put tattoo marks on yourselves.'' This was part of Mosaic Law prohibiting pagan mourning rituals. Context is key.'
   - q: "Are Christians still bound by Old Testament tattoo laws?"
-    a: "Most theologians believe Jesus fulfilled ceremonial and civil laws (Matthew 5:17). Specific cultural regulations are understood differently under the New Covenant."
+    a: 'Most theologians believe Jesus fulfilled ceremonial and civil laws (Matthew 5:17). Specific cultural regulations are understood differently under the New Covenant.'
   - q: "Can a tattoo honor God?"
-    a: "Many Christians get faith-inspired tattoos. While the Bible doesn't explicitly endorse this, 1 Corinthians 10:31 encourages doing everything for God's glory."
+    a: 'Many Christians get faith-inspired tattoos. While the Bible doesn''t explicitly endorse this, 1 Corinthians 10:31 encourages doing everything for God''s glory.'
 ---
 
 Jessica had been a Christian for five years when she decided she wanted a cross tattoo on her wrist — a permanent reminder of grace. But when she mentioned it to her small group, reactions were mixed. One friend quoted Leviticus, while another showed off her own Scripture tattoo.

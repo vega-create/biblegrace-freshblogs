@@ -9,11 +9,11 @@ tags: ["afterlife", "heaven", "death", "eternal life"]
 image: ""
 faq:
   - q: "What is the main biblical perspective on this?"
-    a: "The Bible addresses this through multiple passages and principles. Rather than one simple verse, Scripture invites us to consider God's character, the original context, and broader themes of love, wisdom, and faithfulness."
+    a: 'The Bible addresses this through multiple passages and principles. Rather than one simple verse, Scripture invites us to consider God''s character, the original context, and broader themes of love, wisdom, and faithfulness.'
   - q: "Do all Christians agree on this topic?"
-    a: "No, sincere Bible-believing Christians hold different views on this topic. Romans 14 teaches us to respect differing convictions on disputable matters while maintaining unity in essential beliefs."
+    a: 'No, sincere Bible-believing Christians hold different views on this topic. Romans 14 teaches us to respect differing convictions on disputable matters while maintaining unity in essential beliefs.'
   - q: "How should I make my decision?"
-    a: "Pray for wisdom (James 1:5), study relevant Scripture in context, seek counsel from mature believers, and examine your heart's motives. God promises to guide those who sincerely seek Him."
+    a: 'Pray for wisdom (James 1:5), study relevant Scripture in context, seek counsel from mature believers, and examine your heart''s motives. God promises to guide those who sincerely seek Him.'
 ---
 
 When the question first came up at Bible study, the room went quiet. Everyone had an opinion, but nobody was sure what the Bible actually said. It's one of those topics Christians wrestle with — and one that deserves a thoughtful, Scripture-based answer.

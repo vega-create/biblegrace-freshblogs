@@ -9,11 +9,11 @@ tags: ["identity", "self-worth", "in christ", "devotion", "who i am"]
 image: ""
 faq:
   - q: "What does the Bible say about my identity?"
-    a: "You are chosen (1 Peter 2:9), forgiven (Eph 1:7), loved (Rom 8:38-39), God's masterpiece (Eph 2:10), and a child of God (John 1:12). Your worth comes from your Creator, not your performance."
+    a: 'You are chosen (1 Peter 2:9), forgiven (Eph 1:7), loved (Rom 8:38-39), God''s masterpiece (Eph 2:10), and a child of God (John 1:12). Your worth comes from your Creator, not your performance.'
   - q: "How do I find my identity in Christ?"
-    a: "Start by reading what Scripture says about who you are. Replace lies ('I'm not enough') with truth ('I am complete in Christ' — Col 2:10). Pray these truths daily until they sink in."
+    a: 'Start by reading what Scripture says about who you are. Replace lies (''I''m not enough'') with truth (''I am complete in Christ'' — Col 2:10). Pray these truths daily until they sink in.'
   - q: "Why do I struggle with self-worth?"
-    a: "Because the world measures worth by appearance, achievement, and approval. God measures worth by love. He loved you before you did anything — 'while we were still sinners, Christ died for us' (Romans 5:8)."
+    a: 'Because the world measures worth by appearance, achievement, and approval. God measures worth by love. He loved you before you did anything — ''while we were still sinners, Christ died for us'' (Romans 5:8).'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

@@ -9,11 +9,11 @@ tags: ["mothers day", "motherhood", "family", "bible verses", "holidays"]
 image: ""
 faq:
   - q: "What does the Bible say about mothers?"
-    a: "The Bible honors mothers deeply. Proverbs 31:28 says 'Her children arise and call her blessed.' Proverbs 22:6 entrusts mothers with training children in faith."
+    a: 'The Bible honors mothers deeply. Proverbs 31:28 says ''Her children arise and call her blessed.'' Proverbs 22:6 entrusts mothers with training children in faith.'
   - q: "What is a good Bible verse for Mother's Day?"
-    a: "Isaiah 66:13: 'As a mother comforts her child, so will I comfort you.' Also Proverbs 31:25-26 about strength and wisdom."
+    a: 'Isaiah 66:13: ''As a mother comforts her child, so will I comfort you.'' Also Proverbs 31:25-26 about strength and wisdom.'
   - q: "How can I honor my mother biblically?"
-    a: "Exodus 20:12 commands us to honor our parents. Show honor through gratitude, quality time, words of affirmation, and prayer."
+    a: 'Exodus 20:12 commands us to honor our parents. Show honor through gratitude, quality time, words of affirmation, and prayer.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

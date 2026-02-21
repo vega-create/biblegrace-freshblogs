@@ -9,11 +9,11 @@ tags: ["thanksgiving", "gratitude", "bible verses", "prayers", "holidays"]
 image: ""
 faq:
   - q: "What does the Bible say about giving thanks?"
-    a: "The Bible repeatedly commands thankfulness. 1 Thessalonians 5:18 says 'give thanks in all circumstances.' Psalm 107:1 says 'Give thanks to the Lord, for he is good; his love endures forever.'"
+    a: 'The Bible repeatedly commands thankfulness. 1 Thessalonians 5:18 says ''give thanks in all circumstances.'' Psalm 107:1 says ''Give thanks to the Lord, for he is good; his love endures forever.'''
   - q: "What is a good Thanksgiving prayer?"
-    a: "A simple prayer: 'Lord, thank You for Your faithfulness. For food, family, and the blessings we often overlook, we give You praise. Open our eyes to see Your goodness in every season. Amen.'"
+    a: 'A simple prayer: ''Lord, thank You for Your faithfulness. For food, family, and the blessings we often overlook, we give You praise. Open our eyes to see Your goodness in every season. Amen.'''
   - q: "Is Thanksgiving in the Bible?"
-    a: "While the American holiday isn't in the Bible, the principle of giving thanks is deeply biblical. The Israelites celebrated harvest festivals, and the Psalms are filled with thanksgiving."
+    a: 'While the American holiday isn''t in the Bible, the principle of giving thanks is deeply biblical. The Israelites celebrated harvest festivals, and the Psalms are filled with thanksgiving.'
 ---
 
 Last November, Karen's family faced their most difficult Thanksgiving yet. Her mother had just been diagnosed with cancer, her son had lost his job, and finances were tight. As they sat around a modest table, Karen suggested they each share one thing they were grateful for.

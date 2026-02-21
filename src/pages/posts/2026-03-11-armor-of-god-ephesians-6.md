@@ -9,11 +9,11 @@ tags: ["armor of god", "ephesians", "spiritual warfare"]
 image: ""
 faq:
   - q: "What is the main message of Ephesians 6:10-18?"
-    a: "At its core, Ephesians 6:10-18 reveals God's character — His love, faithfulness, and commitment to His people. Understanding the historical and literary context deepens our appreciation of this truth."
+    a: 'At its core, Ephesians 6:10-18 reveals God''s character — His love, faithfulness, and commitment to His people. Understanding the historical and literary context deepens our appreciation of this truth.'
   - q: "How should I study Bible passages on my own?"
-    a: "Start by reading the passage multiple times in different translations. Note the context (who, when, why). Look up key words. Read commentaries. Pray for understanding. Journal your insights."
+    a: 'Start by reading the passage multiple times in different translations. Note the context (who, when, why). Look up key words. Read commentaries. Pray for understanding. Journal your insights.'
   - q: "Can I use this for group Bible study?"
-    a: "Absolutely! The questions and insights in this article make excellent discussion starters. Consider reading the passage aloud together, then working through each section."
+    a: 'Absolutely! The questions and insights in this article make excellent discussion starters. Consider reading the passage aloud together, then working through each section.'
 ---
 
 If you've spent any time in church or browsing inspirational quotes, you've likely encountered Ephesians 6:10-18. It's printed on mugs, stitched into pillows, and shared millions of times. But have you ever paused to really understand what it means?

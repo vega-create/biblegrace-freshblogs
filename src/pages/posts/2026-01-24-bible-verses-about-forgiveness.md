@@ -9,11 +9,11 @@ tags: ["forgiveness", "mercy", "grace", "bible verses", "healing"]
 image: ""
 faq:
   - q: "What does the Bible say about forgiving others?"
-    a: "Jesus taught that we must forgive others as God has forgiven us (Matthew 6:14-15). Colossians 3:13 says 'Forgive as the Lord forgave you.'"
+    a: 'Jesus taught that we must forgive others as God has forgiven us (Matthew 6:14-15). Colossians 3:13 says ''Forgive as the Lord forgave you.'''
   - q: "How many times should I forgive someone?"
-    a: "When Peter asked this, Jesus said 'seventy-seven times' (Matthew 18:22) — meaning there's no limit to forgiveness."
+    a: 'When Peter asked this, Jesus said ''seventy-seven times'' (Matthew 18:22) — meaning there''s no limit to forgiveness.'
   - q: "Is forgiveness the same as forgetting?"
-    a: "No. Forgiveness is a choice to release bitterness, not a command to erase memory. You can forgive someone and still maintain healthy boundaries."
+    a: 'No. Forgiveness is a choice to release bitterness, not a command to erase memory. You can forgive someone and still maintain healthy boundaries.'
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

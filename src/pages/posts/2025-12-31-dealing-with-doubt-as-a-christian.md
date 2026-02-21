@@ -9,11 +9,11 @@ tags: ["doubt", "faith", "questions", "honesty", "christian living"]
 image: ""
 faq:
   - q: "Is it a sin to doubt God?"
-    a: "Doubt itself isn't sin — it's what you do with it that matters. Honest doubt that seeks answers can strengthen faith. Even John the Baptist, who baptized Jesus, later asked 'Are you the one?' (Matt 11:3)."
+    a: 'Doubt itself isn''t sin — it''s what you do with it that matters. Honest doubt that seeks answers can strengthen faith. Even John the Baptist, who baptized Jesus, later asked ''Are you the one?'' (Matt 11:3).'
   - q: "How do I overcome doubt?"
-    a: "Don't suppress it. Bring your questions to God, study Scripture, talk to trusted believers, and remember what God has already done in your life. Faith often grows through wrestling."
+    a: 'Don''t suppress it. Bring your questions to God, study Scripture, talk to trusted believers, and remember what God has already done in your life. Faith often grows through wrestling.'
   - q: "Did anyone in the Bible doubt?"
-    a: "Many! Thomas doubted the resurrection. David questioned God's silence. Job demanded answers. Habakkuk asked why God allowed evil. God met each one in their doubt."
+    a: 'Many! Thomas doubted the resurrection. David questioned God''s silence. Job demanded answers. Habakkuk asked why God allowed evil. God met each one in their doubt.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

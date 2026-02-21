@@ -9,11 +9,11 @@ tags: ["jeremiah 29:11", "plans", "hope", "bible study", "context"]
 image: ""
 faq:
   - q: "What is the context of Jeremiah 29:11?"
-    a: "It was written to Jewish exiles in Babylon — not to individuals seeking career guidance. God was promising national restoration after 70 years, showing His faithfulness to His people."
+    a: 'It was written to Jewish exiles in Babylon — not to individuals seeking career guidance. God was promising national restoration after 70 years, showing His faithfulness to His people.'
   - q: "Can I apply Jeremiah 29:11 to my life?"
-    a: "Yes, but carefully. The principle is true: God is sovereign, good, and has purposes for His people. But the specific promise was to a community in exile, not a personal guarantee of comfort."
+    a: 'Yes, but carefully. The principle is true: God is sovereign, good, and has purposes for His people. But the specific promise was to a community in exile, not a personal guarantee of comfort.'
   - q: "What comes after Jeremiah 29:11?"
-    a: "Verse 12-13 say: 'Then you will call on me... and I will listen. You will seek me and find me when you seek me with all your heart.' The promise comes with seeking God."
+    a: 'Verse 12-13 say: ''Then you will call on me... and I will listen. You will seek me and find me when you seek me with all your heart.'' The promise comes with seeking God.'
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

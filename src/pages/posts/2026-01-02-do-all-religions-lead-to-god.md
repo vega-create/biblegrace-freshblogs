@@ -9,11 +9,11 @@ tags: ["religions", "salvation", "exclusivism", "faith questions", "truth"]
 image: ""
 faq:
   - q: "What did Jesus say about being the only way?"
-    a: "Jesus said 'I am the way and the truth and the life. No one comes to the Father except through me' (John 14:6). This is one of His most direct and exclusive claims."
+    a: 'Jesus said ''I am the way and the truth and the life. No one comes to the Father except through me'' (John 14:6). This is one of His most direct and exclusive claims.'
   - q: "What about people who never heard about Jesus?"
-    a: "Romans 1:20 says God reveals Himself through creation. Romans 2:14-15 mentions conscience as a witness. Many Christians trust God's justice for those who never had the opportunity to hear."
+    a: 'Romans 1:20 says God reveals Himself through creation. Romans 2:14-15 mentions conscience as a witness. Many Christians trust God''s justice for those who never had the opportunity to hear.'
   - q: "How should Christians relate to other religions?"
-    a: "With respect, humility, and genuine love. 1 Peter 3:15 says to always be prepared to give an answer, 'but do this with gentleness and respect.'"
+    a: 'With respect, humility, and genuine love. 1 Peter 3:15 says to always be prepared to give an answer, ''but do this with gentleness and respect.'''
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

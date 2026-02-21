@@ -9,11 +9,11 @@ tags: ["philippians 4:13", "strength", "context", "bible study", "paul"]
 image: ""
 faq:
   - q: "What does Philippians 4:13 really mean?"
-    a: "Paul wasn't talking about winning games or getting promotions. He was saying he had learned to be content in all circumstances — hunger or plenty, need or abundance — because Christ gave him strength to endure."
+    a: 'Paul wasn''t talking about winning games or getting promotions. He was saying he had learned to be content in all circumstances — hunger or plenty, need or abundance — because Christ gave him strength to endure.'
   - q: "Why is Philippians 4:13 often misquoted?"
-    a: "It's often used as a motivational slogan removed from context. Read verses 11-12 to see Paul is talking about contentment in hardship, not personal achievement."
+    a: 'It''s often used as a motivational slogan removed from context. Read verses 11-12 to see Paul is talking about contentment in hardship, not personal achievement.'
   - q: "Who wrote Philippians 4:13?"
-    a: "The apostle Paul, writing from prison in Rome (around 61 AD). This makes the verse even more powerful — he found contentment in chains."
+    a: 'The apostle Paul, writing from prison in Rome (around 61 AD). This makes the verse even more powerful — he found contentment in chains.'
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

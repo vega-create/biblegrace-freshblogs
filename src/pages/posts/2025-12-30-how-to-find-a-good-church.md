@@ -9,11 +9,11 @@ tags: ["church", "community", "fellowship", "worship", "christian living"]
 image: ""
 faq:
   - q: "What should I look for in a church?"
-    a: "Biblical teaching, genuine community, opportunities to serve, authentic worship, and a welcoming culture. Hebrews 10:24-25 emphasizes not giving up meeting together."
+    a: 'Biblical teaching, genuine community, opportunities to serve, authentic worship, and a welcoming culture. Hebrews 10:24-25 emphasizes not giving up meeting together.'
   - q: "How long should I visit a church before joining?"
-    a: "Give a church at least 4-6 visits before deciding. Attend a small group or Bible study to experience community beyond Sunday services."
+    a: 'Give a church at least 4-6 visits before deciding. Attend a small group or Bible study to experience community beyond Sunday services.'
   - q: "What if I've been hurt by a church before?"
-    a: "Church hurt is real and valid. Healing takes time. Look for a community that values transparency, accountability, and grace. Don't let one bad experience prevent you from experiencing true fellowship."
+    a: 'Church hurt is real and valid. Healing takes time. Look for a community that values transparency, accountability, and grace. Don''t let one bad experience prevent you from experiencing true fellowship.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

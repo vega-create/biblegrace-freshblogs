@@ -9,11 +9,11 @@ tags: ["fathers day", "fatherhood", "family", "bible verses", "holidays"]
 image: ""
 faq:
   - q: "What does the Bible say about fathers?"
-    a: "The Bible calls fathers to lead with love. Ephesians 6:4 says 'Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.'"
+    a: 'The Bible calls fathers to lead with love. Ephesians 6:4 says ''Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.'''
   - q: "What is a good Bible verse for Father's Day?"
-    a: "Proverbs 20:7: 'The righteous lead blameless lives; blessed are their children after them.' Also Psalm 103:13 about a father's compassion."
+    a: 'Proverbs 20:7: ''The righteous lead blameless lives; blessed are their children after them.'' Also Psalm 103:13 about a father''s compassion.'
   - q: "How can I pray for my father?"
-    a: "Pray for his health, wisdom, faith, and peace. Thank God for his influence in your life, even if imperfect. Pray for healing if the relationship is strained."
+    a: 'Pray for his health, wisdom, faith, and peace. Thank God for his influence in your life, even if imperfect. Pray for healing if the relationship is strained.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

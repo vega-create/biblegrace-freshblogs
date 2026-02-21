@@ -9,11 +9,11 @@ tags: ["bedtime prayers", "sleep", "rest", "nighttime", "prayer"]
 image: ""
 faq:
   - q: "What is a good prayer before bed?"
-    a: "A simple prayer: 'Lord, I place this day in Your hands. Forgive me where I fell short. Protect me as I sleep. Let me wake refreshed and ready to serve You. Amen.'"
+    a: 'A simple prayer: ''Lord, I place this day in Your hands. Forgive me where I fell short. Protect me as I sleep. Let me wake refreshed and ready to serve You. Amen.'''
   - q: "What Bible verse helps you sleep?"
-    a: "Psalm 4:8 (NIV): 'In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety.' Also Psalm 91:1-2 about dwelling in God's shelter."
+    a: 'Psalm 4:8 (NIV): ''In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety.'' Also Psalm 91:1-2 about dwelling in God''s shelter.'
   - q: "How can I stop worrying at night?"
-    a: "Practice Philippians 4:6-7 — give your worries to God in prayer with thanksgiving. Write down concerns and pray over each one. Trust that God is watching while you sleep."
+    a: 'Practice Philippians 4:6-7 — give your worries to God in prayer with thanksgiving. Write down concerns and pray over each one. Trust that God is watching while you sleep.'
 ---
 
 At 2 AM, Lisa was still staring at the ceiling. The next day's meeting, her daughter's struggles at school, the unpaid medical bill — they all circled endlessly in her mind. Then she remembered her grandmother's habit of praying through a psalm before bed. She picked up her phone, found Psalm 4, and whispered it aloud. Within minutes, something shifted. The worries didn't vanish — but they felt lighter.

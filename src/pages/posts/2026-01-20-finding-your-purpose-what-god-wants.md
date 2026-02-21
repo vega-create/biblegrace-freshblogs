@@ -9,11 +9,11 @@ tags: ["purpose", "calling", "gifts", "direction", "devotion"]
 image: ""
 faq:
   - q: "How do I find God's purpose for my life?"
-    a: "Start with what Scripture already reveals: love God, love others, use your gifts to serve. Then pray for wisdom, seek counsel, and step forward in faith."
+    a: 'Start with what Scripture already reveals: love God, love others, use your gifts to serve. Then pray for wisdom, seek counsel, and step forward in faith.'
   - q: "Does God have a specific plan for everyone?"
-    a: "Jeremiah 29:11 and Ephesians 2:10 suggest God has prepared good works for each of us. Your purpose isn't a mystery to solve — it's a relationship to cultivate."
+    a: 'Jeremiah 29:11 and Ephesians 2:10 suggest God has prepared good works for each of us. Your purpose isn''t a mystery to solve — it''s a relationship to cultivate.'
   - q: "What if I feel purposeless?"
-    a: "Seasons of uncertainty are normal. Keep serving where you are, stay connected to God and community, and trust that God is working even when you can't see it."
+    a: 'Seasons of uncertainty are normal. Keep serving where you are, stay connected to God and community, and trust that God is working even when you can''t see it.'
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

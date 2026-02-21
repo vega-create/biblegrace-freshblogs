@@ -9,11 +9,11 @@ tags: ["work", "career", "calling", "job", "prayer"]
 image: ""
 faq:
   - q: "Can I pray about my career?"
-    a: "Absolutely. Colossians 3:23 says 'Whatever you do, work at it with all your heart, as working for the Lord.' God cares about your work life."
+    a: 'Absolutely. Colossians 3:23 says ''Whatever you do, work at it with all your heart, as working for the Lord.'' God cares about your work life.'
   - q: "How do I know if I'm in the right job?"
-    a: "Pray for wisdom (James 1:5), seek godly counsel, consider your gifts and passions, and trust God's timing. Sometimes the right job is the one you're growing in right now."
+    a: 'Pray for wisdom (James 1:5), seek godly counsel, consider your gifts and passions, and trust God''s timing. Sometimes the right job is the one you''re growing in right now.'
   - q: "What if I hate my job?"
-    a: "Pray for perspective, contentment, or an open door elsewhere. Meanwhile, work with excellence — you represent Christ in your workplace (Col 3:17)."
+    a: 'Pray for perspective, contentment, or an open door elsewhere. Meanwhile, work with excellence — you represent Christ in your workplace (Col 3:17).'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

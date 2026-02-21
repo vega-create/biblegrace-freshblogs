@@ -9,11 +9,11 @@ tags: ["pentecost", "holy spirit", "church", "acts", "holidays"]
 image: ""
 faq:
   - q: "What happened on the Day of Pentecost?"
-    a: "The Holy Spirit descended on the disciples with the sound of rushing wind and tongues of fire. They spoke in other languages, and Peter preached a sermon that led 3,000 people to be baptized (Acts 2)."
+    a: 'The Holy Spirit descended on the disciples with the sound of rushing wind and tongues of fire. They spoke in other languages, and Peter preached a sermon that led 3,000 people to be baptized (Acts 2).'
   - q: "When is Pentecost celebrated?"
-    a: "Pentecost falls 50 days after Easter Sunday. The word comes from the Greek 'pentekostos' meaning 'fiftieth.' It was originally a Jewish harvest festival called Shavuot."
+    a: 'Pentecost falls 50 days after Easter Sunday. The word comes from the Greek ''pentekostos'' meaning ''fiftieth.'' It was originally a Jewish harvest festival called Shavuot.'
   - q: "Why is Pentecost called the birthday of the church?"
-    a: "Because it marks the moment the Holy Spirit empowered believers to share the gospel, and the first large-scale community of Christians was formed — 3,000 in one day."
+    a: 'Because it marks the moment the Holy Spirit empowered believers to share the gospel, and the first large-scale community of Christians was formed — 3,000 in one day.'
 ---
 
 Imagine being in a room with 120 other believers, praying and waiting — not knowing what was coming next. Jesus had ascended to heaven ten days earlier, leaving only a promise: "You will receive power when the Holy Spirit comes on you." And then it happened.

@@ -9,11 +9,11 @@ tags: ["easter", "resurrection", "jesus", "hope"]
 image: ""
 faq:
   - q: "Why is Easter the most important Christian holiday?"
-    a: "Easter celebrates Jesus Christ's resurrection from the dead — the event that validates everything Christianity claims. As Paul wrote in 1 Corinthians 15:17, 'If Christ has not been raised, your faith is futile.' The resurrection is the foundation of Christian hope."
+    a: 'Easter celebrates Jesus Christ''s resurrection from the dead — the event that validates everything Christianity claims. As Paul wrote in 1 Corinthians 15:17, ''If Christ has not been raised, your faith is futile.'' The resurrection is the foundation of Christian hope.'
   - q: "What happened on Good Friday and Easter Sunday?"
-    a: "Good Friday marks Jesus' crucifixion — His death on the cross for humanity's sins. Easter Sunday celebrates His resurrection three days later, proving His victory over sin and death and confirming His identity as the Son of God."
+    a: 'Good Friday marks Jesus'' crucifixion — His death on the cross for humanity''s sins. Easter Sunday celebrates His resurrection three days later, proving His victory over sin and death and confirming His identity as the Son of God.'
   - q: "How can I celebrate Easter more meaningfully?"
-    a: "Read the Gospel accounts (Matthew 26-28, Mark 14-16, Luke 22-24, John 18-21). Attend a Good Friday and Easter service. Reflect on what the resurrection means personally. Share the story with family and friends."
+    a: 'Read the Gospel accounts (Matthew 26-28, Mark 14-16, Luke 22-24, John 18-21). Attend a Good Friday and Easter service. Reflect on what the resurrection means personally. Share the story with family and friends.'
 ---
 
 For many families, Easter means egg hunts, chocolate bunnies, and spring dresses. There's nothing wrong with those traditions — but somewhere between the pastel decorations and the ham dinner, it's easy to lose sight of what this day is really about. And the real story? It's far more powerful than any tradition could capture.

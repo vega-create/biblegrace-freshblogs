@@ -9,11 +9,11 @@ tags: ["money", "finances", "stewardship", "budgeting", "christian living"]
 image: ""
 faq:
   - q: "What does the Bible say about saving money?"
-    a: "Proverbs 21:20 says 'The wise store up choice food and olive oil, but fools gulp theirs down.' Saving wisely is a biblical principle."
+    a: 'Proverbs 21:20 says ''The wise store up choice food and olive oil, but fools gulp theirs down.'' Saving wisely is a biblical principle.'
   - q: "Should Christians have a budget?"
-    a: "While the Bible doesn't mention budgets specifically, it teaches planning and stewardship. Luke 14:28 asks 'Which of you, wanting to build a tower, doesn't first sit down and calculate the cost?'"
+    a: 'While the Bible doesn''t mention budgets specifically, it teaches planning and stewardship. Luke 14:28 asks ''Which of you, wanting to build a tower, doesn''t first sit down and calculate the cost?'''
   - q: "How can I be content with what I have?"
-    a: "Philippians 4:11-12 shows Paul learned contentment in all circumstances. Practice gratitude daily, avoid comparison, and trust God's provision."
+    a: 'Philippians 4:11-12 shows Paul learned contentment in all circumstances. Practice gratitude daily, avoid comparison, and trust God''s provision.'
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

@@ -9,11 +9,11 @@ tags: ["silence", "waiting", "patience"]
 image: ""
 faq:
   - q: "How long should I spend on daily devotions?"
-    a: "Even 10-15 minutes is meaningful. Consistency matters more than length. Start small and let your devotion time grow naturally as you experience its benefits."
+    a: 'Even 10-15 minutes is meaningful. Consistency matters more than length. Start small and let your devotion time grow naturally as you experience its benefits.'
   - q: "What if I don't feel anything during devotions?"
-    a: "Feelings fluctuate, but God's presence doesn't. Faith isn't about feeling spiritual — it's about showing up consistently. Some of the most transformative devotional times don't come with emotional fireworks."
+    a: 'Feelings fluctuate, but God''s presence doesn''t. Faith isn''t about feeling spiritual — it''s about showing up consistently. Some of the most transformative devotional times don''t come with emotional fireworks.'
   - q: "Can I do devotions at night instead of morning?"
-    a: "Absolutely. The best time for devotions is whenever you can be most present and consistent. Some people are morning people; others connect with God best in the evening quiet."
+    a: 'Absolutely. The best time for devotions is whenever you can be most present and consistent. Some people are morning people; others connect with God best in the evening quiet.'
 ---
 
 The alarm goes off. The day begins. Before your feet even hit the floor, the weight of the world tries to settle on your shoulders. Bills, relationships, health concerns, the uncertainty of tomorrow — it all rushes in before the coffee is ready.

@@ -9,11 +9,11 @@ tags: ["valentines day", "love", "1 corinthians 13", "relationships", "holidays"
 image: ""
 faq:
   - q: "What does the Bible say about romantic love?"
-    a: "Song of Solomon celebrates romantic love beautifully. Genesis 2:24 describes marriage as two becoming one flesh. Ephesians 5:25 calls husbands to love wives as Christ loved the church."
+    a: 'Song of Solomon celebrates romantic love beautifully. Genesis 2:24 describes marriage as two becoming one flesh. Ephesians 5:25 calls husbands to love wives as Christ loved the church.'
   - q: "Is 1 Corinthians 13 about romantic love?"
-    a: "While often read at weddings, Paul was writing about love within the Christian community. However, its principles — patience, kindness, selflessness — apply beautifully to all relationships."
+    a: 'While often read at weddings, Paul was writing about love within the Christian community. However, its principles — patience, kindness, selflessness — apply beautifully to all relationships.'
   - q: "What's the greatest love according to the Bible?"
-    a: "John 15:13: 'Greater love has no one than this: to lay down one's life for one's friends.' The cross is the ultimate expression of love."
+    a: 'John 15:13: ''Greater love has no one than this: to lay down one''s life for one''s friends.'' The cross is the ultimate expression of love.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

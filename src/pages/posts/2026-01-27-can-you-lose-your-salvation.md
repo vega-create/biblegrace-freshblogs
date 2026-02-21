@@ -9,11 +9,11 @@ tags: ["salvation", "eternal security", "perseverance", "faith questions", "theo
 image: ""
 faq:
   - q: "What does 'once saved always saved' mean?"
-    a: "This doctrine (eternal security) teaches that true believers cannot lose their salvation because it depends on God's faithfulness, not human effort. John 10:28-29 is a key text."
+    a: 'This doctrine (eternal security) teaches that true believers cannot lose their salvation because it depends on God''s faithfulness, not human effort. John 10:28-29 is a key text.'
   - q: "What do different denominations believe?"
-    a: "Baptists, Presbyterians, and Reformed churches generally affirm eternal security. Methodists, Pentecostals, and Arminian traditions believe genuine believers can fall away."
+    a: 'Baptists, Presbyterians, and Reformed churches generally affirm eternal security. Methodists, Pentecostals, and Arminian traditions believe genuine believers can fall away.'
   - q: "What does the Bible say?"
-    a: "There are strong verses on both sides. John 10:28, Romans 8:38-39, and Ephesians 1:13-14 support security. Hebrews 6:4-6, 2 Peter 2:20-21, and Galatians 5:4 are cited by the other view."
+    a: 'There are strong verses on both sides. John 10:28, Romans 8:38-39, and Ephesians 1:13-14 support security. Hebrews 6:4-6, 2 Peter 2:20-21, and Galatians 5:4 are cited by the other view.'
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

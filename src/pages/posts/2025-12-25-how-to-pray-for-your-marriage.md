@@ -9,11 +9,11 @@ tags: ["marriage", "spouse", "love", "relationships", "prayer"]
 image: ""
 faq:
   - q: "How should I pray for my marriage?"
-    a: "Pray for unity, communication, forgiveness, spiritual growth, and protection from outside influences. Pray WITH your spouse when possible — it builds intimacy like nothing else."
+    a: 'Pray for unity, communication, forgiveness, spiritual growth, and protection from outside influences. Pray WITH your spouse when possible — it builds intimacy like nothing else.'
   - q: "What Bible verse is good for marriage?"
-    a: "Ecclesiastes 4:12: 'A cord of three strands is not quickly broken.' Also Ephesians 5:25 about sacrificial love, and 1 Corinthians 13 about love's characteristics."
+    a: 'Ecclesiastes 4:12: ''A cord of three strands is not quickly broken.'' Also Ephesians 5:25 about sacrificial love, and 1 Corinthians 13 about love''s characteristics.'
   - q: "Can prayer save a struggling marriage?"
-    a: "Prayer alone isn't a magic fix, but inviting God into your marriage is the most important step. Combine prayer with honest communication, counseling if needed, and intentional effort."
+    a: 'Prayer alone isn''t a magic fix, but inviting God into your marriage is the most important step. Combine prayer with honest communication, counseling if needed, and intentional effort.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

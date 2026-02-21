@@ -9,11 +9,11 @@ tags: ["lent", "ash wednesday", "fasting", "easter", "holidays"]
 image: ""
 faq:
   - q: "What is Lent in Christianity?"
-    a: "Lent is a 40-day season of prayer, fasting, and repentance leading up to Easter. It begins on Ash Wednesday and mirrors Jesus' 40 days of fasting in the wilderness."
+    a: 'Lent is a 40-day season of prayer, fasting, and repentance leading up to Easter. It begins on Ash Wednesday and mirrors Jesus'' 40 days of fasting in the wilderness.'
   - q: "Do Protestants observe Lent?"
-    a: "Some do, some don't. Catholics, Anglicans, Lutherans, and Methodists traditionally observe Lent. Many evangelical churches are also embracing Lenten practices."
+    a: 'Some do, some don''t. Catholics, Anglicans, Lutherans, and Methodists traditionally observe Lent. Many evangelical churches are also embracing Lenten practices.'
   - q: "What should I give up for Lent?"
-    a: "Traditionally people fast from food, sweets, or alcohol. Many also give up social media, TV, or other distractions. The goal isn't deprivation — it's creating space for God."
+    a: 'Traditionally people fast from food, sweets, or alcohol. Many also give up social media, TV, or other distractions. The goal isn''t deprivation — it''s creating space for God.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

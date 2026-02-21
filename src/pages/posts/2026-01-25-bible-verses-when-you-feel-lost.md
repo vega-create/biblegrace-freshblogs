@@ -9,11 +9,11 @@ tags: ["lost", "direction", "guidance", "hope", "bible verses"]
 image: ""
 faq:
   - q: "What does the Bible say when you feel lost?"
-    a: "Psalm 23:4 reminds us God walks with us through dark valleys. Isaiah 41:10 says 'Do not fear, for I am with you.' God never loses sight of His children."
+    a: 'Psalm 23:4 reminds us God walks with us through dark valleys. Isaiah 41:10 says ''Do not fear, for I am with you.'' God never loses sight of His children.'
   - q: "How do I find direction from God?"
-    a: "Pray for wisdom (James 1:5), read Scripture, seek godly counsel, and trust that God guides your steps (Proverbs 16:9)."
+    a: 'Pray for wisdom (James 1:5), read Scripture, seek godly counsel, and trust that God guides your steps (Proverbs 16:9).'
   - q: "Does God care when I feel confused?"
-    a: "Absolutely. God is not a God of confusion (1 Corinthians 14:33). He invites you to bring your questions to Him and promises to guide you into truth."
+    a: 'Absolutely. God is not a God of confusion (1 Corinthians 14:33). He invites you to bring your questions to Him and promises to guide you into truth.'
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

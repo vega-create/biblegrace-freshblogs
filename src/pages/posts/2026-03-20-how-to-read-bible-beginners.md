@@ -9,11 +9,11 @@ tags: ["bible reading", "beginners", "habits"]
 image: ""
 faq:
   - q: "Is it normal for Christians to struggle with starting a Bible reading habit?"
-    a: "Absolutely. The Bible is filled with examples of faithful people who struggled deeply. Struggle doesn't indicate weak faith — it's part of the human experience in a fallen world."
+    a: 'Absolutely. The Bible is filled with examples of faithful people who struggled deeply. Struggle doesn''t indicate weak faith — it''s part of the human experience in a fallen world.'
   - q: "Should I seek professional help or just pray?"
-    a: "Both! Seeking professional help (counseling, medical care) is not a lack of faith. God often works through trained professionals. James 5:14-16 encourages both prayer and practical care."
+    a: 'Both! Seeking professional help (counseling, medical care) is not a lack of faith. God often works through trained professionals. James 5:14-16 encourages both prayer and practical care.'
   - q: "How can my church community help?"
-    a: "Share your struggles with trusted believers. Galatians 6:2 says to 'carry each other's burdens.' Community support, prayer teams, and pastoral care are powerful resources."
+    a: 'Share your struggles with trusted believers. Galatians 6:2 says to ''carry each other''s burdens.'' Community support, prayer teams, and pastoral care are powerful resources.'
 ---
 
 She sat in the church parking lot for ten minutes before going in. Not because she was early — because she was wrestling. Wrestling with a question millions of Christians face but few discuss openly: how does faith intersect with the messy reality of starting a Bible reading habit?

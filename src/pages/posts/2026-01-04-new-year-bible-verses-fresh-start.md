@@ -9,11 +9,11 @@ tags: ["new year", "new beginnings", "resolutions", "fresh start", "holidays"]
 image: ""
 faq:
   - q: "What does the Bible say about new beginnings?"
-    a: "2 Corinthians 5:17: 'If anyone is in Christ, the new creation has come: The old has gone, the new is here!' God is always making things new."
+    a: '2 Corinthians 5:17: ''If anyone is in Christ, the new creation has come: The old has gone, the new is here!'' God is always making things new.'
   - q: "Should Christians make New Year's resolutions?"
-    a: "There's nothing wrong with setting goals. The key is inviting God into the process. Proverbs 16:3 says 'Commit to the Lord whatever you do, and he will establish your plans.'"
+    a: 'There''s nothing wrong with setting goals. The key is inviting God into the process. Proverbs 16:3 says ''Commit to the Lord whatever you do, and he will establish your plans.'''
   - q: "What's a good prayer for the New Year?"
-    a: "'Lord, I surrender this year to You. Guide my steps, guard my heart, and give me courage to follow wherever You lead. Make this year count for eternity. Amen.'"
+    a: '''Lord, I surrender this year to You. Guide my steps, guard my heart, and give me courage to follow wherever You lead. Make this year count for eternity. Amen.'''
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

@@ -9,11 +9,11 @@ tags: ["death", "heaven", "hell", "afterlife", "faith questions"]
 image: ""
 faq:
   - q: "Do Christians go straight to heaven?"
-    a: "Paul wrote 'to be absent from the body is to be present with the Lord' (2 Cor 5:8). Most Christians believe believers enter God's presence at death, awaiting final resurrection."
+    a: 'Paul wrote ''to be absent from the body is to be present with the Lord'' (2 Cor 5:8). Most Christians believe believers enter God''s presence at death, awaiting final resurrection.'
   - q: "What is the final judgment?"
-    a: "Revelation 20:11-15 describes a final judgment where all people stand before God. Believers are saved through faith in Christ. It's a sobering but hopeful picture."
+    a: 'Revelation 20:11-15 describes a final judgment where all people stand before God. Believers are saved through faith in Christ. It''s a sobering but hopeful picture.'
   - q: "Will we recognize loved ones in heaven?"
-    a: "Scripture suggests yes. At the Transfiguration, Moses and Elijah were recognized (Matt 17:3). Paul expected to see the Thessalonians again (1 Thess 2:19-20)."
+    a: 'Scripture suggests yes. At the Transfiguration, Moses and Elijah were recognized (Matt 17:3). Paul expected to see the Thessalonians again (1 Thess 2:19-20).'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

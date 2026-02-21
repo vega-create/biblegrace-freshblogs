@@ -9,11 +9,11 @@ tags: ["grief", "loss", "death", "comfort", "prayer"]
 image: ""
 faq:
   - q: "What do you pray for someone who lost a loved one?"
-    a: "Pray for God's comfort, peace, and presence. Ask that they feel supported, that good memories bring healing, and that hope sustains them through the darkest days."
+    a: 'Pray for God''s comfort, peace, and presence. Ask that they feel supported, that good memories bring healing, and that hope sustains them through the darkest days.'
   - q: "What Bible verse helps with grief?"
-    a: "Psalm 34:18: 'The Lord is close to the brokenhearted and saves those who are crushed in spirit.' Also 2 Corinthians 1:3-4 about the God of all comfort."
+    a: 'Psalm 34:18: ''The Lord is close to the brokenhearted and saves those who are crushed in spirit.'' Also 2 Corinthians 1:3-4 about the God of all comfort.'
   - q: "Is it okay to cry when praying?"
-    a: "Absolutely. Jesus wept at Lazarus' tomb (John 11:35). Tears are a language God understands. Honest, tearful prayers are some of the most powerful prayers you can pray."
+    a: 'Absolutely. Jesus wept at Lazarus'' tomb (John 11:35). Tears are a language God understands. Honest, tearful prayers are some of the most powerful prayers you can pray.'
 ---
 
 When Tom lost his wife of 42 years, he couldn't find words to pray. He sat in his quiet house, overwhelmed by silence. His pastor told him something he never forgot: "When you can't pray, let others pray for you. And when no words come, remember — the Holy Spirit intercedes with groans too deep for words."

@@ -9,11 +9,11 @@ tags: ["hope", "hard times", "encouragement", "bible verses", "perseverance"]
 image: ""
 faq:
   - q: "What does the Bible say about hope?"
-    a: "Romans 15:13 calls God 'the God of hope.' Biblical hope isn't wishful thinking — it's confident expectation based on God's character and promises."
+    a: 'Romans 15:13 calls God ''the God of hope.'' Biblical hope isn''t wishful thinking — it''s confident expectation based on God''s character and promises.'
   - q: "What Bible verse gives the most hope?"
-    a: "Romans 8:28 is one of the most hopeful: 'We know that in all things God works for the good of those who love him.' Also Jeremiah 29:11 about God's good plans."
+    a: 'Romans 8:28 is one of the most hopeful: ''We know that in all things God works for the good of those who love him.'' Also Jeremiah 29:11 about God''s good plans.'
   - q: "How do I have hope when everything is falling apart?"
-    a: "Hope isn't based on circumstances — it's based on God's faithfulness. Lamentations 3:22-23 says His mercies are new every morning. Start each day by declaring what's true, not what feels true."
+    a: 'Hope isn''t based on circumstances — it''s based on God''s faithfulness. Lamentations 3:22-23 says His mercies are new every morning. Start each day by declaring what''s true, not what feels true.'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

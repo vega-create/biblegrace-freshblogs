@@ -9,11 +9,11 @@ tags: ["evangelism", "sharing faith", "witness", "relationships", "christian liv
 image: ""
 faq:
   - q: "How do I share my faith naturally?"
-    a: "Start by living it authentically. Be kind, ask good questions, share your own story, and let conversations about faith flow naturally from relationship."
+    a: 'Start by living it authentically. Be kind, ask good questions, share your own story, and let conversations about faith flow naturally from relationship.'
   - q: "What if someone asks a question I can't answer?"
-    a: "Say 'That's a great question — let me look into it.' Honesty about what you don't know builds more trust than pretending to have all the answers."
+    a: 'Say ''That''s a great question — let me look into it.'' Honesty about what you don''t know builds more trust than pretending to have all the answers.'
   - q: "Is it wrong to not share my faith?"
-    a: "Jesus calls all believers to be witnesses (Acts 1:8). But sharing doesn't always mean preaching — it can be serving, listening, loving, and simply being ready when opportunities arise (1 Peter 3:15)."
+    a: 'Jesus calls all believers to be witnesses (Acts 1:8). But sharing doesn''t always mean preaching — it can be serving, listening, loving, and simply being ready when opportunities arise (1 Peter 3:15).'
 ---
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.

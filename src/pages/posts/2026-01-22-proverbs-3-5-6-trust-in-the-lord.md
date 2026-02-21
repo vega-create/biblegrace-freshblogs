@@ -9,11 +9,11 @@ tags: ["proverbs 3:5-6", "trust", "wisdom", "bible study", "guidance"]
 image: ""
 faq:
   - q: "What does 'lean not on your own understanding' mean?"
-    a: "It doesn't mean don't think — it means don't rely solely on your limited human perspective. Seek God's wisdom alongside your reasoning."
+    a: 'It doesn''t mean don''t think — it means don''t rely solely on your limited human perspective. Seek God''s wisdom alongside your reasoning.'
   - q: "How do I trust God when I can't see the path?"
-    a: "Trust is built through past faithfulness. Remember what God has already done. Take the next step you can see and trust Him with what you can't."
+    a: 'Trust is built through past faithfulness. Remember what God has already done. Take the next step you can see and trust Him with what you can''t.'
   - q: "What does 'He will make your paths straight' mean?"
-    a: "The Hebrew word means 'smooth' or 'direct.' God doesn't promise an easy path, but He promises to guide and remove obstacles as you follow Him."
+    a: 'The Hebrew word means ''smooth'' or ''direct.'' God doesn''t promise an easy path, but He promises to guide and remove obstacles as you follow Him.'
 ---
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.

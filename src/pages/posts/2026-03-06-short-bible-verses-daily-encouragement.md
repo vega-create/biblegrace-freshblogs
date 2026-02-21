@@ -9,11 +9,11 @@ tags: ["short verses", "encouragement", "daily"]
 image: ""
 faq:
   - q: "What is the most powerful Bible verse about daily encouragement?"
-    a: "While all Scripture is valuable, Isaiah 40:31, Psalm 46:1, and Romans 8:28 are among the most beloved verses about daily encouragement. The 'most powerful' verse is often the one that speaks directly to your current situation."
+    a: 'While all Scripture is valuable, Isaiah 40:31, Psalm 46:1, and Romans 8:28 are among the most beloved verses about daily encouragement. The ''most powerful'' verse is often the one that speaks directly to your current situation.'
   - q: "How can I memorize these verses?"
-    a: "Start with 2-3 key verses. Write them on cards, set phone reminders, or use a Bible memory app. Repeat daily for a week before adding new ones. Connecting verses to personal experiences helps long-term memory."
+    a: 'Start with 2-3 key verses. Write them on cards, set phone reminders, or use a Bible memory app. Repeat daily for a week before adding new ones. Connecting verses to personal experiences helps long-term memory.'
   - q: "Can reading Bible verses actually help during difficult times?"
-    a: "Yes. Beyond the spiritual dimension, meditation on meaningful texts reduces anxiety and improves resilience. For believers, Scripture carries the power of God's living Word (Hebrews 4:12) to transform the inner person."
+    a: 'Yes. Beyond the spiritual dimension, meditation on meaningful texts reduces anxiety and improves resilience. For believers, Scripture carries the power of God''s living Word (Hebrews 4:12) to transform the inner person.'
 ---
 
 When life's storms hit hardest, God's Word becomes our anchor. These carefully selected Bible verses about daily encouragement aren't just inspirational quotes — they're living, breathing promises from the God who created you and holds your future.

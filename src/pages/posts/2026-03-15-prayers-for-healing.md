@@ -9,11 +9,11 @@ tags: ["healing prayer", "sick", "recovery"]
 image: ""
 faq:
   - q: "How long should I pray?"
-    a: "There's no required length. Jesus praised brief, sincere prayers (Matthew 6:7). Start with 5-10 minutes and let it grow naturally. Quality matters more than quantity."
+    a: 'There''s no required length. Jesus praised brief, sincere prayers (Matthew 6:7). Start with 5-10 minutes and let it grow naturally. Quality matters more than quantity.'
   - q: "What if I don't know what to say?"
-    a: "Start with 'God, I'm here.' The Holy Spirit helps us pray (Romans 8:26). You can also pray Scripture — read a Psalm aloud as your own prayer to God."
+    a: 'Start with ''God, I''m here.'' The Holy Spirit helps us pray (Romans 8:26). You can also pray Scripture — read a Psalm aloud as your own prayer to God.'
   - q: "Does God always answer prayer?"
-    a: "Yes, but not always the way we expect. God answers with 'yes,' 'no,' or 'wait.' Every answer reflects His perfect wisdom and love for us (Romans 8:28)."
+    a: 'Yes, but not always the way we expect. God answers with ''yes,'' ''no,'' or ''wait.'' Every answer reflects His perfect wisdom and love for us (Romans 8:28).'
 ---
 
 When words feel inadequate and your heart is heavy, prayer connects you to the God who hears every whisper. Whether you're a seasoned prayer warrior or don't know where to begin, this guide will help you find your voice before God.

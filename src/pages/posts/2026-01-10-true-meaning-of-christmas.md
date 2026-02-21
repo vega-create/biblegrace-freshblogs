@@ -9,11 +9,11 @@ tags: ["christmas", "birth of jesus", "advent", "holidays"]
 image: ""
 faq:
   - q: "Why do we celebrate Christmas on December 25?"
-    a: "The exact date of Jesus' birth is unknown. December 25 was chosen by the early church in the 4th century, possibly to coincide with Roman festivals. The date matters less than the event it commemorates."
+    a: 'The exact date of Jesus'' birth is unknown. December 25 was chosen by the early church in the 4th century, possibly to coincide with Roman festivals. The date matters less than the event it commemorates.'
   - q: "What does the Bible say about the Christmas story?"
-    a: "The birth narrative is found in Matthew 1-2 and Luke 1-2. Jesus was born in Bethlehem to Mary and Joseph, laid in a manger, and announced by angels to shepherds."
+    a: 'The birth narrative is found in Matthew 1-2 and Luke 1-2. Jesus was born in Bethlehem to Mary and Joseph, laid in a manger, and announced by angels to shepherds.'
   - q: "How can I keep Christ at the center of Christmas?"
-    a: "Focus on Advent devotions, serve others, read the Nativity story aloud, give meaningful gifts, and attend church services."
+    a: 'Focus on Advent devotions, serve others, read the Nativity story aloud, give meaningful gifts, and attend church services.'
 ---
 
 When five-year-old Mia arranged her family's nativity set under the Christmas tree, she carefully placed the baby Jesus figure in the center of the manger scene. "He's the most important one," she told her mom. "That's why He goes in the middle."
