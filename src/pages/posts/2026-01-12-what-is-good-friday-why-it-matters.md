@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "holidays"
 tags: ["good friday", "crucifixion", "cross", "easter", "holidays"]
-image: ""
+image: "https://images.pexels.com/photos/1771217/pexels-photo-1771217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "Why is it called Good Friday if Jesus died?"
     a: 'It''s called ''good'' because of what Jesus'' death accomplished — redemption for humanity. Some scholars believe it comes from ''God''s Friday.'' Despite the suffering, the result was the greatest act of love in history.'
@@ -15,7 +15,10 @@ faq:
     a: 'Jesus was arrested, tried before Pilate, beaten, forced to carry His cross, and crucified at Golgotha. He died at approximately 3 PM. His body was placed in a borrowed tomb.'
   - q: "How should Christians observe Good Friday?"
     a: 'Many churches hold special services, often from noon to 3 PM. Christians may fast, pray, read the Passion narrative, or reflect on the meaning of Jesus'' sacrifice.'
+imageAlt: "A person holds an open Bible showcasing the New Testament under dramatic lighting."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 Every year, Pastor James notices the same thing in his congregation. On Easter Sunday, the church is packed with joyful faces. But on Good Friday, the sanctuary is half-empty. "We want the resurrection," he often says, "but we rush past the cross."
 

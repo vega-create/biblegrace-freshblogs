@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "faith-questions"
 tags: ["tattoos", "leviticus", "body art", "christian freedom"]
-image: ""
+image: "https://images.pexels.com/photos/7267740/pexels-photo-7267740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does Leviticus 19:28 actually say?"
     a: 'It says ''Do not cut your bodies for the dead or put tattoo marks on yourselves.'' This was part of Mosaic Law prohibiting pagan mourning rituals. Context is key.'
@@ -15,7 +15,10 @@ faq:
     a: 'Most theologians believe Jesus fulfilled ceremonial and civil laws (Matthew 5:17). Specific cultural regulations are understood differently under the New Covenant.'
   - q: "Can a tattoo honor God?"
     a: 'Many Christians get faith-inspired tattoos. While the Bible doesn''t explicitly endorse this, 1 Corinthians 10:31 encourages doing everything for God''s glory.'
+imageAlt: "A spiritual medium with arms outstretched conducts a mystical seance indoors, surrounded by candles."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #ede9fe; border-radius: 10px; border: 1px solid #c4b5fd; text-align: center;"><div style="font-size: 1.3rem;">❓</div><div style="font-weight: 700; color: #5b21b6; font-size: 0.8rem;">Question</div><div style="color: #6b7280; font-size: 0.7rem;">What does the Bible say?</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Application</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply today</div></div></div>
+
 
 Jessica had been a Christian for five years when she decided she wanted a cross tattoo on her wrist — a permanent reminder of grace. But when she mentioned it to her small group, reactions were mixed. One friend quoted Leviticus, while another showed off her own Scripture tattoo.
 

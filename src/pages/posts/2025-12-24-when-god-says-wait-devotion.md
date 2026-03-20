@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "daily-devotion"
 tags: ["waiting", "patience", "trust", "timing", "devotion"]
-image: ""
+image: "https://images.pexels.com/photos/4068583/pexels-photo-4068583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "Why does God make us wait?"
     a: 'Waiting builds character, deepens dependence on God, and prepares us for what''s ahead. Abraham waited 25 years for Isaac. Joseph waited 13 years for his destiny. God''s delays aren''t denials.'
@@ -15,7 +15,10 @@ faq:
     a: 'Isaiah 40:31: ''Those who hope in the Lord will renew their strength.'' Psalm 27:14: ''Wait for the Lord; be strong and take heart.'' Waiting is an active discipline, not passive inaction.'
   - q: "How do I stay faithful while waiting?"
     a: 'Keep praying. Keep serving. Keep trusting. Focus on what God IS doing, not what He isn''t. Lamentations 3:25 promises: ''The Lord is good to those whose hope is in him, to the one who seeks him.'''
+imageAlt: "Silhouette of a hand holding a rosary with a cross against a dramatic sky, symbolizing faith and spirituality."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

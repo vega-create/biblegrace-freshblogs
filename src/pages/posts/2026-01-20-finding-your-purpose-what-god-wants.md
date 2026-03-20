@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "daily-devotion"
 tags: ["purpose", "calling", "gifts", "direction", "devotion"]
-image: ""
+image: "https://images.pexels.com/photos/36638281/pexels-photo-36638281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "How do I find God's purpose for my life?"
     a: 'Start with what Scripture already reveals: love God, love others, use your gifts to serve. Then pray for wisdom, seek counsel, and step forward in faith.'
@@ -15,7 +15,10 @@ faq:
     a: 'Jeremiah 29:11 and Ephesians 2:10 suggest God has prepared good works for each of us. Your purpose isn''t a mystery to solve — it''s a relationship to cultivate.'
   - q: "What if I feel purposeless?"
     a: 'Seasons of uncertainty are normal. Keep serving where you are, stay connected to God and community, and trust that God is working even when you can''t see it.'
+imageAlt: "Free stock photo of desparate, desperation, finding meaning"
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.
 

@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "holidays"
 tags: ["palm sunday", "triumphal entry", "holy week", "easter", "holidays"]
-image: ""
+image: "https://images.pexels.com/photos/7221659/pexels-photo-7221659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What happened on Palm Sunday?"
     a: 'Jesus rode into Jerusalem on a donkey while crowds waved palm branches and shouted ''Hosanna!'' They welcomed Him as a king, fulfilling the prophecy of Zechariah 9:9.'
@@ -15,7 +15,10 @@ faq:
     a: 'A horse symbolized military conquest. A donkey symbolized peace. Jesus came as a humble, peaceful King — not the military conqueror many expected.'
   - q: "When is Palm Sunday?"
     a: 'Palm Sunday falls on the Sunday before Easter. It marks the beginning of Holy Week, the most sacred week in the Christian calendar.'
+imageAlt: "Close-up of a palm reading session, highlighting the mystical art of fortune telling."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 Picture this: a dusty road outside Jerusalem, packed with thousands of pilgrims arriving for Passover. Suddenly, a commotion rises from the back of the crowd. A man on a young donkey is approaching, and people are going wild — throwing their cloaks on the road, waving palm branches, shouting at the top of their lungs.
 

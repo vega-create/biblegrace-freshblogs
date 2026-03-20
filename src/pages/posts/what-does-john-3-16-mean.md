@@ -5,10 +5,13 @@ description: "Discover the deeper meaning of John 3:16 — the most quoted verse
 date: "2026-02-20"
 author: "sarah-mitchell"
 category: "faith-questions"
-image: ""
+image: "https://images.pexels.com/photos/4341245/pexels-photo-4341245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 tags: ["john-3-16", "salvation", "faith", "love"]
 draft: false
+imageAlt: "An open Spanish Bible displaying the Gospel of John's text in a soft, light setting."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #ede9fe; border-radius: 10px; border: 1px solid #c4b5fd; text-align: center;"><div style="font-size: 1.3rem;">❓</div><div style="font-weight: 700; color: #5b21b6; font-size: 0.8rem;">Question</div><div style="color: #6b7280; font-size: 0.7rem;">What does the Bible say?</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Application</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply today</div></div></div>
+
 
 ## The Most Famous Verse in the Bible
 

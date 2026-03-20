@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "prayer"
 tags: ["bedtime prayers", "sleep", "rest", "nighttime", "prayer"]
-image: ""
+image: "https://images.pexels.com/photos/6860496/pexels-photo-6860496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What is a good prayer before bed?"
     a: 'A simple prayer: ''Lord, I place this day in Your hands. Forgive me where I fell short. Protect me as I sleep. Let me wake refreshed and ready to serve You. Amen.'''
@@ -15,7 +15,10 @@ faq:
     a: 'Psalm 4:8 (NIV): ''In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety.'' Also Psalm 91:1-2 about dwelling in God''s shelter.'
   - q: "How can I stop worrying at night?"
     a: 'Practice Philippians 4:6-7 — give your worries to God in prayer with thanksgiving. Write down concerns and pray over each one. Trust that God is watching while you sleep.'
+imageAlt: "A serene image of a woman with closed eyes in prayer, capturing a moment of spiritual reflection indoors."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Praise</div><div style="color: #6b7280; font-size: 0.7rem;">Honor God first</div></div><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">🙇</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Confession</div><div style="color: #6b7280; font-size: 0.7rem;">Repent sincerely</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💝</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Petition</div><div style="color: #6b7280; font-size: 0.7rem;">Ask with faith</div></div></div>
+
 
 At 2 AM, Lisa was still staring at the ceiling. The next day's meeting, her daughter's struggles at school, the unpaid medical bill — they all circled endlessly in her mind. Then she remembered her grandmother's habit of praying through a psalm before bed. She picked up her phone, found Psalm 4, and whispered it aloud. Within minutes, something shifted. The worries didn't vanish — but they felt lighter.
 

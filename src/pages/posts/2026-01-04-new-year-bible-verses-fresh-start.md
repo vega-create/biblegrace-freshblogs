@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "holidays"
 tags: ["new year", "new beginnings", "resolutions", "fresh start", "holidays"]
-image: ""
+image: "https://images.pexels.com/photos/3401897/pexels-photo-3401897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does the Bible say about new beginnings?"
     a: '2 Corinthians 5:17: ''If anyone is in Christ, the new creation has come: The old has gone, the new is here!'' God is always making things new.'
@@ -15,7 +15,10 @@ faq:
     a: 'There''s nothing wrong with setting goals. The key is inviting God into the process. Proverbs 16:3 says ''Commit to the Lord whatever you do, and he will establish your plans.'''
   - q: "What's a good prayer for the New Year?"
     a: '''Lord, I surrender this year to You. Guide my steps, guard my heart, and give me courage to follow wherever You lead. Make this year count for eternity. Amen.'''
+imageAlt: "Celebrate the New Year 2022 with golden number candles on a pink backdrop."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

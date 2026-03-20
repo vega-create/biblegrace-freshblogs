@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "prayer"
 tags: ["healing prayer", "sick", "recovery"]
-image: ""
+image: "https://images.pexels.com/photos/5417917/pexels-photo-5417917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "How long should I pray?"
     a: 'There''s no required length. Jesus praised brief, sincere prayers (Matthew 6:7). Start with 5-10 minutes and let it grow naturally. Quality matters more than quantity.'
@@ -15,7 +15,10 @@ faq:
     a: 'Start with ''God, I''m here.'' The Holy Spirit helps us pray (Romans 8:26). You can also pray Scripture — read a Psalm aloud as your own prayer to God.'
   - q: "Does God always answer prayer?"
     a: 'Yes, but not always the way we expect. God answers with ''yes,'' ''no,'' or ''wait.'' Every answer reflects His perfect wisdom and love for us (Romans 8:28).'
+imageAlt: "A woman in a church pew with folded hands, symbolizing faith, prayer, and contemplation."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Praise</div><div style="color: #6b7280; font-size: 0.7rem;">Honor God first</div></div><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">🙇</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Confession</div><div style="color: #6b7280; font-size: 0.7rem;">Repent sincerely</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💝</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Petition</div><div style="color: #6b7280; font-size: 0.7rem;">Ask with faith</div></div></div>
+
 
 When words feel inadequate and your heart is heavy, prayer connects you to the God who hears every whisper. Whether you're a seasoned prayer warrior or don't know where to begin, this guide will help you find your voice before God.
 

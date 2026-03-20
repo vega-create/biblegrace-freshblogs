@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "christian-living"
 tags: ["doubt", "faith", "questions", "honesty", "christian living"]
-image: ""
+image: "https://images.pexels.com/photos/6382662/pexels-photo-6382662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "Is it a sin to doubt God?"
     a: 'Doubt itself isn''t sin — it''s what you do with it that matters. Honest doubt that seeks answers can strengthen faith. Even John the Baptist, who baptized Jesus, later asked ''Are you the one?'' (Matt 11:3).'
@@ -15,7 +15,10 @@ faq:
     a: 'Don''t suppress it. Bring your questions to God, study Scripture, talk to trusted believers, and remember what God has already done in your life. Faith often grows through wrestling.'
   - q: "Did anyone in the Bible doubt?"
     a: 'Many! Thomas doubted the resurrection. David questioned God''s silence. Job demanded answers. Habakkuk asked why God allowed evil. God met each one in their doubt.'
+imageAlt: "Crop unhappy female in casual wear touching cheeks and looking down while sitting near white wall in light room at home"
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "christian-living"
 tags: ["money", "finances", "stewardship", "budgeting", "christian living"]
-image: ""
+image: "https://images.pexels.com/photos/5531349/pexels-photo-5531349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does the Bible say about saving money?"
     a: 'Proverbs 21:20 says ''The wise store up choice food and olive oil, but fools gulp theirs down.'' Saving wisely is a biblical principle.'
@@ -15,7 +15,10 @@ faq:
     a: 'While the Bible doesn''t mention budgets specifically, it teaches planning and stewardship. Luke 14:28 asks ''Which of you, wanting to build a tower, doesn''t first sit down and calculate the cost?'''
   - q: "How can I be content with what I have?"
     a: 'Philippians 4:11-12 shows Paul learned contentment in all circumstances. Practice gratitude daily, avoid comparison, and trust God''s provision.'
+imageAlt: "Young man in blue shirt holding a Holy Bible while praying outdoors."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.
 

@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "bible-verses"
 tags: ["lost", "direction", "guidance", "hope", "bible verses"]
-image: ""
+image: "https://images.pexels.com/photos/6860840/pexels-photo-6860840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does the Bible say when you feel lost?"
     a: 'Psalm 23:4 reminds us God walks with us through dark valleys. Isaiah 41:10 says ''Do not fear, for I am with you.'' God never loses sight of His children.'
@@ -15,7 +15,10 @@ faq:
     a: 'Pray for wisdom (James 1:5), read Scripture, seek godly counsel, and trust that God guides your steps (Proverbs 16:9).'
   - q: "Does God care when I feel confused?"
     a: 'Absolutely. God is not a God of confusion (1 Corinthians 14:33). He invites you to bring your questions to Him and promises to guide you into truth.'
+imageAlt: "A person pointing to a passage in the Holy Bible, highlighting religious study."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Old Testament</div><div style="color: #6b7280; font-size: 0.7rem;">Psalms, Proverbs, Isaiah</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">✝️</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Gospels</div><div style="color: #6b7280; font-size: 0.7rem;">Matthew, John, Luke</div></div><div style="padding: 0.8rem; background: #fce7f3; border-radius: 10px; border: 1px solid #f9a8d4; text-align: center;"><div style="font-size: 1.3rem;">💌</div><div style="font-weight: 700; color: #9d174d; font-size: 0.8rem;">Epistles</div><div style="color: #6b7280; font-size: 0.7rem;">Romans, Philippians</div></div></div>
+
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.
 

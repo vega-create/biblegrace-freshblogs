@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "bible-study"
 tags: ["proverbs 3:5-6", "trust", "wisdom", "bible study", "guidance"]
-image: ""
+image: "https://images.pexels.com/photos/4200823/pexels-photo-4200823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does 'lean not on your own understanding' mean?"
     a: 'It doesn''t mean don''t think — it means don''t rely solely on your limited human perspective. Seek God''s wisdom alongside your reasoning.'
@@ -15,7 +15,10 @@ faq:
     a: 'Trust is built through past faithfulness. Remember what God has already done. Take the next step you can see and trust Him with what you can''t.'
   - q: "What does 'He will make your paths straight' mean?"
     a: 'The Hebrew word means ''smooth'' or ''direct.'' God doesn''t promise an easy path, but He promises to guide and remove obstacles as you follow Him.'
+imageAlt: "A rustic black mug with an inspirational religious quote from the Bible on a wooden table."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.
 

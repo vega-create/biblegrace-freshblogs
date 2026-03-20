@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "holidays"
 tags: ["mothers day", "motherhood", "family", "bible verses", "holidays"]
-image: ""
+image: "https://images.pexels.com/photos/51524/pexels-photo-51524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does the Bible say about mothers?"
     a: 'The Bible honors mothers deeply. Proverbs 31:28 says ''Her children arise and call her blessed.'' Proverbs 22:6 entrusts mothers with training children in faith.'
@@ -15,7 +15,10 @@ faq:
     a: 'Isaiah 66:13: ''As a mother comforts her child, so will I comfort you.'' Also Proverbs 31:25-26 about strength and wisdom.'
   - q: "How can I honor my mother biblically?"
     a: 'Exodus 20:12 commands us to honor our parents. Show honor through gratitude, quality time, words of affirmation, and prayer.'
+imageAlt: "A beautifully crafted statue depicting Mary holding child Jesus, showcasing religious art and devotion."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

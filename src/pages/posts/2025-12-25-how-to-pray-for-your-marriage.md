@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "prayer"
 tags: ["marriage", "spouse", "love", "relationships", "prayer"]
-image: ""
+image: "https://images.pexels.com/photos/6860496/pexels-photo-6860496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "How should I pray for my marriage?"
     a: 'Pray for unity, communication, forgiveness, spiritual growth, and protection from outside influences. Pray WITH your spouse when possible — it builds intimacy like nothing else.'
@@ -15,7 +15,10 @@ faq:
     a: 'Ecclesiastes 4:12: ''A cord of three strands is not quickly broken.'' Also Ephesians 5:25 about sacrificial love, and 1 Corinthians 13 about love''s characteristics.'
   - q: "Can prayer save a struggling marriage?"
     a: 'Prayer alone isn''t a magic fix, but inviting God into your marriage is the most important step. Combine prayer with honest communication, counseling if needed, and intentional effort.'
+imageAlt: "A serene image of a woman with closed eyes in prayer, capturing a moment of spiritual reflection indoors."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Praise</div><div style="color: #6b7280; font-size: 0.7rem;">Honor God first</div></div><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">🙇</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Confession</div><div style="color: #6b7280; font-size: 0.7rem;">Repent sincerely</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💝</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Petition</div><div style="color: #6b7280; font-size: 0.7rem;">Ask with faith</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

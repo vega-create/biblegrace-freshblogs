@@ -7,7 +7,7 @@ author: 'Sarah Mitchell'
 authorId: 'sarah-mitchell'
 category: 'daily-devotion'
 tags: ['God''s silence', 'waiting on God', 'faith', 'spiritual dryness', 'devotional']
-image: ''
+image: "https://images.pexels.com/photos/4068583/pexels-photo-4068583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: 'Why does God feel silent sometimes?'
     a: 'God''s silence does not mean absence. He may be developing your faith, preparing you for something greater, or inviting you to seek Him more deeply through prayer and Scripture.'
@@ -19,7 +19,10 @@ faq:
     a: 'Yes. Many great figures in the Bible — including David, Elijah, and even Jesus on the cross — experienced seasons of spiritual dryness. It is a normal part of the faith journey and often leads to deeper spiritual growth.'
   - q: 'What should I do when I feel like God has abandoned me?'
     a: 'Remember that God promises to never leave or forsake you (Deuteronomy 31:6). Revisit His past faithfulness in your life, stay connected to a faith community, and continue praying even when it feels like your words are hitting the ceiling.'
+imageAlt: "Silhouette of a hand holding a rosary with a cross against a dramatic sky, symbolizing faith and spirituality."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 Emily sat in her car in the church parking lot, watching other families walk inside with easy smiles and open Bibles. She couldn't bring herself to open the door. For the past three months, her prayers had felt like whispers into an empty room. She had begged God for clarity about her failing marriage, her son's struggles at school, and the crushing weight of financial pressure — but heaven seemed quiet. "Maybe God has moved on," she thought. "Maybe He's helping someone who deserves it more."
 

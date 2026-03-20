@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "faith-questions"
 tags: ["alcohol", "bible questions", "christian living", "moderation"]
-image: ""
+image: "https://images.pexels.com/photos/6141120/pexels-photo-6141120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "Does the Bible say drinking alcohol is a sin?"
     a: 'The Bible does not explicitly call drinking a sin, but consistently warns against drunkenness. Ephesians 5:18 says not to get drunk on wine. The key distinction is between moderate consumption and excess.'
@@ -15,7 +15,10 @@ faq:
     a: 'Yes. At the Last Supper He shared wine with disciples (Luke 22:17-20), and He turned water into wine at Cana (John 2:1-11).'
   - q: "Should Christians avoid alcohol completely?"
     a: 'This is a personal conviction. Some choose total abstinence based on Romans 14:21. Others practice moderation. Both positions have biblical support.'
+imageAlt: "From above of crop anonymous man pouring fizzy drink from can into red plastic cup of black friend while sitting on sandy ground"
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #ede9fe; border-radius: 10px; border: 1px solid #c4b5fd; text-align: center;"><div style="font-size: 1.3rem;">❓</div><div style="font-weight: 700; color: #5b21b6; font-size: 0.8rem;">Question</div><div style="color: #6b7280; font-size: 0.7rem;">What does the Bible say?</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Application</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply today</div></div></div>
+
 
 When Mark first became a Christian at age 28, he faced an unexpected dilemma at his best friend's wedding. As the waiter offered champagne for the toast, Mark hesitated — was it okay for him to take a sip?
 

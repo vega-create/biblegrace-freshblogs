@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "daily-devotion"
 tags: ["identity", "self-worth", "in christ", "devotion", "who i am"]
-image: ""
+image: "https://images.pexels.com/photos/5702214/pexels-photo-5702214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does the Bible say about my identity?"
     a: 'You are chosen (1 Peter 2:9), forgiven (Eph 1:7), loved (Rom 8:38-39), God''s masterpiece (Eph 2:10), and a child of God (John 1:12). Your worth comes from your Creator, not your performance.'
@@ -15,7 +15,10 @@ faq:
     a: 'Start by reading what Scripture says about who you are. Replace lies (''I''m not enough'') with truth (''I am complete in Christ'' — Col 2:10). Pray these truths daily until they sink in.'
   - q: "Why do I struggle with self-worth?"
     a: 'Because the world measures worth by appearance, achievement, and approval. God measures worth by love. He loved you before you did anything — ''while we were still sinners, Christ died for us'' (Romans 5:8).'
+imageAlt: "A detailed close-up of a Bible page focusing on a passage about love and obedience to God."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

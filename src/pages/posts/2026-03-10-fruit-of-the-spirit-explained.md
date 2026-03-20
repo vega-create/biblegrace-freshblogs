@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "bible-study"
 tags: ["fruit of the spirit", "galatians", "holy spirit"]
-image: ""
+image: "https://images.pexels.com/photos/36341862/pexels-photo-36341862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What is the main message of Galatians 5:22-23?"
     a: 'At its core, Galatians 5:22-23 reveals God''s character — His love, faithfulness, and commitment to His people. Understanding the historical and literary context deepens our appreciation of this truth.'
@@ -15,7 +15,10 @@ faq:
     a: 'Start by reading the passage multiple times in different translations. Note the context (who, when, why). Look up key words. Read commentaries. Pray for understanding. Journal your insights.'
   - q: "Can I use this for group Bible study?"
     a: 'Absolutely! The questions and insights in this article make excellent discussion starters. Consider reading the passage aloud together, then working through each section.'
+imageAlt: "Beautiful arrangement of communion elements with fruits and candle on table."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 If you've spent any time in church or browsing inspirational quotes, you've likely encountered Galatians 5:22-23. It's printed on mugs, stitched into pillows, and shared millions of times. But have you ever paused to really understand what it means?
 

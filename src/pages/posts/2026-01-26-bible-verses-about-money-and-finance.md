@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "bible-verses"
 tags: ["money", "finance", "stewardship", "giving", "bible verses"]
-image: ""
+image: "https://images.pexels.com/photos/6860840/pexels-photo-6860840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "Does the Bible say money is evil?"
     a: 'No. 1 Timothy 6:10 says the LOVE of money is the root of all kinds of evil — not money itself. Money is a tool that can be used for good or harm.'
@@ -15,7 +15,10 @@ faq:
     a: 'Romans 13:8 says ''Let no debt remain outstanding, except the continuing debt to love one another.'' The Bible encourages financial wisdom and caution with debt.'
   - q: "How much should Christians give?"
     a: 'The Old Testament tithe was 10%. The New Testament emphasizes cheerful, generous, proportional giving (2 Corinthians 9:7). The amount matters less than the heart.'
+imageAlt: "A person pointing to a passage in the Holy Bible, highlighting religious study."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Old Testament</div><div style="color: #6b7280; font-size: 0.7rem;">Psalms, Proverbs, Isaiah</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">✝️</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Gospels</div><div style="color: #6b7280; font-size: 0.7rem;">Matthew, John, Luke</div></div><div style="padding: 0.8rem; background: #fce7f3; border-radius: 10px; border: 1px solid #f9a8d4; text-align: center;"><div style="font-size: 1.3rem;">💌</div><div style="font-weight: 700; color: #9d174d; font-size: 0.8rem;">Epistles</div><div style="color: #6b7280; font-size: 0.7rem;">Romans, Philippians</div></div></div>
+
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.
 

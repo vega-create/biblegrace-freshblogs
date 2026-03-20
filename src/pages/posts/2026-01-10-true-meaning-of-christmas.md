@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "holidays"
 tags: ["christmas", "birth of jesus", "advent", "holidays"]
-image: ""
+image: "https://images.pexels.com/photos/36638281/pexels-photo-36638281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "Why do we celebrate Christmas on December 25?"
     a: 'The exact date of Jesus'' birth is unknown. December 25 was chosen by the early church in the 4th century, possibly to coincide with Roman festivals. The date matters less than the event it commemorates.'
@@ -15,7 +15,10 @@ faq:
     a: 'The birth narrative is found in Matthew 1-2 and Luke 1-2. Jesus was born in Bethlehem to Mary and Joseph, laid in a manger, and announced by angels to shepherds.'
   - q: "How can I keep Christ at the center of Christmas?"
     a: 'Focus on Advent devotions, serve others, read the Nativity story aloud, give meaningful gifts, and attend church services.'
+imageAlt: "Free stock photo of desparate, desperation, finding meaning"
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 When five-year-old Mia arranged her family's nativity set under the Christmas tree, she carefully placed the baby Jesus figure in the center of the manger scene. "He's the most important one," she told her mom. "That's why He goes in the middle."
 

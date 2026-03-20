@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "faith-questions"
 tags: ["salvation", "eternal security", "perseverance", "faith questions", "theology"]
-image: ""
+image: "https://images.pexels.com/photos/7221694/pexels-photo-7221694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does 'once saved always saved' mean?"
     a: 'This doctrine (eternal security) teaches that true believers cannot lose their salvation because it depends on God''s faithfulness, not human effort. John 10:28-29 is a key text.'
@@ -15,7 +15,10 @@ faq:
     a: 'Baptists, Presbyterians, and Reformed churches generally affirm eternal security. Methodists, Pentecostals, and Arminian traditions believe genuine believers can fall away.'
   - q: "What does the Bible say?"
     a: 'There are strong verses on both sides. John 10:28, Romans 8:38-39, and Ephesians 1:13-14 support security. Hebrews 6:4-6, 2 Peter 2:20-21, and Galatians 5:4 are cited by the other view.'
+imageAlt: "A woman in a mystical setting holding a rosary, surrounded by occult objects."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #ede9fe; border-radius: 10px; border: 1px solid #c4b5fd; text-align: center;"><div style="font-size: 1.3rem;">❓</div><div style="font-weight: 700; color: #5b21b6; font-size: 0.8rem;">Question</div><div style="color: #6b7280; font-size: 0.7rem;">What does the Bible say?</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Application</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply today</div></div></div>
+
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.
 

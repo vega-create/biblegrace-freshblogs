@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "holidays"
 tags: ["lent", "ash wednesday", "fasting", "easter", "holidays"]
-image: ""
+image: "https://images.pexels.com/photos/5206850/pexels-photo-5206850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What is Lent in Christianity?"
     a: 'Lent is a 40-day season of prayer, fasting, and repentance leading up to Easter. It begins on Ash Wednesday and mirrors Jesus'' 40 days of fasting in the wilderness.'
@@ -15,7 +15,10 @@ faq:
     a: 'Some do, some don''t. Catholics, Anglicans, Lutherans, and Methodists traditionally observe Lent. Many evangelical churches are also embracing Lenten practices.'
   - q: "What should I give up for Lent?"
     a: 'Traditionally people fast from food, sweets, or alcohol. Many also give up social media, TV, or other distractions. The goal isn''t deprivation — it''s creating space for God.'
+imageAlt: "A close-up image of a person holding and kissing a wooden cross rosary in prayer."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

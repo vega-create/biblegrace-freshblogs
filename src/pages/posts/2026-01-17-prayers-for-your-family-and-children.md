@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "prayer"
 tags: ["family", "children", "parenting", "protection", "prayer"]
-image: ""
+image: "https://images.pexels.com/photos/6860496/pexels-photo-6860496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "How do you pray for your children?"
     a: 'Pray specifically: for their safety, faith, friendships, and future. Use Scripture as your guide. Pray Psalm 91 for protection, Proverbs 22:6 for guidance, and Jeremiah 29:11 for their future.'
@@ -15,7 +15,10 @@ faq:
     a: '''Lord, bless our family. Protect us, unite us, and draw each of us closer to You. Help us to love each other well, forgive quickly, and serve together. In Jesus'' name, Amen.'''
   - q: "Should I pray out loud with my family?"
     a: 'Yes! Praying aloud together builds spiritual intimacy and teaches children how to talk to God. Start with meal prayers and bedtime prayers, then expand from there.'
+imageAlt: "A serene image of a woman with closed eyes in prayer, capturing a moment of spiritual reflection indoors."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Praise</div><div style="color: #6b7280; font-size: 0.7rem;">Honor God first</div></div><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">🙇</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Confession</div><div style="color: #6b7280; font-size: 0.7rem;">Repent sincerely</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💝</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Petition</div><div style="color: #6b7280; font-size: 0.7rem;">Ask with faith</div></div></div>
+
 
 Maria prays for her three children every morning before they wake up. She walks to each bedroom door and whispers a different prayer over each child. Her oldest needs courage for a tough school year. Her middle child needs confidence. Her youngest needs patience. "I can't control what happens to them out there," she says. "But I can cover them in prayer before they leave."
 

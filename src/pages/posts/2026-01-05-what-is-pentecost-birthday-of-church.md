@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "holidays"
 tags: ["pentecost", "holy spirit", "church", "acts", "holidays"]
-image: ""
+image: "https://images.pexels.com/photos/6663926/pexels-photo-6663926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What happened on the Day of Pentecost?"
     a: 'The Holy Spirit descended on the disciples with the sound of rushing wind and tongues of fire. They spoke in other languages, and Peter preached a sermon that led 3,000 people to be baptized (Acts 2).'
@@ -15,7 +15,10 @@ faq:
     a: 'Pentecost falls 50 days after Easter Sunday. The word comes from the Greek ''pentekostos'' meaning ''fiftieth.'' It was originally a Jewish harvest festival called Shavuot.'
   - q: "Why is Pentecost called the birthday of the church?"
     a: 'Because it marks the moment the Holy Spirit empowered believers to share the gospel, and the first large-scale community of Christians was formed — 3,000 in one day.'
+imageAlt: "A person praying with candlelight, creating a warm and contemplative atmosphere."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 Imagine being in a room with 120 other believers, praying and waiting — not knowing what was coming next. Jesus had ascended to heaven ten days earlier, leaving only a promise: "You will receive power when the Holy Spirit comes on you." And then it happened.
 

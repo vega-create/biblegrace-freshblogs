@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "christian-living"
 tags: ["evangelism", "sharing faith", "witness", "relationships", "christian living"]
-image: ""
+image: "https://images.pexels.com/photos/7596868/pexels-photo-7596868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "How do I share my faith naturally?"
     a: 'Start by living it authentically. Be kind, ask good questions, share your own story, and let conversations about faith flow naturally from relationship.'
@@ -15,7 +15,10 @@ faq:
     a: 'Say ''That''s a great question — let me look into it.'' Honesty about what you don''t know builds more trust than pretending to have all the answers.'
   - q: "Is it wrong to not share my faith?"
     a: 'Jesus calls all believers to be witnesses (Acts 1:8). But sharing doesn''t always mean preaching — it can be serving, listening, loving, and simply being ready when opportunities arise (1 Peter 3:15).'
+imageAlt: "A serene group engaging in meditation with hands passing beads, promoting tranquility and mindfulness."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

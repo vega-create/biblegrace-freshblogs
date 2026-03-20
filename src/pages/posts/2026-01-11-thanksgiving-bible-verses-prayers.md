@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "holidays"
 tags: ["thanksgiving", "gratitude", "bible verses", "prayers", "holidays"]
-image: ""
+image: "https://images.pexels.com/photos/7220101/pexels-photo-7220101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does the Bible say about giving thanks?"
     a: 'The Bible repeatedly commands thankfulness. 1 Thessalonians 5:18 says ''give thanks in all circumstances.'' Psalm 107:1 says ''Give thanks to the Lord, for he is good; his love endures forever.'''
@@ -15,7 +15,10 @@ faq:
     a: 'A simple prayer: ''Lord, thank You for Your faithfulness. For food, family, and the blessings we often overlook, we give You praise. Open our eyes to see Your goodness in every season. Amen.'''
   - q: "Is Thanksgiving in the Bible?"
     a: 'While the American holiday isn''t in the Bible, the principle of giving thanks is deeply biblical. The Israelites celebrated harvest festivals, and the Psalms are filled with thanksgiving.'
+imageAlt: "A thoughtful man in a church pew praying with hands clasped and eyes closed."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 Last November, Karen's family faced their most difficult Thanksgiving yet. Her mother had just been diagnosed with cancer, her son had lost his job, and finances were tight. As they sat around a modest table, Karen suggested they each share one thing they were grateful for.
 

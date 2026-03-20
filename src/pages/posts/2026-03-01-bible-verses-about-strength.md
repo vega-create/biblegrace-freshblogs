@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "bible-verses"
 tags: ["strength", "hard times", "encouragement", "perseverance"]
-image: ""
+image: "https://images.pexels.com/photos/6860840/pexels-photo-6860840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What is the most powerful Bible verse about strength in hard times?"
     a: 'While all Scripture is valuable, Isaiah 40:31, Psalm 46:1, and Romans 8:28 are among the most beloved verses about strength in hard times. The ''most powerful'' verse is often the one that speaks directly to your current situation.'
@@ -15,7 +15,10 @@ faq:
     a: 'Start with 2-3 key verses. Write them on cards, set phone reminders, or use a Bible memory app. Repeat daily for a week before adding new ones. Connecting verses to personal experiences helps long-term memory.'
   - q: "Can reading Bible verses actually help during difficult times?"
     a: 'Yes. Beyond the spiritual dimension, meditation on meaningful texts reduces anxiety and improves resilience. For believers, Scripture carries the power of God''s living Word (Hebrews 4:12) to transform the inner person.'
+imageAlt: "A person pointing to a passage in the Holy Bible, highlighting religious study."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Old Testament</div><div style="color: #6b7280; font-size: 0.7rem;">Psalms, Proverbs, Isaiah</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">✝️</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Gospels</div><div style="color: #6b7280; font-size: 0.7rem;">Matthew, John, Luke</div></div><div style="padding: 0.8rem; background: #fce7f3; border-radius: 10px; border: 1px solid #f9a8d4; text-align: center;"><div style="font-size: 1.3rem;">💌</div><div style="font-weight: 700; color: #9d174d; font-size: 0.8rem;">Epistles</div><div style="color: #6b7280; font-size: 0.7rem;">Romans, Philippians</div></div></div>
+
 
 When life's storms hit hardest, God's Word becomes our anchor. These carefully selected Bible verses about strength in hard times aren't just inspirational quotes — they're living, breathing promises from the God who created you and holds your future.
 

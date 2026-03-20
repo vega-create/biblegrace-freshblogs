@@ -7,7 +7,7 @@ author: "David Park"
 authorId: "david-park"
 category: "faith-questions"
 tags: ["suffering", "evil", "theodicy", "faith questions", "hope"]
-image: ""
+image: "https://images.pexels.com/photos/4068583/pexels-photo-4068583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "Why does God allow bad things to happen?"
     a: 'The Bible acknowledges suffering without fully explaining it. Key themes: free will has consequences, a fallen world produces pain, suffering can produce growth, and God ultimately redeems all things.'
@@ -15,7 +15,10 @@ faq:
     a: 'The Bible distinguishes between what God causes and what God allows. James 1:13 says God doesn''t tempt anyone. But Romans 8:28 says He works all things for good.'
   - q: "How can I trust God when life hurts?"
     a: 'Trust doesn''t require understanding. Job never learned why he suffered, but he encountered God personally. Sometimes the answer isn''t ''why'' but ''who'' is with you in the suffering.'
+imageAlt: "Silhouette of a hand holding a rosary with a cross against a dramatic sky, symbolizing faith and spirituality."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #ede9fe; border-radius: 10px; border: 1px solid #c4b5fd; text-align: center;"><div style="font-size: 1.3rem;">❓</div><div style="font-weight: 700; color: #5b21b6; font-size: 0.8rem;">Question</div><div style="color: #6b7280; font-size: 0.7rem;">What does the Bible say?</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Application</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply today</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

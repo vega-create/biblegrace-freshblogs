@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "holidays"
 tags: ["advent", "christmas", "family", "devotional", "holidays"]
-image: ""
+image: "https://images.pexels.com/photos/7685998/pexels-photo-7685998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What is Advent and when does it start?"
     a: 'Advent is the four-week period before Christmas when Christians prepare their hearts for celebrating Jesus'' birth. It begins on the fourth Sunday before Christmas Day.'
@@ -15,7 +15,10 @@ faq:
     a: 'An Advent wreath with four candles (three purple, one pink) plus a white center candle is traditional but not required. You can also use a simple Advent calendar or daily devotional.'
   - q: "What are the themes of the four Advent weeks?"
     a: 'Traditionally: Week 1 — Hope, Week 2 — Peace, Week 3 — Joy, Week 4 — Love. The center candle (lit on Christmas) represents Christ.'
+imageAlt: "Indian family engaged in a traditional prayer ceremony, wearing vibrant ethnic attire."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 The Harrison family had tried everything to make December feel less chaotic — fewer parties, simpler gifts, less shopping. But it wasn't until they started an Advent tradition that something shifted. Each evening, they lit a candle, read a short passage, and prayed together. "It's only ten minutes," Sarah Harrison said, "but it changed the whole season."
 

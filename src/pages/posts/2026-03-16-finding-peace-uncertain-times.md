@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "daily-devotion"
 tags: ["peace", "uncertainty", "trust"]
-image: ""
+image: "https://images.pexels.com/photos/36638281/pexels-photo-36638281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "How long should I spend on daily devotions?"
     a: 'Even 10-15 minutes is meaningful. Consistency matters more than length. Start small and let your devotion time grow naturally as you experience its benefits.'
@@ -15,7 +15,10 @@ faq:
     a: 'Feelings fluctuate, but God''s presence doesn''t. Faith isn''t about feeling spiritual — it''s about showing up consistently. Some of the most transformative devotional times don''t come with emotional fireworks.'
   - q: "Can I do devotions at night instead of morning?"
     a: 'Absolutely. The best time for devotions is whenever you can be most present and consistent. Some people are morning people; others connect with God best in the evening quiet.'
+imageAlt: "Free stock photo of desparate, desperation, finding meaning"
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 The alarm goes off. The day begins. Before your feet even hit the floor, the weight of the world tries to settle on your shoulders. Bills, relationships, health concerns, the uncertainty of tomorrow — it all rushes in before the coffee is ready.
 

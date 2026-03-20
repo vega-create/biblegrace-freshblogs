@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "christian-living"
 tags: ["church", "community", "fellowship", "worship", "christian living"]
-image: ""
+image: "https://images.pexels.com/photos/36638281/pexels-photo-36638281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What should I look for in a church?"
     a: 'Biblical teaching, genuine community, opportunities to serve, authentic worship, and a welcoming culture. Hebrews 10:24-25 emphasizes not giving up meeting together.'
@@ -15,7 +15,10 @@ faq:
     a: 'Give a church at least 4-6 visits before deciding. Attend a small group or Bible study to experience community beyond Sunday services.'
   - q: "What if I've been hurt by a church before?"
     a: 'Church hurt is real and valid. Healing takes time. Look for a community that values transparency, accountability, and grace. Don''t let one bad experience prevent you from experiencing true fellowship.'
+imageAlt: "Free stock photo of desparate, desperation, finding meaning"
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

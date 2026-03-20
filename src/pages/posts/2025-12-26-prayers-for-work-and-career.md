@@ -7,7 +7,7 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "prayer"
 tags: ["work", "career", "calling", "job", "prayer"]
-image: ""
+image: "https://images.pexels.com/photos/6860496/pexels-photo-6860496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "Can I pray about my career?"
     a: 'Absolutely. Colossians 3:23 says ''Whatever you do, work at it with all your heart, as working for the Lord.'' God cares about your work life.'
@@ -15,7 +15,10 @@ faq:
     a: 'Pray for wisdom (James 1:5), seek godly counsel, consider your gifts and passions, and trust God''s timing. Sometimes the right job is the one you''re growing in right now.'
   - q: "What if I hate my job?"
     a: 'Pray for perspective, contentment, or an open door elsewhere. Meanwhile, work with excellence — you represent Christ in your workplace (Col 3:17).'
+imageAlt: "A serene image of a woman with closed eyes in prayer, capturing a moment of spiritual reflection indoors."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Praise</div><div style="color: #6b7280; font-size: 0.7rem;">Honor God first</div></div><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">🙇</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Confession</div><div style="color: #6b7280; font-size: 0.7rem;">Repent sincerely</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💝</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Petition</div><div style="color: #6b7280; font-size: 0.7rem;">Ask with faith</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 

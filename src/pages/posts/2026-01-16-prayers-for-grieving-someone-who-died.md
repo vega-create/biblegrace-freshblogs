@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "prayer"
 tags: ["grief", "loss", "death", "comfort", "prayer"]
-image: ""
+image: "https://images.pexels.com/photos/5206870/pexels-photo-5206870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What do you pray for someone who lost a loved one?"
     a: 'Pray for God''s comfort, peace, and presence. Ask that they feel supported, that good memories bring healing, and that hope sustains them through the darkest days.'
@@ -15,7 +15,10 @@ faq:
     a: 'Psalm 34:18: ''The Lord is close to the brokenhearted and saves those who are crushed in spirit.'' Also 2 Corinthians 1:3-4 about the God of all comfort.'
   - q: "Is it okay to cry when praying?"
     a: 'Absolutely. Jesus wept at Lazarus'' tomb (John 11:35). Tears are a language God understands. Honest, tearful prayers are some of the most powerful prayers you can pray.'
+imageAlt: "A woman in prayer holding rosary beads, exemplifying faith and spirituality."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Praise</div><div style="color: #6b7280; font-size: 0.7rem;">Honor God first</div></div><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">🙇</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Confession</div><div style="color: #6b7280; font-size: 0.7rem;">Repent sincerely</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💝</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Petition</div><div style="color: #6b7280; font-size: 0.7rem;">Ask with faith</div></div></div>
+
 
 When Tom lost his wife of 42 years, he couldn't find words to pray. He sat in his quiet house, overwhelmed by silence. His pastor told him something he never forgot: "When you can't pray, let others pray for you. And when no words come, remember — the Holy Spirit intercedes with groans too deep for words."
 

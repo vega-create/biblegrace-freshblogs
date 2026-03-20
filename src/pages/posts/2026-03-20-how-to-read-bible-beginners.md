@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "christian-living"
 tags: ["bible reading", "beginners", "habits"]
-image: ""
+image: "https://images.pexels.com/photos/7218341/pexels-photo-7218341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "Is it normal for Christians to struggle with starting a Bible reading habit?"
     a: 'Absolutely. The Bible is filled with examples of faithful people who struggled deeply. Struggle doesn''t indicate weak faith — it''s part of the human experience in a fallen world.'
@@ -15,7 +15,10 @@ faq:
     a: 'Both! Seeking professional help (counseling, medical care) is not a lack of faith. God often works through trained professionals. James 5:14-16 encourages both prayer and practical care.'
   - q: "How can my church community help?"
     a: 'Share your struggles with trusted believers. Galatians 6:2 says to ''carry each other''s burdens.'' Community support, prayer teams, and pastoral care are powerful resources.'
+imageAlt: "A close-up of a hand reading a religious text, symbolizing engaged spirituality."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
+
 
 She sat in the church parking lot for ten minutes before going in. Not because she was early — because she was wrestling. Wrestling with a question millions of Christians face but few discuss openly: how does faith intersect with the messy reality of starting a Bible reading habit?
 

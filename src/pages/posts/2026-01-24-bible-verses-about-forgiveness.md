@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "bible-verses"
 tags: ["forgiveness", "mercy", "grace", "bible verses", "healing"]
-image: ""
+image: "https://images.pexels.com/photos/6186376/pexels-photo-6186376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does the Bible say about forgiving others?"
     a: 'Jesus taught that we must forgive others as God has forgiven us (Matthew 6:14-15). Colossians 3:13 says ''Forgive as the Lord forgave you.'''
@@ -15,7 +15,10 @@ faq:
     a: 'When Peter asked this, Jesus said ''seventy-seven times'' (Matthew 18:22) — meaning there''s no limit to forgiveness.'
   - q: "Is forgiveness the same as forgetting?"
     a: 'No. Forgiveness is a choice to release bitterness, not a command to erase memory. You can forgive someone and still maintain healthy boundaries.'
+imageAlt: "Open Bible placed on a tree stump outdoors, symbolizing faith in nature."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Old Testament</div><div style="color: #6b7280; font-size: 0.7rem;">Psalms, Proverbs, Isaiah</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">✝️</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Gospels</div><div style="color: #6b7280; font-size: 0.7rem;">Matthew, John, Luke</div></div><div style="padding: 0.8rem; background: #fce7f3; border-radius: 10px; border: 1px solid #f9a8d4; text-align: center;"><div style="font-size: 1.3rem;">💌</div><div style="font-weight: 700; color: #9d174d; font-size: 0.8rem;">Epistles</div><div style="color: #6b7280; font-size: 0.7rem;">Romans, Philippians</div></div></div>
+
 
 Life has a way of bringing us to moments where we need God's wisdom most. Whether you're searching for answers, seeking comfort, or looking for direction, Scripture has something to say.
 

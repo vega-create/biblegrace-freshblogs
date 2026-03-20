@@ -7,7 +7,7 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "bible-verses"
 tags: ["hope", "hard times", "encouragement", "bible verses", "perseverance"]
-image: ""
+image: "https://images.pexels.com/photos/6860840/pexels-photo-6860840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: "What does the Bible say about hope?"
     a: 'Romans 15:13 calls God ''the God of hope.'' Biblical hope isn''t wishful thinking — it''s confident expectation based on God''s character and promises.'
@@ -15,7 +15,10 @@ faq:
     a: 'Romans 8:28 is one of the most hopeful: ''We know that in all things God works for the good of those who love him.'' Also Jeremiah 29:11 about God''s good plans.'
   - q: "How do I have hope when everything is falling apart?"
     a: 'Hope isn''t based on circumstances — it''s based on God''s faithfulness. Lamentations 3:22-23 says His mercies are new every morning. Start each day by declaring what''s true, not what feels true.'
+imageAlt: "A person pointing to a passage in the Holy Bible, highlighting religious study."
 ---
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Old Testament</div><div style="color: #6b7280; font-size: 0.7rem;">Psalms, Proverbs, Isaiah</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">✝️</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Gospels</div><div style="color: #6b7280; font-size: 0.7rem;">Matthew, John, Luke</div></div><div style="padding: 0.8rem; background: #fce7f3; border-radius: 10px; border: 1px solid #f9a8d4; text-align: center;"><div style="font-size: 1.3rem;">💌</div><div style="font-weight: 700; color: #9d174d; font-size: 0.8rem;">Epistles</div><div style="color: #6b7280; font-size: 0.7rem;">Romans, Philippians</div></div></div>
+
 
 There's a moment in everyone's faith journey when this question rises to the surface. Maybe it comes during a quiet morning, or in the middle of a crisis, or during a conversation you didn't expect. Whatever brought you here, you're asking the right question.
 
