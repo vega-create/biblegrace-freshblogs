@@ -6,8 +6,8 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "holidays"
 tags: ["easter", "resurrection", "jesus", "hope"]
-image: "https://images.pexels.com/photos/36568626/pexels-photo-36568626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A wooden cross outdoors adorned with a crown of thorns and flowers, symbolizing Easter."
+image: "https://images.pexels.com/photos/2101187/pexels-photo-2101187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three crosses silhouetted against a brilliant sunrise on a hilltop"
 faq:
   - q: "Why is Easter the most important Christian holiday?"
     a: "Easter celebrates Jesus Christ's resurrection from the dead — the event that validates everything Christianity claims. As Paul wrote in 1 Corinthians 15:17, 'If Christ has not been raised, your faith is futile.' The resurrection is the foundation of Christian hope."

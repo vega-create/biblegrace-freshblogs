@@ -6,8 +6,8 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "christian-living"
 tags: ["depression", "mental health", "hope"]
-image: "https://images.pexels.com/photos/5699748/pexels-photo-5699748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "High angle of anonymous young black couple in casual clothes spend time together while calming each other in bedroom in daylight"
+image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A single lamp glowing warmly in a dim quiet room"
 faq:
   - q: "Is it normal for Christians to struggle with depression and mental health?"
     a: "Absolutely. The Bible is filled with examples of faithful people who struggled deeply. Struggle doesn't indicate weak faith — it's part of the human experience in a fallen world."

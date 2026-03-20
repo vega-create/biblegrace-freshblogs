@@ -6,8 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "faith-questions"
 tags: ["divorce", "remarriage", "marriage", "grace"]
-image: "https://images.pexels.com/photos/56926/pexels-photo-56926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of wedding rings resting on the pages of an open book, symbolizing love and commitment."
+image: "https://images.pexels.com/photos/1024975/pexels-photo-1024975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two wedding rings resting on the pages of an open Bible"
 faq:
   - q: "What is the main biblical perspective on this?"
     a: "The Bible addresses this through multiple passages and principles. Rather than one simple verse, Scripture invites us to consider God's character, the original context, and broader themes of love, wisdom, and faithfulness."

@@ -7,7 +7,7 @@ author: 'Sarah Mitchell'
 authorId: 'sarah-mitchell'
 category: 'daily-devotion'
 tags: ['God''s silence', 'waiting on God', 'faith', 'spiritual dryness', 'devotional']
-image: "https://images.pexels.com/photos/4068583/pexels-photo-4068583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 faq:
   - q: 'Why does God feel silent sometimes?'
     a: 'God''s silence does not mean absence. He may be developing your faith, preparing you for something greater, or inviting you to seek Him more deeply through prayer and Scripture.'
@@ -19,7 +19,7 @@ faq:
     a: 'Yes. Many great figures in the Bible — including David, Elijah, and even Jesus on the cross — experienced seasons of spiritual dryness. It is a normal part of the faith journey and often leads to deeper spiritual growth.'
   - q: 'What should I do when I feel like God has abandoned me?'
     a: 'Remember that God promises to never leave or forsake you (Deuteronomy 31:6). Revisit His past faithfulness in your life, stay connected to a faith community, and continue praying even when it feels like your words are hitting the ceiling.'
-imageAlt: "Silhouette of a hand holding a rosary with a cross against a dramatic sky, symbolizing faith and spirituality."
+imageAlt: "An empty wooden chair facing a misty landscape at dawn"
 ---
 <div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">God's Word</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">🙏</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Reflection</div><div style="color: #6b7280; font-size: 0.7rem;">Meditate deeply</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💪</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Action</div><div style="color: #6b7280; font-size: 0.7rem;">Live it out</div></div></div>
 
@@ -127,3 +127,7 @@ Use our [Verse Finder tool](/tools/verse-finder) to explore more Scripture passa
 - [Morning Prayers to Start Your Day with God](/posts/2026-01-15-morning-prayers-start-your-day)
 
 *Remember: this devotion isn't a checkbox on your to-do list. It's an invitation to sit with God and let Him remind you of what's true. You are loved. You are held. And the God of the universe hasn't forgotten you — not even for a second.*
+
+## Walking Forward in Faith
+
+The truths explored in this article are not meant to remain abstract concepts but to become practical guides for daily living. Take one insight that resonated with you and commit to applying it this week. Share what you have learned with someone who might benefit from it. Return to the Scripture passages referenced here whenever you need encouragement or direction. God's Word is living and active, and each time you engage with it, the Holy Spirit reveals new layers of meaning and application that are specifically relevant to your current circumstances and needs. Trust the process of spiritual growth, be patient with yourself along the way, and remember that every step of faithful obedience brings you closer to the abundant life that Jesus promised to all who follow Him wholeheartedly.

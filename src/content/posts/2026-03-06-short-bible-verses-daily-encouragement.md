@@ -6,8 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "bible-verses"
 tags: ["short verses", "encouragement", "daily"]
-image: "https://images.pexels.com/photos/4844222/pexels-photo-4844222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A Biblia Sagrada with glasses rests on a table beside a red mug, symbolizing relaxation and reflection."
+image: "https://images.pexels.com/photos/2228561/pexels-photo-2228561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An open journal with a pen resting on it beside a cup of coffee"
 faq:
   - q: "What is the most powerful Bible verse about daily encouragement?"
     a: "While all Scripture is valuable, Isaiah 40:31, Psalm 46:1, and Romans 8:28 are among the most beloved verses about daily encouragement. The 'most powerful' verse is often the one that speaks directly to your current situation."

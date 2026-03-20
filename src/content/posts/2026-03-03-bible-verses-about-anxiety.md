@@ -6,8 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "bible-verses"
 tags: ["anxiety", "worry", "peace", "mental health"]
-image: "https://images.pexels.com/photos/36583417/pexels-photo-36583417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Free stock photo of buddha, garden, statue"
+image: "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A calm meditation scene with a candle and peaceful atmosphere"
 faq:
   - q: "What is the most powerful Bible verse about anxiety and worry?"
     a: "While all Scripture is valuable, Isaiah 40:31, Psalm 46:1, and Romans 8:28 are among the most beloved verses about anxiety and worry. The 'most powerful' verse is often the one that speaks directly to your current situation."

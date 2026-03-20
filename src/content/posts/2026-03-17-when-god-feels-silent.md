@@ -6,8 +6,8 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "daily-devotion"
 tags: ["silence", "waiting", "patience"]
-image: "https://images.pexels.com/photos/1280162/pexels-photo-1280162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A lone silhouette on a bench under a tree evokes solitude at twilight."
+image: "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An empty wooden chair facing a misty landscape at dawn"
 faq:
   - q: "How long should I spend on daily devotions?"
     a: "Even 10-15 minutes is meaningful. Consistency matters more than length. Start small and let your devotion time grow naturally as you experience its benefits."

@@ -6,8 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "bible-study"
 tags: ["romans 8:28", "sovereignty", "suffering"]
-image: "https://images.pexels.com/photos/5875303/pexels-photo-5875303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of an open Bible with colorful bookmarks on a wooden desk."
+image: "https://images.pexels.com/photos/1486974/pexels-photo-1486974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Puzzle pieces coming together on a wooden table"
 faq:
   - q: "What is the main message of Romans 8:28?"
     a: "At its core, Romans 8:28 reveals God's character — His love, faithfulness, and commitment to His people. Understanding the historical and literary context deepens our appreciation of this truth."

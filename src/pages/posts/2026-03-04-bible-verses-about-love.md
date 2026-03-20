@@ -17,8 +17,8 @@ faq:
     a: 'Yes. Beyond the spiritual dimension, meditation on meaningful texts reduces anxiety and improves resilience. For believers, Scripture carries the power of God''s living Word (Hebrews 4:12) to transform the inner person.'
 imageAlt: "A focused close-up of a Bible page highlighting Exodus 40:34, depicting profound religious themes."
 ---
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Old Testament</div><div style="color: #6b7280; font-size: 0.7rem;">Psalms, Proverbs, Isaiah</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">✝️</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Gospels</div><div style="color: #6b7280; font-size: 0.7rem;">Matthew, John, Luke</div></div><div style="padding: 0.8rem; background: #fce7f3; border-radius: 10px; border: 1px solid #f9a8d4; text-align: center;"><div style="font-size: 1.3rem;">💌</div><div style="font-weight: 700; color: #9d174d; font-size: 0.8rem;">Epistles</div><div style="color: #6b7280; font-size: 0.7rem;">Romans, Philippians</div></div></div>
 
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">Old Testament</div><div style="color: #6b7280; font-size: 0.7rem;">Psalms, Proverbs, Isaiah</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">✝️</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Gospels</div><div style="color: #6b7280; font-size: 0.7rem;">Matthew, John, Luke</div></div><div style="padding: 0.8rem; background: #fce7f3; border-radius: 10px; border: 1px solid #f9a8d4; text-align: center;"><div style="font-size: 1.3rem;">💌</div><div style="font-weight: 700; color: #9d174d; font-size: 0.8rem;">Epistles</div><div style="color: #6b7280; font-size: 0.7rem;">Romans, Philippians</div></div></div>
 
 When life's storms hit hardest, God's Word becomes our anchor. These carefully selected Bible verses about love and relationships aren't just inspirational quotes — they're living, breathing promises from the God who created you and holds your future.
 
@@ -94,8 +94,43 @@ Don't just read — let them take root:
 
 God's Word is alive and active (Hebrews 4:12). Whatever you're facing regarding love and relationships, the God who wrote these words is the same God who walks beside you right now.
 
----
 
-*For further study, visit [BibleGateway](https://www.biblegateway.com/) and [Bible Hub](https://biblehub.com/) for trusted biblical resources and encyclopedias.*
+## Understanding Biblical Love
 
-*Explore our free tools: [Daily Verse](/tools/daily-verse) and [Verse Finder](/tools/verse-finder) to deepen your walk with God.*
+The English word "love" carries an impossible burden — we use it for everything from pizza preferences to the deepest human bonds. Greek, the language of the New Testament, distinguishes between different types of love, each with its own character and purpose.
+
+### Agape: Unconditional Love
+
+Agape love is the cornerstone of biblical love — a deliberate, self-sacrificing choice to seek another's good regardless of their response or worthiness. This is the love God demonstrates toward humanity and the love Christians are called to show one another. It is not a feeling that comes and goes but a commitment that persists through difficulty, disappointment, and even betrayal. When Jesus commanded His followers to love their enemies, He was speaking of agape — a love that operates independently of emotion or reciprocity.
+
+### Phileo: Friendship Love
+
+The deep affection between close friends appears throughout Scripture. David and Jonathan's friendship, Ruth and Naomi's bond, and the relationship between Jesus and His disciples all exemplify phileo love. This type of love involves genuine emotional warmth, shared experiences, and mutual vulnerability. While agape can be commanded, phileo develops naturally through time spent together and trust built through shared life experiences.
+
+### Understanding Love in Practice
+
+The most detailed description of love in action appears in 1 Corinthians 13, where Paul lists specific behaviors that characterize genuine love: patience, kindness, humility, selflessness, forgiveness, truthfulness, perseverance, and hope. Notably, most of these are actions and choices rather than emotions. This means love is accessible to everyone regardless of their emotional state — you can choose patience when you feel impatient, choose kindness when you feel irritated, and choose forgiveness when you feel wounded.
+
+## How to Apply These Verses in Daily Life
+
+### In Marriage
+
+Marriage is the primary context where agape love is tested and refined. The romantic feelings that begin a relationship inevitably fluctuate, but the commitment to love — to choose your spouse's good daily — provides the stability that sustains a lifelong partnership. Read these verses with your spouse regularly. Discuss which aspects of love come naturally and which require intentional effort. Use the 1 Corinthians 13 description as a practical checklist for your relationship.
+
+### In Difficult Relationships
+
+Perhaps the most challenging application of biblical love is toward people who have hurt you. Jesus's command to love enemies and pray for persecutors sounds noble in theory but feels impossible in practice. Start by recognizing that loving someone does not mean trusting them, excusing their behavior, or maintaining an unsafe relationship. It means releasing bitterness, praying genuinely for their good, and refusing to repay evil with evil.
+
+### In Self-Care
+
+The command to "love your neighbor as yourself" implies a baseline of healthy self-regard. Many Christians struggle with self-compassion, mistaking self-neglect for humility. But you cannot pour from an empty cup. Taking care of your physical health, mental wellbeing, and spiritual life is not selfish — it is the foundation that enables you to love others sustainably rather than burning out in resentful exhaustion.
+
+## The Source of All Love
+
+First John 4:19 reveals the ultimate truth about love: "We love because He first loved us." Every capacity for love you possess originates in God's love for you. When your ability to love feels depleted — when patience is exhausted, kindness feels impossible, and forgiveness seems beyond reach — return to the source. Meditate on how much God has loved you despite your own failures and unworthiness. Let His love refill your reserves. The love you give to others is never truly your own — it is God's love flowing through you to a world that desperately needs it.
+
+## How Love Transforms Our Daily Relationships
+
+The Bible's teaching on love is not merely theoretical but deeply practical. When we internalize these verses about love, they begin to reshape how we interact with family members, coworkers, neighbors, and even strangers. Love becomes a lens through which we view every encounter and decision throughout our day.
+
+Consider how differently we might respond to a frustrating situation at work if we first remembered that love is patient and kind. Think about how our family dynamics might shift if we truly practiced putting others' needs before our own. These verses serve as daily reminders that love is not just a feeling but an active choice we make repeatedly. By meditating on Scripture about love, we cultivate hearts that are more compassionate, more forgiving, and more aligned with the character of Christ. This transformation does not happen overnight, but gradually, as we consistently return to these truths and allow them to shape our responses and attitudes.

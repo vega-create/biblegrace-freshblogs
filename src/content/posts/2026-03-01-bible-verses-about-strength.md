@@ -6,8 +6,8 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "bible-verses"
 tags: ["strength", "hard times", "encouragement", "perseverance"]
-image: "https://images.pexels.com/photos/733168/pexels-photo-733168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning sunrise scene with mist-covered valleys and majestic mountain landscape."
+image: "https://images.pexels.com/photos/3621344/pexels-photo-3621344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A person standing strong on a mountain summit at sunrise"
 faq:
   - q: "What is the most powerful Bible verse about strength in hard times?"
     a: "While all Scripture is valuable, Isaiah 40:31, Psalm 46:1, and Romans 8:28 are among the most beloved verses about strength in hard times. The 'most powerful' verse is often the one that speaks directly to your current situation."

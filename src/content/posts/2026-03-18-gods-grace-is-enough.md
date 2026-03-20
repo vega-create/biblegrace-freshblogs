@@ -6,8 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "daily-devotion"
 tags: ["grace", "weakness", "enough"]
-image: "https://images.pexels.com/photos/35980578/pexels-photo-35980578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A single candle glows with Buddha statue in a Seoul temple background."
+image: "https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Warm golden sunlight streaming through tall trees in a peaceful forest"
 faq:
   - q: "How long should I spend on daily devotions?"
     a: "Even 10-15 minutes is meaningful. Consistency matters more than length. Start small and let your devotion time grow naturally as you experience its benefits."

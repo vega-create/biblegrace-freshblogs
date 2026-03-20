@@ -6,8 +6,8 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "daily-devotion"
 tags: ["peace", "uncertainty", "trust"]
-image: "https://images.pexels.com/photos/36314205/pexels-photo-36314205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Tranquil lake reflecting lush forests, captured at sunrise, creating a serene and peaceful atmosphere."
+image: "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A serene lake reflecting snow-capped mountains at twilight"
 faq:
   - q: "How long should I spend on daily devotions?"
     a: "Even 10-15 minutes is meaningful. Consistency matters more than length. Start small and let your devotion time grow naturally as you experience its benefits."

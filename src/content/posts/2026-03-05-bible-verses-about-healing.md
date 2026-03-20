@@ -6,8 +6,8 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "bible-verses"
 tags: ["healing", "recovery", "prayer", "health"]
-image: "https://images.pexels.com/photos/7298690/pexels-photo-7298690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A close-up of open hands cupped together, symbolizing openness and spirituality."
+image: "https://images.pexels.com/photos/3759657/pexels-photo-3759657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Gentle hands holding a small plant growing from rich soil"
 faq:
   - q: "What is the most powerful Bible verse about healing and recovery?"
     a: "While all Scripture is valuable, Isaiah 40:31, Psalm 46:1, and Romans 8:28 are among the most beloved verses about healing and recovery. The 'most powerful' verse is often the one that speaks directly to your current situation."

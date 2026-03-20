@@ -6,8 +6,8 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "prayer"
 tags: ["prayer", "beginners", "how to pray"]
-image: "https://images.pexels.com/photos/2258251/pexels-photo-2258251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Hands clasped in prayer on an open Bible showing the book of Matthew, emphasizing faith and spirituality."
+image: "https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Folded hands resting on an open Bible in warm morning light"
 faq:
   - q: "How long should I pray?"
     a: "There's no required length. Jesus praised brief, sincere prayers (Matthew 6:7). Start with 5-10 minutes and let it grow naturally. Quality matters more than quantity."

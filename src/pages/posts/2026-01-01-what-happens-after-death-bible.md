@@ -76,3 +76,35 @@ Whatever season you're in, God is with you in it. He invites you to keep seeking
 ---
 
 *For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [BibleGateway](https://www.biblegateway.com/) for trusted biblical resources and encyclopedias.*
+
+## What the Bible Reveals About Life After Death
+
+The question of what happens after death is one of humanity's most fundamental concerns, and the Bible provides substantial teaching on this topic. Scripture presents death not as the end of existence but as a transition from one form of life to another. For believers in Christ, death is described as being absent from the body and present with the Lord (2 Corinthians 5:8). This promise gives Christians confidence that physical death is not a terminus but a doorway into the fullness of God's presence.
+
+The Bible describes an intermediate state between death and the final resurrection. Jesus told the thief on the cross that he would be with Him in paradise that very day (Luke 23:43), suggesting an immediate conscious existence after death for those who trust in Christ. Paul expressed his desire to depart and be with Christ, which he described as far better than remaining alive (Philippians 1:23). These passages indicate that the souls of believers enter a state of conscious joy and peace immediately upon death.
+
+## Understanding Heaven and the New Creation
+
+While popular culture often portrays heaven as a vague, ethereal place of clouds and harps, Scripture paints a much more vivid and compelling picture. Revelation 21-22 describes a new heaven and new earth where God dwells permanently among His people. There will be no more death, mourning, crying, or pain. The new creation will be a physical reality — not a ghostly spiritual realm — where resurrected believers live in glorified bodies in a renewed and perfected world.
+
+This biblical vision of the afterlife is remarkably concrete and hopeful. It involves community, purpose, creativity, and joy in the direct presence of God. Believers will not simply float on clouds for eternity but will participate in meaningful activities in a world freed from sin, suffering, and decay. This hope should motivate us to live faithfully in the present, knowing that our current struggles are temporary but the glory that awaits us is eternal and incomprehensibly wonderful.
+
+## The Reality of Judgment
+
+The Bible also teaches that every person will face judgment after death. Hebrews 9:27 states that people are destined to die once and after that to face judgment. For believers, this judgment is not about determining salvation — which was secured by Christ on the cross — but about evaluating how faithfully they lived and served God during their earthly lives. Paul describes this as the judgment seat of Christ (2 Corinthians 5:10), where believers will give account for their actions and receive corresponding rewards.
+
+This teaching should motivate believers to live with intentionality and purpose, knowing that how we spend our time, resources, and energy matters eternally. It is not a cause for fear but rather an incentive for faithful stewardship of the life God has given us. At the same time, the Bible warns that those who reject God's offer of salvation through Christ face eternal separation from Him — a sobering reality that should fuel our compassion and urgency in sharing the gospel with others.
+
+## How This Hope Transforms Our Present Lives
+
+The biblical hope of life after death is not merely a future promise — it transforms how we live today. When we truly believe that this life is not all there is, we gain a perspective that changes everything. We can face suffering with courage, knowing that our present troubles are producing an eternal glory that far outweighs them all (2 Corinthians 4:17). We can forgive generously, knowing that ultimate justice belongs to God. We can give sacrificially, knowing that our treasures in heaven are secure and lasting.
+
+This eternal perspective also frees us from the fear of death itself. For the Christian, death has lost its sting (1 Corinthians 15:55). While natural grief over the loss of loved ones is appropriate and healthy, it is accompanied by hope that transcends the grave. We grieve, but not as those who have no hope (1 Thessalonians 4:13). This distinction is one of the most powerful testimonies of the Christian faith, demonstrating to a watching world that there is a hope beyond this life that sustains us through even the darkest valleys.
+
+## Comfort for Those Who Are Grieving
+
+If you are reading this because you have recently lost someone you love, know that God sees your grief and holds you close in this painful season. The Bible does not minimize the reality of loss — Jesus Himself wept at the death of His friend Lazarus, even knowing He was about to raise him from the dead. Your tears honor the love you shared, and grieving is a necessary and healthy process. But alongside your grief, hold onto the hope that Scripture promises. For believers, death is not a permanent separation but a temporary one. The day is coming when God will reunite His people in a restored creation where death itself will be destroyed forever. Until that day, let the promises of Scripture comfort your heart, and lean on your community of faith for support through this difficult journey of loss and healing.
+
+## Living With Eternity in View
+
+Understanding what the Bible teaches about life after death should fundamentally change how we live today. When we truly grasp that our earthly lives are a brief prelude to an eternal existence with God, our priorities naturally shift. We become less attached to material possessions and more invested in relationships and eternal impact. We become more generous with our resources, knowing that heavenly treasures are far more valuable and lasting than earthly ones. We become bolder in our faith, less afraid of what people think, and more focused on what matters to God. Living with eternity in view does not make us less engaged with the present world — it makes us more purposeful and intentional about how we spend every day we are given on this earth.

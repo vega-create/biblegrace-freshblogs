@@ -6,8 +6,8 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "bible-verses"
 tags: ["faith", "trust", "belief", "promises"]
-image: "https://images.pexels.com/photos/208371/pexels-photo-208371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Low angle view of a wooden cross under a clear blue sky with bright sunlight."
+image: "https://images.pexels.com/photos/2258536/pexels-photo-2258536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A person walking confidently along a narrow mountain ridge at dawn"
 faq:
   - q: "What is the most powerful Bible verse about faith and trust in God?"
     a: "While all Scripture is valuable, Isaiah 40:31, Psalm 46:1, and Romans 8:28 are among the most beloved verses about faith and trust in God. The 'most powerful' verse is often the one that speaks directly to your current situation."

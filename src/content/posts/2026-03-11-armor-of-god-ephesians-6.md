@@ -6,8 +6,8 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "bible-study"
 tags: ["armor of god", "ephesians", "spiritual warfare"]
-image: "https://images.pexels.com/photos/161936/knight-armor-helmet-weapons-161936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of medieval armor, helmet, and sword in a classic setting."
+image: "https://images.pexels.com/photos/4553618/pexels-photo-4553618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An ancient shield and armor displayed in a stone archway"
 faq:
   - q: "What is the main message of Ephesians 6:10-18?"
     a: "At its core, Ephesians 6:10-18 reveals God's character — His love, faithfulness, and commitment to His people. Understanding the historical and literary context deepens our appreciation of this truth."

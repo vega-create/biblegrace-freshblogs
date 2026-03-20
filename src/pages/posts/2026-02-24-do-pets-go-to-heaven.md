@@ -17,8 +17,8 @@ faq:
     a: 'Pray for wisdom (James 1:5), study relevant Scripture in context, seek counsel from mature believers, and examine your heart''s motives. God promises to guide those who sincerely seek Him.'
 imageAlt: "A lively dog plays fetch on Ponta Negra Beach with Natal skyline in the background."
 ---
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;"><div style="padding: 0.8rem; background: #ede9fe; border-radius: 10px; border: 1px solid #c4b5fd; text-align: center;"><div style="font-size: 1.3rem;">❓</div><div style="font-weight: 700; color: #5b21b6; font-size: 0.8rem;">Question</div><div style="color: #6b7280; font-size: 0.7rem;">What does the Bible say?</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Scripture</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 0.8rem; background: #d1fae5; border-radius: 10px; border: 1px solid #6ee7b7; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #065f46; font-size: 0.8rem;">Application</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply today</div></div></div>
 
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem;"><div style="padding: 1rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.85rem;">What Scripture Says</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 1rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #1e40af; font-size: 0.85rem;">Practical Guidance</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply it</div></div></div>
 
 When the question first came up at Bible study, the room went quiet. Everyone had an opinion, but nobody was sure what the Bible actually said. It's one of those topics Christians wrestle with — and one that deserves a thoughtful, Scripture-based answer.
 
@@ -80,8 +80,52 @@ Jesus said the greatest commandments are to love God and love your neighbor (Mat
 
 Whatever conclusion you reach, let it be grounded in Scripture, guided by the Spirit, and expressed in love. That's the kind of faith that honors God.
 
----
 
-*For further study, visit [GotQuestions.org](https://www.gotquestions.org/) and [BibleGateway](https://www.biblegateway.com/) for trusted biblical resources and encyclopedias.*
+## What Scripture Says About Animals
 
-*Explore our free tools: [Verse Finder](/tools/verse-finder) and [Bible Quiz](/tools/bible-quiz) to deepen your walk with God.*
+While the Bible does not directly answer the question of pet afterlife, it contains significant teaching about animals that informs this discussion.
+
+### God Created and Cares for Animals
+
+Genesis reveals that God created animals and called them "good" before humans even existed. Jesus spoke of God's care for sparrows, noting that not one falls to the ground outside the Father's care. Psalm 145:9 declares that God's compassion extends to all He has made. These passages establish that animals have value in God's eyes — they are not merely resources for human use but creatures God intentionally designed and actively sustains.
+
+### Animals in the Biblical Narrative
+
+Animals play remarkable roles throughout Scripture. Ravens fed Elijah during famine. A donkey spoke to Balaam when he could not see the angel of the Lord. God sent a great fish to preserve Jonah. Lions were restrained to protect Daniel. Doves symbolized the Holy Spirit at Jesus's baptism. The consistent portrayal of animals as participants in God's purposes suggests they hold a higher status in creation than many Christians assume.
+
+### The New Creation Includes Animals
+
+Isaiah 11:6-9 describes the renewed creation where wolves and lambs live together, and a child leads wild animals without danger. Isaiah 65:25 repeats this vision of animal peace in the new heavens and new earth. Romans 8:19-22 teaches that "the whole creation" groans and waits for liberation alongside humanity. If animals are part of the creation that will be redeemed and renewed, this has significant implications for the pet heaven question.
+
+## Theological Arguments For and Against
+
+### The Case for Animal Afterlife
+
+Several theological arguments support the possibility that animals, including pets, experience some form of afterlife. First, God's redemptive purposes encompass all of creation, not just humanity — the new heavens and new earth represent cosmic renewal, not merely human salvation. Second, if God values animals enough to create them, sustain them, and include them in His future kingdom vision, it is consistent with His character to preserve rather than discard them. Third, many theologians argue that a God who takes no pleasure in destruction would not annihilate creatures He lovingly created.
+
+The great Christian author C.S. Lewis speculated in "The Problem of Pain" that animals closely connected to humans might be drawn into eternity through that relationship — that pets, having been loved and shaped by their human companions, might participate in the resurrection through that bond of love.
+
+### The Case for Uncertainty
+
+Other theologians urge caution, noting that the Bible's primary focus is human redemption and relationship with God. Animals do not have the same moral capacity, spiritual awareness, or need for salvation that humans do. The promises of heaven are specifically directed to people who place their faith in Christ. While Scripture describes animals in the new creation, it does not specifically promise that individual animals — particularly your specific pet — will be there.
+
+This view does not diminish the value of animals but acknowledges the limits of what we can confidently claim from Scripture. Humility about what we do not know is itself a form of faith.
+
+## The Grief of Losing a Pet
+
+### Why Pet Loss Hurts So Deeply
+
+The grief experienced after losing a pet is genuine and should never be minimized. Research consistently shows that pet loss can trigger grief responses comparable to losing a human loved one. This is because the bond between humans and pets involves daily physical affection, unconditional acceptance, shared routines, and emotional dependence that creates deep attachment. Your pet loved you without judgment, greeted you with joy, and provided comfort during your hardest days. That kind of love leaves a significant void when it ends.
+
+### Grieving as a Christian
+
+Some Christians feel guilty about the depth of their grief over a pet, worried that it indicates misplaced priorities. But grief is simply the expression of love after loss, and there is nothing ungodly about loving a creature God placed in your life. Jesus Himself wept, demonstrating that grief and faith coexist. Allow yourself to mourn fully while also bringing your sorrow to God in prayer. He created the capacity for the human-animal bond, and He understands your pain.
+
+### Finding Comfort and Moving Forward
+
+Take time to honor your pet's memory in ways that feel meaningful — creating a photo album, planting something in their favorite spot, or making a donation to an animal rescue in their name. When you feel ready, opening your heart to another animal is not a betrayal of your pet's memory but an extension of the love they taught you. Many grieving pet owners find that rescuing an animal in need brings healing to both the person and the animal.
+
+## What We Can Trust
+
+While certainty about pet afterlife remains beyond our reach, we can trust the character of the God who created both us and our beloved animals. A God who numbers the hairs on our heads and notices every fallen sparrow is not indifferent to the creatures who share our lives and homes. Whether or not our specific pets await us in eternity, we serve a God whose goodness, creativity, and love exceed our wildest imagination. Whatever He has prepared for those who love Him will be more wonderful than anything we can ask or imagine — and that promise is enough to sustain hope even in grief.
+

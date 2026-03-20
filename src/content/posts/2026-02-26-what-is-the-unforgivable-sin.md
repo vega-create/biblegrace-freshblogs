@@ -6,8 +6,8 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "faith-questions"
 tags: ["unforgivable sin", "holy spirit", "grace"]
-image: "https://images.pexels.com/photos/2258251/pexels-photo-2258251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Hands clasped in prayer on an open Bible showing the book of Matthew, emphasizing faith and spirituality."
+image: "https://images.pexels.com/photos/2397414/pexels-photo-2397414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dramatic sky with light breaking through heavy clouds"
 faq:
   - q: "What is the main biblical perspective on this?"
     a: "The Bible addresses this through multiple passages and principles. Rather than one simple verse, Scripture invites us to consider God's character, the original context, and broader themes of love, wisdom, and faithfulness."
