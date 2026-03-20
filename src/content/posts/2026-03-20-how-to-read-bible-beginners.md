@@ -6,7 +6,8 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "christian-living"
 tags: ["bible reading", "beginners", "habits"]
-image: ""
+image: "https://images.pexels.com/photos/5875303/pexels-photo-5875303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of an open Bible with colorful bookmarks on a wooden desk."
 faq:
   - q: "Is it normal for Christians to struggle with starting a Bible reading habit?"
     a: "Absolutely. The Bible is filled with examples of faithful people who struggled deeply. Struggle doesn't indicate weak faith — it's part of the human experience in a fallen world."
@@ -15,6 +16,8 @@ faq:
   - q: "How can my church community help?"
     a: "Share your struggles with trusted believers. Galatians 6:2 says to 'carry each other's burdens.' Community support, prayer teams, and pastoral care are powerful resources."
 ---
+
+<div style="margin: 2rem 0; padding: 1.2rem; background: linear-gradient(135deg, #fef3c7, #dbeafe); border-radius: 12px; border: 1px solid #e5e7eb; text-align: center;"><div style="font-size: 1.5rem; margin-bottom: 0.5rem;">✝️</div><div style="font-weight: 700; color: #111827; font-size: 1rem;">How to Read the Bible for Beginners: A Step-by-Step Guide</div><div style="color: #6b7280; font-size: 0.8rem; margin-top: 0.3rem;">Faith-Based Guide</div></div>
 
 She sat in the church parking lot for ten minutes before going in. Not because she was early — because she was wrestling. Wrestling with a question millions of Christians face but few discuss openly: how does faith intersect with the messy reality of starting a Bible reading habit?
 

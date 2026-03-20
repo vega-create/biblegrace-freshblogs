@@ -6,7 +6,8 @@ author: "Sarah Mitchell"
 authorId: "sarah-mitchell"
 category: "faith-questions"
 tags: ["alcohol", "bible questions", "christian living", "moderation"]
-image: ""
+image: "https://images.pexels.com/photos/7356461/pexels-photo-7356461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Flat lay of an open Bible with a glass of wine and cookies on a soft textile surface."
 faq:
   - q: "Does the Bible say drinking alcohol is a sin?"
     a: "The Bible does not explicitly call drinking a sin, but consistently warns against drunkenness. Ephesians 5:18 says not to get drunk on wine. The key distinction is between moderate consumption and excess."
@@ -15,6 +16,8 @@ faq:
   - q: "Should Christians avoid alcohol completely?"
     a: "This is a personal conviction. Some choose total abstinence based on Romans 14:21. Others practice moderation. Both positions have biblical support."
 ---
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem;"><div style="padding: 1rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.85rem;">What Scripture Says</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 1rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #1e40af; font-size: 0.85rem;">Practical Guidance</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply it</div></div></div>
 
 When Mark first became a Christian at age 28, he faced an unexpected dilemma at his best friend's wedding. As the waiter offered champagne for the toast, Mark hesitated — was it okay for him to take a sip?
 

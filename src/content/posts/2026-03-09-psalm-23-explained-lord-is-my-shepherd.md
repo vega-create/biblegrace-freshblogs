@@ -6,7 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "bible-study"
 tags: ["psalm 23", "shepherd", "comfort"]
-image: ""
+image: "https://images.pexels.com/photos/6174670/pexels-photo-6174670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A shepherd with sheep on vibrant green hills in Ordu, Turkey."
 faq:
   - q: "What is the main message of Psalm 23?"
     a: "At its core, Psalm 23 reveals God's character — His love, faithfulness, and commitment to His people. Understanding the historical and literary context deepens our appreciation of this truth."
@@ -15,6 +16,8 @@ faq:
   - q: "Can I use this for group Bible study?"
     a: "Absolutely! The questions and insights in this article make excellent discussion starters. Consider reading the passage aloud together, then working through each section."
 ---
+
+<div style="margin: 2rem 0; padding: 1.2rem; background: linear-gradient(135deg, #fef3c7, #dbeafe); border-radius: 12px; border: 1px solid #e5e7eb; text-align: center;"><div style="font-size: 1.5rem; margin-bottom: 0.5rem;">✝️</div><div style="font-weight: 700; color: #111827; font-size: 1rem;">Psalm 23 Explained: The Lord Is My Shepherd</div><div style="color: #6b7280; font-size: 0.8rem; margin-top: 0.3rem;">Faith-Based Guide</div></div>
 
 If you've spent any time in church or browsing inspirational quotes, you've likely encountered Psalm 23. It's printed on mugs, stitched into pillows, and shared millions of times. But have you ever paused to really understand what it means?
 

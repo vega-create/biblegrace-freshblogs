@@ -6,7 +6,8 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "holidays"
 tags: ["easter", "resurrection", "jesus", "hope"]
-image: ""
+image: "https://images.pexels.com/photos/36568626/pexels-photo-36568626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A wooden cross outdoors adorned with a crown of thorns and flowers, symbolizing Easter."
 faq:
   - q: "Why is Easter the most important Christian holiday?"
     a: "Easter celebrates Jesus Christ's resurrection from the dead — the event that validates everything Christianity claims. As Paul wrote in 1 Corinthians 15:17, 'If Christ has not been raised, your faith is futile.' The resurrection is the foundation of Christian hope."
@@ -15,6 +16,8 @@ faq:
   - q: "How can I celebrate Easter more meaningfully?"
     a: "Read the Gospel accounts (Matthew 26-28, Mark 14-16, Luke 22-24, John 18-21). Attend a Good Friday and Easter service. Reflect on what the resurrection means personally. Share the story with family and friends."
 ---
+
+<div style="margin: 2rem 0; padding: 1.2rem; background: linear-gradient(135deg, #fef3c7, #dbeafe); border-radius: 12px; border: 1px solid #e5e7eb; text-align: center;"><div style="font-size: 1.5rem; margin-bottom: 0.5rem;">✝️</div><div style="font-weight: 700; color: #111827; font-size: 1rem;">The True Meaning of Easter: Beyond the Eggs and Bunnies</div><div style="color: #6b7280; font-size: 0.8rem; margin-top: 0.3rem;">Faith-Based Guide</div></div>
 
 For many families, Easter means egg hunts, chocolate bunnies, and spring dresses. There's nothing wrong with those traditions — but somewhere between the pastel decorations and the ham dinner, it's easy to lose sight of what this day is really about. And the real story? It's far more powerful than any tradition could capture.
 

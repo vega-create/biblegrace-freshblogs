@@ -6,7 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "faith-questions"
 tags: ["dating", "relationships", "unequally yoked"]
-image: ""
+image: "https://images.pexels.com/photos/4049005/pexels-photo-4049005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A couple stands in a park, holding hands with a book, symbolizing love and spirituality."
 faq:
   - q: "What is the main biblical perspective on this?"
     a: "The Bible addresses this through multiple passages and principles. Rather than one simple verse, Scripture invites us to consider God's character, the original context, and broader themes of love, wisdom, and faithfulness."
@@ -15,6 +16,8 @@ faq:
   - q: "How should I make my decision?"
     a: "Pray for wisdom (James 1:5), study relevant Scripture in context, seek counsel from mature believers, and examine your heart's motives. God promises to guide those who sincerely seek Him."
 ---
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem;"><div style="padding: 1rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.85rem;">What Scripture Says</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 1rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #1e40af; font-size: 0.85rem;">Practical Guidance</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply it</div></div></div>
 
 When the question first came up at Bible study, the room went quiet. Everyone had an opinion, but nobody was sure what the Bible actually said. It's one of those topics Christians wrestle with — and one that deserves a thoughtful, Scripture-based answer.
 

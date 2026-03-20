@@ -6,7 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "bible-study"
 tags: ["romans 8:28", "sovereignty", "suffering"]
-image: ""
+image: "https://images.pexels.com/photos/5875303/pexels-photo-5875303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of an open Bible with colorful bookmarks on a wooden desk."
 faq:
   - q: "What is the main message of Romans 8:28?"
     a: "At its core, Romans 8:28 reveals God's character — His love, faithfulness, and commitment to His people. Understanding the historical and literary context deepens our appreciation of this truth."
@@ -15,6 +16,8 @@ faq:
   - q: "Can I use this for group Bible study?"
     a: "Absolutely! The questions and insights in this article make excellent discussion starters. Consider reading the passage aloud together, then working through each section."
 ---
+
+<div style="margin: 2rem 0; padding: 1.2rem; background: linear-gradient(135deg, #fef3c7, #dbeafe); border-radius: 12px; border: 1px solid #e5e7eb; text-align: center;"><div style="font-size: 1.5rem; margin-bottom: 0.5rem;">✝️</div><div style="font-weight: 700; color: #111827; font-size: 1rem;">Romans 8:28 Meaning: All Things Work Together for Good</div><div style="color: #6b7280; font-size: 0.8rem; margin-top: 0.3rem;">Faith-Based Guide</div></div>
 
 If you've spent any time in church or browsing inspirational quotes, you've likely encountered Romans 8:28. It's printed on mugs, stitched into pillows, and shared millions of times. But have you ever paused to really understand what it means?
 

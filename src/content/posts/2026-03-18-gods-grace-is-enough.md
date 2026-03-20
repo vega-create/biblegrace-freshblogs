@@ -6,7 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "daily-devotion"
 tags: ["grace", "weakness", "enough"]
-image: ""
+image: "https://images.pexels.com/photos/35980578/pexels-photo-35980578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A single candle glows with Buddha statue in a Seoul temple background."
 faq:
   - q: "How long should I spend on daily devotions?"
     a: "Even 10-15 minutes is meaningful. Consistency matters more than length. Start small and let your devotion time grow naturally as you experience its benefits."
@@ -15,6 +16,8 @@ faq:
   - q: "Can I do devotions at night instead of morning?"
     a: "Absolutely. The best time for devotions is whenever you can be most present and consistent. Some people are morning people; others connect with God best in the evening quiet."
 ---
+
+<div style="margin: 2rem 0; padding: 1.2rem; background: linear-gradient(135deg, #fef3c7, #dbeafe); border-radius: 12px; border: 1px solid #e5e7eb; text-align: center;"><div style="font-size: 1.5rem; margin-bottom: 0.5rem;">✝️</div><div style="font-weight: 700; color: #111827; font-size: 1rem;">God's Grace Is Enough: A Devotion on 2 Corinthians 12:9</div><div style="color: #6b7280; font-size: 0.8rem; margin-top: 0.3rem;">Faith-Based Guide</div></div>
 
 The alarm goes off. The day begins. Before your feet even hit the floor, the weight of the world tries to settle on your shoulders. Bills, relationships, health concerns, the uncertainty of tomorrow — it all rushes in before the coffee is ready.
 

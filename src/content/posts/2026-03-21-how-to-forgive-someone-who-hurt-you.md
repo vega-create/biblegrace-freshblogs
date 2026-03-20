@@ -6,7 +6,8 @@ author: "David Park"
 authorId: "david-park"
 category: "christian-living"
 tags: ["forgiveness", "healing", "relationships"]
-image: ""
+image: "https://images.pexels.com/photos/256809/pexels-photo-256809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A silhouette of a person forming a heart shape with hands against a stunning sunset."
 faq:
   - q: "Is it normal for Christians to struggle with forgiveness and letting go?"
     a: "Absolutely. The Bible is filled with examples of faithful people who struggled deeply. Struggle doesn't indicate weak faith — it's part of the human experience in a fallen world."
@@ -15,6 +16,8 @@ faq:
   - q: "How can my church community help?"
     a: "Share your struggles with trusted believers. Galatians 6:2 says to 'carry each other's burdens.' Community support, prayer teams, and pastoral care are powerful resources."
 ---
+
+<div style="margin: 2rem 0; padding: 1.2rem; background: linear-gradient(135deg, #fef3c7, #dbeafe); border-radius: 12px; border: 1px solid #e5e7eb; text-align: center;"><div style="font-size: 1.5rem; margin-bottom: 0.5rem;">✝️</div><div style="font-weight: 700; color: #111827; font-size: 1rem;">How to Forgive Someone Who Hurt You Deeply</div><div style="color: #6b7280; font-size: 0.8rem; margin-top: 0.3rem;">Faith-Based Guide</div></div>
 
 She sat in the church parking lot for ten minutes before going in. Not because she was early — because she was wrestling. Wrestling with a question millions of Christians face but few discuss openly: how does faith intersect with the messy reality of forgiveness and letting go?
 

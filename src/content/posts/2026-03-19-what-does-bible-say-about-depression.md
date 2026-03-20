@@ -6,7 +6,8 @@ author: "Rachel Adams"
 authorId: "rachel-adams"
 category: "christian-living"
 tags: ["depression", "mental health", "hope"]
-image: ""
+image: "https://images.pexels.com/photos/5699748/pexels-photo-5699748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "High angle of anonymous young black couple in casual clothes spend time together while calming each other in bedroom in daylight"
 faq:
   - q: "Is it normal for Christians to struggle with depression and mental health?"
     a: "Absolutely. The Bible is filled with examples of faithful people who struggled deeply. Struggle doesn't indicate weak faith — it's part of the human experience in a fallen world."
@@ -15,6 +16,8 @@ faq:
   - q: "How can my church community help?"
     a: "Share your struggles with trusted believers. Galatians 6:2 says to 'carry each other's burdens.' Community support, prayer teams, and pastoral care are powerful resources."
 ---
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem;"><div style="padding: 1rem; background: #fef3c7; border-radius: 10px; border: 1px solid #fde68a; text-align: center;"><div style="font-size: 1.3rem;">📖</div><div style="font-weight: 700; color: #92400e; font-size: 0.85rem;">What Scripture Says</div><div style="color: #6b7280; font-size: 0.7rem;">Biblical references</div></div><div style="padding: 1rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-size: 1.3rem;">💡</div><div style="font-weight: 700; color: #1e40af; font-size: 0.85rem;">Practical Guidance</div><div style="color: #6b7280; font-size: 0.7rem;">How to apply it</div></div></div>
 
 She sat in the church parking lot for ten minutes before going in. Not because she was early — because she was wrestling. Wrestling with a question millions of Christians face but few discuss openly: how does faith intersect with the messy reality of depression and mental health?
 
