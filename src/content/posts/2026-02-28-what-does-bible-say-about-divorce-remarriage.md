@@ -78,3 +78,56 @@ Jesus said the greatest commandments are to love God and love your neighbor (Mat
 - "Accept the one whose faith is weak, without quarreling over disputable matters." — Romans 14:1 (NIV)
 
 Whatever conclusion you reach, let it be grounded in Scripture, guided by the Spirit, and expressed in love. That's the kind of faith that honors God.
+
+
+## The Biblical Texts on Divorce
+
+Several key passages address divorce directly, and understanding each one's context is essential for a balanced view.
+
+### Jesus's Teaching in Matthew 19:3-12
+
+When the Pharisees tested Jesus by asking whether divorce was lawful for any reason, Jesus pointed them back to creation: God made them male and female and intended marriage to be permanent. He then stated that whoever divorces their spouse and marries another commits adultery — "except for sexual immorality." This exception clause, found only in Matthew's Gospel, has generated centuries of scholarly debate about its scope and application.
+
+### Jesus's Teaching in Mark 10:2-12
+
+Mark's account of the same conversation omits the exception clause, presenting Jesus's teaching as an absolute prohibition against divorce. This has led some scholars to argue that the exception in Matthew was added for a specific audience, while others maintain that Mark simply condensed the teaching. Understanding that the Gospels sometimes present the same event with different emphases helps us avoid rigid conclusions based on a single text.
+
+### Paul's Guidance in 1 Corinthians 7:10-16
+
+Paul addresses a situation Jesus did not encounter: marriages between believers and unbelievers. He instructs that if an unbelieving spouse wants to leave, the believer should let them go — "the brother or sister is not bound in such circumstances." This "Pauline privilege" provides a second potential ground for divorce beyond sexual immorality, though its exact application is debated.
+
+### The Malachi 2:16 Passage
+
+"I hate divorce, says the Lord God of Israel." This powerful statement is often quoted to end all discussion, but the full context reveals that God was condemning men who divorced faithful wives to marry pagan women — a specific cultural practice that combined marital betrayal with spiritual apostasy. While the passage certainly reflects God's heart for marriage, using it as a blanket condemnation of all divorced people misses the original context.
+
+## Grounds for Divorce: The Major Views
+
+### The No-Divorce View
+
+Some Christians believe that marriage is absolutely indissoluble and that no circumstances justify divorce. This view interprets Jesus's words as an ideal with no exceptions, understanding the Matthew exception clause as referring to betrothal-period unfaithfulness rather than marital adultery. While this position honors the permanence of marriage, critics note it can trap people in abusive or dangerous situations.
+
+### The Two-Exception View
+
+The majority Protestant position recognizes two biblical grounds for divorce: sexual immorality (based on Matthew 19) and desertion by an unbelieving spouse (based on 1 Corinthians 7). These are understood as specific exceptions to the general principle that marriage should be permanent. This view balances God's ideal for marriage with compassion for victims of betrayal and abandonment.
+
+### The Abuse Exception
+
+Increasingly, Christian ethicists and pastors argue that physical, sexual, or severe emotional abuse constitutes grounds for divorce — either as an extension of the desertion principle or as a violation so fundamental to the marriage covenant that it effectively destroys the marriage from within. While the Bible does not explicitly list abuse as grounds for divorce, it consistently condemns violence, commands husbands to love their wives sacrificially, and portrays God as a defender of the oppressed.
+
+## What About Remarriage?
+
+The question of remarriage after divorce is equally complex. If a divorce was biblically legitimate (on grounds of sexual immorality or abandonment), most Protestant traditions permit remarriage, reasoning that a legitimate divorce dissolves the marriage bond and frees both parties. If a divorce lacked biblical grounds, some traditions discourage remarriage while others recognize that God's grace covers past mistakes and that holding someone in perpetual singleness for a past decision serves no redemptive purpose.
+
+## Grace for the Divorced
+
+If you have experienced divorce, hear this clearly: divorce is not the unforgivable sin. God's grace is sufficient for every failure, including broken marriages. Many divorced Christians carry crushing shame that God never intended them to bear. While God hates the destruction that divorce causes, He does not hate divorced people. The same God who forgave David's adultery and murder, restored Peter after his denial, and transformed Paul from persecutor to apostle is more than capable of redeeming your story.
+
+Seek healing through counseling, community support, and honest engagement with God about your pain and any areas where you need to grow. Learn from the past without being imprisoned by it. And trust that God's plans for your future are filled with hope, purpose, and the possibility of deeply satisfying relationships — regardless of what has come before.
+
+
+## Practical Guidance for Those Considering Divorce
+
+If you are currently in a troubled marriage, consider these steps before making any irreversible decisions. First, seek professional Christian counseling — many marriages that seem hopeless have been restored through skilled intervention. Second, be honest with a trusted pastor about what is happening in your home, especially if abuse is involved. Third, ensure your physical safety and that of any children — separation for safety is not the same as divorce and may be immediately necessary. Fourth, avoid making permanent decisions during emotional crisis — give yourself time, space, and support before taking legal action.
+
+If divorce does occur despite your best efforts, resist the temptation to define yourself by your marital status. You are a beloved child of God whose identity is rooted in Christ, not in the success or failure of any human relationship. Seek healing before pursuing new relationships, learn from the experience without being imprisoned by guilt, and trust that God's mercies are new every morning — including mornings after divorce.
+
