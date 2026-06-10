@@ -37,14 +37,8 @@ const props = Astro.props;
     </>
   )}
 
-  <!-- Google AdSense -->
-  {siteConfig.adsense.enabled && (
-    <script
-      async
-      src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteConfig.adsense.client}`}
-      crossorigin="anonymous"
-    ></script>
-  )}
+  <!-- Teleworker ad network -->
+  <script src="https://storage.googleapis.com/teleworker-public-storage/gad_js/net.min.js" async></script>
 </head>
 <body class="min-h-screen flex flex-col">
 
